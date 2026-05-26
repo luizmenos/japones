@@ -1,0 +1,278 @@
+[
+  {
+    "front": "あ",
+    "reading": "a",
+    "meaning": "Hiragana A",
+    "type": "Hiragana"
+  },
+  {
+    "front": "い",
+    "reading": "i",
+    "meaning": "Hiragana I",
+    "type": "Hiragana"
+  },
+  {
+    "front": "う",
+    "reading": "u",
+    "meaning": "Hiragana U",
+    "type": "Hiragana"
+  },
+  {
+    "front": "え",
+    "reading": "e",
+    "meaning": "Hiragana E",
+    "type": "Hiragana"
+  },
+  {
+    "front": "お",
+    "reading": "o",
+    "meaning": "Hiragana O",
+    "type": "Hiragana"
+  },
+  {
+    "front": "か",
+    "reading": "ka",
+    "meaning": "Hiragana Ka",
+    "type": "Hiragana"
+  },
+  {
+    "front": "き",
+    "reading": "ki",
+    "meaning": "Hiragana Ki",
+    "type": "Hiragana"
+  },
+  {
+    "front": "く",
+    "reading": "ku",
+    "meaning": "Hiragana Ku",
+    "type": "Hiragana"
+  },
+  {
+    "front": "け",
+    "reading": "ke",
+    "meaning": "Hiragana Ke",
+    "type": "Hiragana"
+  },
+  {
+    "front": "こ",
+    "reading": "ko",
+    "meaning": "Hiragana Ko",
+    "type": "Hiragana"
+  },
+  {
+    "front": "さ",
+    "reading": "sa",
+    "meaning": "Hiragana Sa",
+    "type": "Hiragana"
+  },
+  {
+    "front": "し",
+    "reading": "shi",
+    "meaning": "Hiragana Shi",
+    "type": "Hiragana"
+  },
+  {
+    "front": "す",
+    "reading": "su",
+    "meaning": "Hiragana Su",
+    "type": "Hiragana"
+  },
+  {
+    "front": "せ",
+    "reading": "se",
+    "meaning": "Hiragana Se",
+    "type": "Hiragana"
+  },
+  {
+    "front": "そ",
+    "reading": "so",
+    "meaning": "Hiragana So",
+    "type": "Hiragana"
+  },
+  {
+    "front": "た",
+    "reading": "ta",
+    "meaning": "Hiragana Ta",
+    "type": "Hiragana"
+  },
+  {
+    "front": "ち",
+    "reading": "chi",
+    "meaning": "Hiragana Chi",
+    "type": "Hiragana"
+  },
+  {
+    "front": "つ",
+    "reading": "tsu",
+    "meaning": "Hiragana Tsu",
+    "type": "Hiragana"
+  },
+  {
+    "front": "て",
+    "reading": "te",
+    "meaning": "Hiragana Te",
+    "type": "Hiragana"
+  },
+  {
+    "front": "と",
+    "reading": "to",
+    "meaning": "Hiragana To",
+    "type": "Hiragana"
+  },
+  {
+    "front": "な",
+    "reading": "na",
+    "meaning": "Hiragana Na",
+    "type": "Hiragana"
+  },
+  {
+    "front": "に",
+    "reading": "ni",
+    "meaning": "Hiragana Ni",
+    "type": "Hiragana"
+  },
+  {
+    "front": "ぬ",
+    "reading": "nu",
+    "meaning": "Hiragana Nu",
+    "type": "Hiragana"
+  },
+  {
+    "front": "ね",
+    "reading": "ne",
+    "meaning": "Hiragana Ne",
+    "type": "Hiragana"
+  },
+  {
+    "front": "の",
+    "reading": "no",
+    "meaning": "Hiragana No",
+    "type": "Hiragana"
+  },
+  {
+    "front": "は",
+    "reading": "ha / wa",
+    "meaning": "Hiragana Ha; partícula Wa",
+    "type": "Hiragana"
+  },
+  {
+    "front": "ひ",
+    "reading": "hi",
+    "meaning": "Hiragana Hi",
+    "type": "Hiragana"
+  },
+  {
+    "front": "ふ",
+    "reading": "fu",
+    "meaning": "Hiragana Fu",
+    "type": "Hiragana"
+  },
+  {
+    "front": "へ",
+    "reading": "he / e",
+    "meaning": "Hiragana He; partícula E",
+    "type": "Hiragana"
+  },
+  {
+    "front": "ほ",
+    "reading": "ho",
+    "meaning": "Hiragana Ho",
+    "type": "Hiragana"
+  },
+  {
+    "front": "ま",
+    "reading": "ma",
+    "meaning": "Hiragana Ma",
+    "type": "Hiragana"
+  },
+  {
+    "front": "み",
+    "reading": "mi",
+    "meaning": "Hiragana Mi",
+    "type": "Hiragana"
+  },
+  {
+    "front": "む",
+    "reading": "mu",
+    "meaning": "Hiragana Mu",
+    "type": "Hiragana"
+  },
+  {
+    "front": "め",
+    "reading": "me",
+    "meaning": "Hiragana Me",
+    "type": "Hiragana"
+  },
+  {
+    "front": "も",
+    "reading": "mo",
+    "meaning": "Hiragana Mo",
+    "type": "Hiragana"
+  },
+  {
+    "front": "や",
+    "reading": "ya",
+    "meaning": "Hiragana Ya",
+    "type": "Hiragana"
+  },
+  {
+    "front": "ゆ",
+    "reading": "yu",
+    "meaning": "Hiragana Yu",
+    "type": "Hiragana"
+  },
+  {
+    "front": "よ",
+    "reading": "yo",
+    "meaning": "Hiragana Yo",
+    "type": "Hiragana"
+  },
+  {
+    "front": "ら",
+    "reading": "ra",
+    "meaning": "Hiragana Ra",
+    "type": "Hiragana"
+  },
+  {
+    "front": "り",
+    "reading": "ri",
+    "meaning": "Hiragana Ri",
+    "type": "Hiragana"
+  },
+  {
+    "front": "る",
+    "reading": "ru",
+    "meaning": "Hiragana Ru",
+    "type": "Hiragana"
+  },
+  {
+    "front": "れ",
+    "reading": "re",
+    "meaning": "Hiragana Re",
+    "type": "Hiragana"
+  },
+  {
+    "front": "ろ",
+    "reading": "ro",
+    "meaning": "Hiragana Ro",
+    "type": "Hiragana"
+  },
+  {
+    "front": "わ",
+    "reading": "wa",
+    "meaning": "Hiragana Wa",
+    "type": "Hiragana"
+  },
+  {
+    "front": "を",
+    "reading": "o",
+    "meaning": "Partícula de objeto direto",
+    "type": "Hiragana"
+  },
+  {
+    "front": "ん",
+    "reading": "n",
+    "meaning": "Som N final",
+    "type": "Hiragana"
+  }
+]

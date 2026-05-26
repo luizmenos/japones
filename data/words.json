@@ -1,0 +1,242 @@
+[
+  {
+    "front": "はい",
+    "reading": "hai",
+    "meaning": "Sim",
+    "type": "Palavra"
+  },
+  {
+    "front": "いいえ",
+    "reading": "iie",
+    "meaning": "Não",
+    "type": "Palavra"
+  },
+  {
+    "front": "どこ",
+    "reading": "doko",
+    "meaning": "Onde?",
+    "type": "Palavra"
+  },
+  {
+    "front": "いくら",
+    "reading": "ikura",
+    "meaning": "Quanto custa?",
+    "type": "Palavra"
+  },
+  {
+    "front": "これ",
+    "reading": "kore",
+    "meaning": "Isto aqui",
+    "type": "Palavra"
+  },
+  {
+    "front": "それ",
+    "reading": "sore",
+    "meaning": "Isso aí",
+    "type": "Palavra"
+  },
+  {
+    "front": "あれ",
+    "reading": "are",
+    "meaning": "Aquilo lá",
+    "type": "Palavra"
+  },
+  {
+    "front": "トイレ",
+    "reading": "toire",
+    "meaning": "Banheiro",
+    "type": "Palavra"
+  },
+  {
+    "front": "水",
+    "reading": "みず (mizu)",
+    "meaning": "Água",
+    "type": "Palavra"
+  },
+  {
+    "front": "駅",
+    "reading": "えき (eki)",
+    "meaning": "Estação",
+    "type": "Palavra"
+  },
+  {
+    "front": "だれ",
+    "reading": "dare",
+    "meaning": "Quem?",
+    "type": "Palavra"
+  },
+  {
+    "front": "なに",
+    "reading": "nani",
+    "meaning": "O quê?",
+    "type": "Palavra"
+  },
+  {
+    "front": "いつ",
+    "reading": "itsu",
+    "meaning": "Quando?",
+    "type": "Palavra"
+  },
+  {
+    "front": "どうして",
+    "reading": "doushite",
+    "meaning": "Por quê?",
+    "type": "Palavra"
+  },
+  {
+    "front": "どうやって",
+    "reading": "dou yatte",
+    "meaning": "Como?",
+    "type": "Palavra"
+  },
+  {
+    "front": "ここ",
+    "reading": "koko",
+    "meaning": "Aqui",
+    "type": "Palavra"
+  },
+  {
+    "front": "そこ",
+    "reading": "soko",
+    "meaning": "Aí",
+    "type": "Palavra"
+  },
+  {
+    "front": "あそこ",
+    "reading": "asoko",
+    "meaning": "Lá",
+    "type": "Palavra"
+  },
+  {
+    "front": "右",
+    "reading": "みぎ (migi)",
+    "meaning": "Direita",
+    "type": "Palavra"
+  },
+  {
+    "front": "左",
+    "reading": "ひだり (hidari)",
+    "meaning": "Esquerda",
+    "type": "Palavra"
+  },
+  {
+    "front": "前",
+    "reading": "まえ (mae)",
+    "meaning": "Em frente / antes",
+    "type": "Palavra"
+  },
+  {
+    "front": "後ろ",
+    "reading": "うしろ (ushiro)",
+    "meaning": "Atrás",
+    "type": "Palavra"
+  },
+  {
+    "front": "近く",
+    "reading": "ちかく (chikaku)",
+    "meaning": "Perto",
+    "type": "Palavra"
+  },
+  {
+    "front": "遠い",
+    "reading": "とおい (tooi)",
+    "meaning": "Longe",
+    "type": "Palavra"
+  },
+  {
+    "front": "今日",
+    "reading": "きょう (kyou)",
+    "meaning": "Hoje",
+    "type": "Palavra"
+  },
+  {
+    "front": "明日",
+    "reading": "あした (ashita)",
+    "meaning": "Amanhã",
+    "type": "Palavra"
+  },
+  {
+    "front": "昨日",
+    "reading": "きのう (kinou)",
+    "meaning": "Ontem",
+    "type": "Palavra"
+  },
+  {
+    "front": "朝",
+    "reading": "あさ (asa)",
+    "meaning": "Manhã",
+    "type": "Palavra"
+  },
+  {
+    "front": "昼",
+    "reading": "ひる (hiru)",
+    "meaning": "Meio-dia / tarde",
+    "type": "Palavra"
+  },
+  {
+    "front": "夜",
+    "reading": "よる (yoru)",
+    "meaning": "Noite",
+    "type": "Palavra"
+  },
+  {
+    "front": "ご飯",
+    "reading": "ごはん (gohan)",
+    "meaning": "Arroz / refeição",
+    "type": "Palavra"
+  },
+  {
+    "front": "肉",
+    "reading": "にく (niku)",
+    "meaning": "Carne",
+    "type": "Palavra"
+  },
+  {
+    "front": "魚",
+    "reading": "さかな (sakana)",
+    "meaning": "Peixe",
+    "type": "Palavra"
+  },
+  {
+    "front": "野菜",
+    "reading": "やさい (yasai)",
+    "meaning": "Legumes / vegetais",
+    "type": "Palavra"
+  },
+  {
+    "front": "お茶",
+    "reading": "おちゃ (ocha)",
+    "meaning": "Chá",
+    "type": "Palavra"
+  },
+  {
+    "front": "コーヒー",
+    "reading": "koohii",
+    "meaning": "Café",
+    "type": "Palavra"
+  },
+  {
+    "front": "ホテル",
+    "reading": "hoteru",
+    "meaning": "Hotel",
+    "type": "Palavra"
+  },
+  {
+    "front": "空港",
+    "reading": "くうこう (kuukou)",
+    "meaning": "Aeroporto",
+    "type": "Palavra"
+  },
+  {
+    "front": "病院",
+    "reading": "びょういん (byouin)",
+    "meaning": "Hospital",
+    "type": "Palavra"
+  },
+  {
+    "front": "薬局",
+    "reading": "やっきょく (yakkyoku)",
+    "meaning": "Farmácia",
+    "type": "Palavra"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "front": "食べる",
+    "reading": "たべる (taberu)",
+    "meaning": "Comer",
+    "type": "Verbo"
+  },
+  {
+    "front": "飲む",
+    "reading": "のむ (nomu)",
+    "meaning": "Beber",
+    "type": "Verbo"
+  },
+  {
+    "front": "行く",
+    "reading": "いく (iku)",
+    "meaning": "Ir",
+    "type": "Verbo"
+  },
+  {
+    "front": "見る",
+    "reading": "みる (miru)",
+    "meaning": "Ver / olhar",
+    "type": "Verbo"
+  },
+  {
+    "front": "する",
+    "reading": "suru",
+    "meaning": "Fazer",
+    "type": "Verbo"
+  },
+  {
+    "front": "来る",
+    "reading": "くる (kuru)",
+    "meaning": "Vir",
+    "type": "Verbo"
+  },
+  {
+    "front": "買う",
+    "reading": "かう (kau)",
+    "meaning": "Comprar",
+    "type": "Verbo"
+  },
+  {
+    "front": "待つ",
+    "reading": "まつ (matsu)",
+    "meaning": "Esperar",
+    "type": "Verbo"
+  },
+  {
+    "front": "わかる",
+    "reading": "wakaru",
+    "meaning": "Entender",
+    "type": "Verbo"
+  },
+  {
+    "front": "話す",
+    "reading": "はなす (hanasu)",
+    "meaning": "Falar",
+    "type": "Verbo"
+  },
+  {
+    "front": "聞く",
+    "reading": "きく (kiku)",
+    "meaning": "Ouvir / perguntar",
+    "type": "Verbo"
+  },
+  {
+    "front": "読む",
+    "reading": "よむ (yomu)",
+    "meaning": "Ler",
+    "type": "Verbo"
+  },
+  {
+    "front": "書く",
+    "reading": "かく (kaku)",
+    "meaning": "Escrever",
+    "type": "Verbo"
+  },
+  {
+    "front": "帰る",
+    "reading": "かえる (kaeru)",
+    "meaning": "Voltar para casa",
+    "type": "Verbo"
+  },
+  {
+    "front": "入る",
+    "reading": "はいる (hairu)",
+    "meaning": "Entrar",
+    "type": "Verbo"
+  },
+  {
+    "front": "出る",
+    "reading": "でる (deru)",
+    "meaning": "Sair",
+    "type": "Verbo"
+  },
+  {
+    "front": "寝る",
+    "reading": "ねる (neru)",
+    "meaning": "Dormir",
+    "type": "Verbo"
+  },
+  {
+    "front": "起きる",
+    "reading": "おきる (okiru)",
+    "meaning": "Acordar / levantar",
+    "type": "Verbo"
+  },
+  {
+    "front": "使う",
+    "reading": "つかう (tsukau)",
+    "meaning": "Usar",
+    "type": "Verbo"
+  },
+  {
+    "front": "働く",
+    "reading": "はたらく (hataraku)",
+    "meaning": "Trabalhar",
+    "type": "Verbo"
+  },
+  {
+    "front": "休む",
+    "reading": "やすむ (yasumu)",
+    "meaning": "Descansar / faltar",
+    "type": "Verbo"
+  },
+  {
+    "front": "会う",
+    "reading": "あう (au)",
+    "meaning": "Encontrar alguém",
+    "type": "Verbo"
+  },
+  {
+    "front": "持つ",
+    "reading": "もつ (motsu)",
+    "meaning": "Segurar / ter consigo",
+    "type": "Verbo"
+  },
+  {
+    "front": "忘れる",
+    "reading": "わすれる (wasureru)",
+    "meaning": "Esquecer",
+    "type": "Verbo"
+  },
+  {
+    "front": "教える",
+    "reading": "おしえる (oshieru)",
+    "meaning": "Ensinar / informar",
+    "type": "Verbo"
+  }
+]

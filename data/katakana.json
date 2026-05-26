@@ -1,0 +1,278 @@
+[
+  {
+    "front": "ア",
+    "reading": "a",
+    "meaning": "Katakana A",
+    "type": "Katakana"
+  },
+  {
+    "front": "イ",
+    "reading": "i",
+    "meaning": "Katakana I",
+    "type": "Katakana"
+  },
+  {
+    "front": "ウ",
+    "reading": "u",
+    "meaning": "Katakana U",
+    "type": "Katakana"
+  },
+  {
+    "front": "エ",
+    "reading": "e",
+    "meaning": "Katakana E",
+    "type": "Katakana"
+  },
+  {
+    "front": "オ",
+    "reading": "o",
+    "meaning": "Katakana O",
+    "type": "Katakana"
+  },
+  {
+    "front": "カ",
+    "reading": "ka",
+    "meaning": "Katakana Ka",
+    "type": "Katakana"
+  },
+  {
+    "front": "キ",
+    "reading": "ki",
+    "meaning": "Katakana Ki",
+    "type": "Katakana"
+  },
+  {
+    "front": "ク",
+    "reading": "ku",
+    "meaning": "Katakana Ku",
+    "type": "Katakana"
+  },
+  {
+    "front": "ケ",
+    "reading": "ke",
+    "meaning": "Katakana Ke",
+    "type": "Katakana"
+  },
+  {
+    "front": "コ",
+    "reading": "ko",
+    "meaning": "Katakana Ko",
+    "type": "Katakana"
+  },
+  {
+    "front": "サ",
+    "reading": "sa",
+    "meaning": "Katakana Sa",
+    "type": "Katakana"
+  },
+  {
+    "front": "シ",
+    "reading": "shi",
+    "meaning": "Katakana Shi",
+    "type": "Katakana"
+  },
+  {
+    "front": "ス",
+    "reading": "su",
+    "meaning": "Katakana Su",
+    "type": "Katakana"
+  },
+  {
+    "front": "セ",
+    "reading": "se",
+    "meaning": "Katakana Se",
+    "type": "Katakana"
+  },
+  {
+    "front": "ソ",
+    "reading": "so",
+    "meaning": "Katakana So",
+    "type": "Katakana"
+  },
+  {
+    "front": "タ",
+    "reading": "ta",
+    "meaning": "Katakana Ta",
+    "type": "Katakana"
+  },
+  {
+    "front": "チ",
+    "reading": "chi",
+    "meaning": "Katakana Chi",
+    "type": "Katakana"
+  },
+  {
+    "front": "ツ",
+    "reading": "tsu",
+    "meaning": "Katakana Tsu",
+    "type": "Katakana"
+  },
+  {
+    "front": "テ",
+    "reading": "te",
+    "meaning": "Katakana Te",
+    "type": "Katakana"
+  },
+  {
+    "front": "ト",
+    "reading": "to",
+    "meaning": "Katakana To",
+    "type": "Katakana"
+  },
+  {
+    "front": "ナ",
+    "reading": "na",
+    "meaning": "Katakana Na",
+    "type": "Katakana"
+  },
+  {
+    "front": "ニ",
+    "reading": "ni",
+    "meaning": "Katakana Ni",
+    "type": "Katakana"
+  },
+  {
+    "front": "ヌ",
+    "reading": "nu",
+    "meaning": "Katakana Nu",
+    "type": "Katakana"
+  },
+  {
+    "front": "ネ",
+    "reading": "ne",
+    "meaning": "Katakana Ne",
+    "type": "Katakana"
+  },
+  {
+    "front": "ノ",
+    "reading": "no",
+    "meaning": "Katakana No",
+    "type": "Katakana"
+  },
+  {
+    "front": "ハ",
+    "reading": "ha",
+    "meaning": "Katakana Ha",
+    "type": "Katakana"
+  },
+  {
+    "front": "ヒ",
+    "reading": "hi",
+    "meaning": "Katakana Hi",
+    "type": "Katakana"
+  },
+  {
+    "front": "フ",
+    "reading": "fu",
+    "meaning": "Katakana Fu",
+    "type": "Katakana"
+  },
+  {
+    "front": "ヘ",
+    "reading": "he",
+    "meaning": "Katakana He",
+    "type": "Katakana"
+  },
+  {
+    "front": "ホ",
+    "reading": "ho",
+    "meaning": "Katakana Ho",
+    "type": "Katakana"
+  },
+  {
+    "front": "マ",
+    "reading": "ma",
+    "meaning": "Katakana Ma",
+    "type": "Katakana"
+  },
+  {
+    "front": "ミ",
+    "reading": "mi",
+    "meaning": "Katakana Mi",
+    "type": "Katakana"
+  },
+  {
+    "front": "ム",
+    "reading": "mu",
+    "meaning": "Katakana Mu",
+    "type": "Katakana"
+  },
+  {
+    "front": "メ",
+    "reading": "me",
+    "meaning": "Katakana Me",
+    "type": "Katakana"
+  },
+  {
+    "front": "モ",
+    "reading": "mo",
+    "meaning": "Katakana Mo",
+    "type": "Katakana"
+  },
+  {
+    "front": "ヤ",
+    "reading": "ya",
+    "meaning": "Katakana Ya",
+    "type": "Katakana"
+  },
+  {
+    "front": "ユ",
+    "reading": "yu",
+    "meaning": "Katakana Yu",
+    "type": "Katakana"
+  },
+  {
+    "front": "ヨ",
+    "reading": "yo",
+    "meaning": "Katakana Yo",
+    "type": "Katakana"
+  },
+  {
+    "front": "ラ",
+    "reading": "ra",
+    "meaning": "Katakana Ra",
+    "type": "Katakana"
+  },
+  {
+    "front": "リ",
+    "reading": "ri",
+    "meaning": "Katakana Ri",
+    "type": "Katakana"
+  },
+  {
+    "front": "ル",
+    "reading": "ru",
+    "meaning": "Katakana Ru",
+    "type": "Katakana"
+  },
+  {
+    "front": "レ",
+    "reading": "re",
+    "meaning": "Katakana Re",
+    "type": "Katakana"
+  },
+  {
+    "front": "ロ",
+    "reading": "ro",
+    "meaning": "Katakana Ro",
+    "type": "Katakana"
+  },
+  {
+    "front": "ワ",
+    "reading": "wa",
+    "meaning": "Katakana Wa",
+    "type": "Katakana"
+  },
+  {
+    "front": "ヲ",
+    "reading": "o",
+    "meaning": "Katakana Wo/O",
+    "type": "Katakana"
+  },
+  {
+    "front": "ン",
+    "reading": "n",
+    "meaning": "Som N final",
+    "type": "Katakana"
+  }
+]

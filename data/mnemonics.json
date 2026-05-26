@@ -1,0 +1,278 @@
+[
+  {
+    "symbol": "あ",
+    "reading": "a",
+    "type": "Hiragana",
+    "hint": "Parece uma antena enrolada fazendo o som aberto de \"a\"."
+  },
+  {
+    "symbol": "い",
+    "reading": "i",
+    "type": "Hiragana",
+    "hint": "Dois tracinhos em pé, como duas pessoas dizendo \"i\"."
+  },
+  {
+    "symbol": "う",
+    "reading": "u",
+    "type": "Hiragana",
+    "hint": "Parece uma boquinha fazendo \"u\"."
+  },
+  {
+    "symbol": "え",
+    "reading": "e",
+    "type": "Hiragana",
+    "hint": "Imagine um elevador tortinho: \"e\" de elevador."
+  },
+  {
+    "symbol": "お",
+    "reading": "o",
+    "type": "Hiragana",
+    "hint": "Tem uma argola, lembrando a boca redonda do som \"o\"."
+  },
+  {
+    "symbol": "か",
+    "reading": "ka",
+    "type": "Hiragana",
+    "hint": "Parece uma faca cortando: ka, corte seco."
+  },
+  {
+    "symbol": "き",
+    "reading": "ki",
+    "type": "Hiragana",
+    "hint": "Parece uma chave com dois dentes: \"ki\" de key."
+  },
+  {
+    "symbol": "く",
+    "reading": "ku",
+    "type": "Hiragana",
+    "hint": "Parece um bico curvado fazendo \"ku\"."
+  },
+  {
+    "symbol": "け",
+    "reading": "ke",
+    "type": "Hiragana",
+    "hint": "Imagine uma cerca simples: \"ke\" de cerca."
+  },
+  {
+    "symbol": "こ",
+    "reading": "ko",
+    "type": "Hiragana",
+    "hint": "Duas linhas como uma coisa pequena: \"ko\"."
+  },
+  {
+    "symbol": "さ",
+    "reading": "sa",
+    "type": "Hiragana",
+    "hint": "Parece uma espada com corte solto: \"sa\"."
+  },
+  {
+    "symbol": "し",
+    "reading": "shi",
+    "type": "Hiragana",
+    "hint": "Parece um anzol puxando em silêncio: \"shi\"."
+  },
+  {
+    "symbol": "す",
+    "reading": "su",
+    "type": "Hiragana",
+    "hint": "O laço lembra um redemoinho de sopa: \"su\"."
+  },
+  {
+    "symbol": "せ",
+    "reading": "se",
+    "type": "Hiragana",
+    "hint": "Parece alguém sentado: \"se\"."
+  },
+  {
+    "symbol": "そ",
+    "reading": "so",
+    "type": "Hiragana",
+    "hint": "Parece uma linha soltando e virando som de \"so\"."
+  },
+  {
+    "symbol": "た",
+    "reading": "ta",
+    "type": "Hiragana",
+    "hint": "Um \"t\" com traço extra: ta."
+  },
+  {
+    "symbol": "ち",
+    "reading": "chi",
+    "type": "Hiragana",
+    "hint": "Parece o número 5 virando: chi."
+  },
+  {
+    "symbol": "つ",
+    "reading": "tsu",
+    "type": "Hiragana",
+    "hint": "Uma onda grande fazendo \"tsu\"."
+  },
+  {
+    "symbol": "て",
+    "reading": "te",
+    "type": "Hiragana",
+    "hint": "Parece uma mão simples: \"te\" significa mão em japonês."
+  },
+  {
+    "symbol": "と",
+    "reading": "to",
+    "type": "Hiragana",
+    "hint": "Um toquinho com gancho: \"to\"."
+  },
+  {
+    "symbol": "ア",
+    "reading": "a",
+    "type": "Katakana",
+    "hint": "Parece um A aberto e angular."
+  },
+  {
+    "symbol": "イ",
+    "reading": "i",
+    "type": "Katakana",
+    "hint": "Dois traços retos, magros como o som \"i\"."
+  },
+  {
+    "symbol": "ウ",
+    "reading": "u",
+    "type": "Katakana",
+    "hint": "Parece uma coroa pequena arredondando o som \"u\"."
+  },
+  {
+    "symbol": "エ",
+    "reading": "e",
+    "type": "Katakana",
+    "hint": "Lembra um trilho de elevador: \"e\"."
+  },
+  {
+    "symbol": "オ",
+    "reading": "o",
+    "type": "Katakana",
+    "hint": "Parece alguém abrindo os braços e dizendo \"o\"."
+  },
+  {
+    "symbol": "カ",
+    "reading": "ka",
+    "type": "Katakana",
+    "hint": "Parece a lâmina de uma katana: ka."
+  },
+  {
+    "symbol": "キ",
+    "reading": "ki",
+    "type": "Katakana",
+    "hint": "Parece uma key/chave estilizada: ki."
+  },
+  {
+    "symbol": "ク",
+    "reading": "ku",
+    "type": "Katakana",
+    "hint": "Um bico angular fazendo \"ku\"."
+  },
+  {
+    "symbol": "ケ",
+    "reading": "ke",
+    "type": "Katakana",
+    "hint": "Parece uma pessoa chutando: ke."
+  },
+  {
+    "symbol": "コ",
+    "reading": "ko",
+    "type": "Katakana",
+    "hint": "Um canto quadrado, compacto: ko."
+  },
+  {
+    "symbol": "山",
+    "reading": "やま (yama)",
+    "type": "Kanji",
+    "hint": "Três picos desenhados: montanha."
+  },
+  {
+    "symbol": "川",
+    "reading": "かわ (kawa)",
+    "type": "Kanji",
+    "hint": "Três linhas correndo lado a lado: rio."
+  },
+  {
+    "symbol": "日",
+    "reading": "ひ / にち (hi/nichi)",
+    "type": "Kanji",
+    "hint": "Um sol em forma de janela: dia ou sol."
+  },
+  {
+    "symbol": "月",
+    "reading": "つき (tsuki)",
+    "type": "Kanji",
+    "hint": "Uma lua vertical com duas marcas internas."
+  },
+  {
+    "symbol": "火",
+    "reading": "ひ (hi)",
+    "type": "Kanji",
+    "hint": "Parece chamas subindo: fogo."
+  },
+  {
+    "symbol": "水",
+    "reading": "みず (mizu)",
+    "type": "Kanji",
+    "hint": "Traços como água espirrando para os lados."
+  },
+  {
+    "symbol": "木",
+    "reading": "き (ki)",
+    "type": "Kanji",
+    "hint": "Um tronco com galhos: árvore."
+  },
+  {
+    "symbol": "林",
+    "reading": "はやし (hayashi)",
+    "type": "Kanji",
+    "hint": "Duas árvores juntas: bosque."
+  },
+  {
+    "symbol": "森",
+    "reading": "もり (mori)",
+    "type": "Kanji",
+    "hint": "Três árvores juntas: floresta."
+  },
+  {
+    "symbol": "口",
+    "reading": "くち (kuchi)",
+    "type": "Kanji",
+    "hint": "Um quadrado aberto como uma boca."
+  },
+  {
+    "symbol": "目",
+    "reading": "め (me)",
+    "type": "Kanji",
+    "hint": "Um olho desenhado em pé."
+  },
+  {
+    "symbol": "人",
+    "reading": "ひと (hito)",
+    "type": "Kanji",
+    "hint": "Duas pernas andando: pessoa."
+  },
+  {
+    "symbol": "大",
+    "reading": "おおきい (ookii)",
+    "type": "Kanji",
+    "hint": "Pessoa com braços abertos: grande."
+  },
+  {
+    "symbol": "小",
+    "reading": "ちいさい (chiisai)",
+    "type": "Kanji",
+    "hint": "Três tracinhos pequenos: pequeno."
+  },
+  {
+    "symbol": "上",
+    "reading": "うえ (ue)",
+    "type": "Kanji",
+    "hint": "O traço principal está acima da linha: em cima."
+  },
+  {
+    "symbol": "下",
+    "reading": "した (shita)",
+    "type": "Kanji",
+    "hint": "O traço aponta para baixo da linha: embaixo."
+  }
+]

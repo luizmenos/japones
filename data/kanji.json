@@ -1,0 +1,314 @@
+[
+  {
+    "front": "一",
+    "reading": "いち (ichi)",
+    "meaning": "Um (1)",
+    "type": "Kanji"
+  },
+  {
+    "front": "二",
+    "reading": "に (ni)",
+    "meaning": "Dois (2)",
+    "type": "Kanji"
+  },
+  {
+    "front": "三",
+    "reading": "さん (san)",
+    "meaning": "Três (3)",
+    "type": "Kanji"
+  },
+  {
+    "front": "四",
+    "reading": "よん / し (yon/shi)",
+    "meaning": "Quatro (4)",
+    "type": "Kanji"
+  },
+  {
+    "front": "五",
+    "reading": "ご (go)",
+    "meaning": "Cinco (5)",
+    "type": "Kanji"
+  },
+  {
+    "front": "六",
+    "reading": "ろく (roku)",
+    "meaning": "Seis (6)",
+    "type": "Kanji"
+  },
+  {
+    "front": "七",
+    "reading": "なな / しち (nana/shichi)",
+    "meaning": "Sete (7)",
+    "type": "Kanji"
+  },
+  {
+    "front": "八",
+    "reading": "はち (hachi)",
+    "meaning": "Oito (8)",
+    "type": "Kanji"
+  },
+  {
+    "front": "九",
+    "reading": "きゅう (kyuu)",
+    "meaning": "Nove (9)",
+    "type": "Kanji"
+  },
+  {
+    "front": "十",
+    "reading": "じゅう (juu)",
+    "meaning": "Dez (10)",
+    "type": "Kanji"
+  },
+  {
+    "front": "百",
+    "reading": "ひゃく (hyaku)",
+    "meaning": "Cento / Cem (100)",
+    "type": "Kanji"
+  },
+  {
+    "front": "円",
+    "reading": "えん (en)",
+    "meaning": "Iene / dinheiro",
+    "type": "Kanji"
+  },
+  {
+    "front": "駅",
+    "reading": "えき (eki)",
+    "meaning": "Estação",
+    "type": "Kanji"
+  },
+  {
+    "front": "店",
+    "reading": "みせ (mise)",
+    "meaning": "Loja",
+    "type": "Kanji"
+  },
+  {
+    "front": "前",
+    "reading": "まえ (mae)",
+    "meaning": "Frente / antes",
+    "type": "Kanji"
+  },
+  {
+    "front": "後",
+    "reading": "あと / うしろ (ato/ushiro)",
+    "meaning": "Depois / atrás",
+    "type": "Kanji"
+  },
+  {
+    "front": "山",
+    "reading": "やま (yama)",
+    "meaning": "Montanha",
+    "type": "Kanji"
+  },
+  {
+    "front": "川",
+    "reading": "かわ (kawa)",
+    "meaning": "Rio",
+    "type": "Kanji"
+  },
+  {
+    "front": "田",
+    "reading": "た (ta)",
+    "meaning": "Arrozal / campo",
+    "type": "Kanji"
+  },
+  {
+    "front": "日",
+    "reading": "ひ / にち (hi/nichi)",
+    "meaning": "Sol / dia",
+    "type": "Kanji"
+  },
+  {
+    "front": "月",
+    "reading": "つき (tsuki)",
+    "meaning": "Lua / mês",
+    "type": "Kanji"
+  },
+  {
+    "front": "火",
+    "reading": "ひ (hi)",
+    "meaning": "Fogo",
+    "type": "Kanji"
+  },
+  {
+    "front": "水",
+    "reading": "みず (mizu)",
+    "meaning": "Água",
+    "type": "Kanji"
+  },
+  {
+    "front": "木",
+    "reading": "き (ki)",
+    "meaning": "Árvore / madeira",
+    "type": "Kanji"
+  },
+  {
+    "front": "金",
+    "reading": "かね / きん (kane/kin)",
+    "meaning": "Dinheiro / ouro",
+    "type": "Kanji"
+  },
+  {
+    "front": "土",
+    "reading": "つち (tsuchi)",
+    "meaning": "Terra / solo",
+    "type": "Kanji"
+  },
+  {
+    "front": "人",
+    "reading": "ひと / じん (hito/jin)",
+    "meaning": "Pessoa",
+    "type": "Kanji"
+  },
+  {
+    "front": "私",
+    "reading": "わたし (watashi)",
+    "meaning": "Eu",
+    "type": "Kanji"
+  },
+  {
+    "front": "友",
+    "reading": "とも (tomo)",
+    "meaning": "Amigo",
+    "type": "Kanji"
+  },
+  {
+    "front": "日本",
+    "reading": "にほん (nihon)",
+    "meaning": "Japão",
+    "type": "Kanji"
+  },
+  {
+    "front": "先生",
+    "reading": "せんせい (sensei)",
+    "meaning": "Professor / mestre",
+    "type": "Kanji"
+  },
+  {
+    "front": "学生",
+    "reading": "がくせい (gakusei)",
+    "meaning": "Estudante",
+    "type": "Kanji"
+  },
+  {
+    "front": "学校",
+    "reading": "がっこう (gakkou)",
+    "meaning": "Escola",
+    "type": "Kanji"
+  },
+  {
+    "front": "会社",
+    "reading": "かいしゃ (kaisha)",
+    "meaning": "Empresa",
+    "type": "Kanji"
+  },
+  {
+    "front": "家",
+    "reading": "いえ / うち (ie/uchi)",
+    "meaning": "Casa",
+    "type": "Kanji"
+  },
+  {
+    "front": "国",
+    "reading": "くに (kuni)",
+    "meaning": "País",
+    "type": "Kanji"
+  },
+  {
+    "front": "町",
+    "reading": "まち (machi)",
+    "meaning": "Cidade / bairro",
+    "type": "Kanji"
+  },
+  {
+    "front": "車",
+    "reading": "くるま (kuruma)",
+    "meaning": "Carro",
+    "type": "Kanji"
+  },
+  {
+    "front": "電車",
+    "reading": "でんしゃ (densha)",
+    "meaning": "Trem",
+    "type": "Kanji"
+  },
+  {
+    "front": "時間",
+    "reading": "じかん (jikan)",
+    "meaning": "Tempo / hora",
+    "type": "Kanji"
+  },
+  {
+    "front": "今日",
+    "reading": "きょう (kyou)",
+    "meaning": "Hoje",
+    "type": "Kanji"
+  },
+  {
+    "front": "明日",
+    "reading": "あした (ashita)",
+    "meaning": "Amanhã",
+    "type": "Kanji"
+  },
+  {
+    "front": "昨日",
+    "reading": "きのう (kinou)",
+    "meaning": "Ontem",
+    "type": "Kanji"
+  },
+  {
+    "front": "名前",
+    "reading": "なまえ (namae)",
+    "meaning": "Nome",
+    "type": "Kanji"
+  },
+  {
+    "front": "電話",
+    "reading": "でんわ (denwa)",
+    "meaning": "Telefone",
+    "type": "Kanji"
+  },
+  {
+    "front": "本",
+    "reading": "ほん (hon)",
+    "meaning": "Livro",
+    "type": "Kanji"
+  },
+  {
+    "front": "雨",
+    "reading": "あめ (ame)",
+    "meaning": "Chuva",
+    "type": "Kanji"
+  },
+  {
+    "front": "空",
+    "reading": "そら (sora)",
+    "meaning": "Céu",
+    "type": "Kanji"
+  },
+  {
+    "front": "右",
+    "reading": "みぎ (migi)",
+    "meaning": "Direita",
+    "type": "Kanji"
+  },
+  {
+    "front": "左",
+    "reading": "ひだり (hidari)",
+    "meaning": "Esquerda",
+    "type": "Kanji"
+  },
+  {
+    "front": "上",
+    "reading": "うえ (ue)",
+    "meaning": "Em cima",
+    "type": "Kanji"
+  },
+  {
+    "front": "下",
+    "reading": "した (shita)",
+    "meaning": "Embaixo",
+    "type": "Kanji"
+  }
+]

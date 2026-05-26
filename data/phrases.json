@@ -1,0 +1,530 @@
+[
+  {
+    "front": "こんにちは",
+    "reading": "konnichiwa",
+    "meaning": "Olá / boa tarde",
+    "type": "Frase"
+  },
+  {
+    "front": "おはようございます",
+    "reading": "ohayou gozaimasu",
+    "meaning": "Bom dia",
+    "type": "Frase"
+  },
+  {
+    "front": "こんばんは",
+    "reading": "konbanwa",
+    "meaning": "Boa noite",
+    "type": "Frase"
+  },
+  {
+    "front": "ありがとうございます",
+    "reading": "arigatou gozaimasu",
+    "meaning": "Muito obrigado",
+    "type": "Frase"
+  },
+  {
+    "front": "すみません",
+    "reading": "sumimasen",
+    "meaning": "Com licença / desculpa",
+    "type": "Frase"
+  },
+  {
+    "front": "ごめんなさい",
+    "reading": "gomen nasai",
+    "meaning": "Desculpa",
+    "type": "Frase"
+  },
+  {
+    "front": "お願いします",
+    "reading": "onegaishimasu",
+    "meaning": "Por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "もう一度お願いします",
+    "reading": "mou ichido onegaishimasu",
+    "meaning": "Mais uma vez, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "ゆっくりお願いします",
+    "reading": "yukkuri onegaishimasu",
+    "meaning": "Devagar, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "日本語が少しわかります",
+    "reading": "nihongo ga sukoshi wakarimasu",
+    "meaning": "Eu entendo um pouco de japonês",
+    "type": "Frase"
+  },
+  {
+    "front": "日本語がわかりません",
+    "reading": "nihongo ga wakarimasen",
+    "meaning": "Eu não entendo japonês",
+    "type": "Frase"
+  },
+  {
+    "front": "英語を話せますか",
+    "reading": "eigo o hanasemasu ka",
+    "meaning": "Você fala inglês?",
+    "type": "Frase"
+  },
+  {
+    "front": "これは何ですか",
+    "reading": "kore wa nan desu ka",
+    "meaning": "O que é isto?",
+    "type": "Frase"
+  },
+  {
+    "front": "これはいくらですか",
+    "reading": "kore wa ikura desu ka",
+    "meaning": "Quanto custa isto?",
+    "type": "Frase"
+  },
+  {
+    "front": "これをください",
+    "reading": "kore o kudasai",
+    "meaning": "Quero isto, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "おすすめは何ですか",
+    "reading": "osusume wa nan desu ka",
+    "meaning": "Qual é a recomendação?",
+    "type": "Frase"
+  },
+  {
+    "front": "お会計お願いします",
+    "reading": "okaikei onegaishimasu",
+    "meaning": "A conta, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "トイレはどこですか",
+    "reading": "toire wa doko desu ka",
+    "meaning": "Onde fica o banheiro?",
+    "type": "Frase"
+  },
+  {
+    "front": "駅はどこですか",
+    "reading": "eki wa doko desu ka",
+    "meaning": "Onde fica a estação?",
+    "type": "Frase"
+  },
+  {
+    "front": "ここに行きたいです",
+    "reading": "koko ni ikitai desu",
+    "meaning": "Quero ir para este lugar",
+    "type": "Frase"
+  },
+  {
+    "front": "助けてください",
+    "reading": "tasukete kudasai",
+    "meaning": "Me ajude, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "大丈夫です",
+    "reading": "daijoubu desu",
+    "meaning": "Está tudo bem / não precisa",
+    "type": "Frase"
+  },
+  {
+    "front": "写真を撮ってもいいですか",
+    "reading": "shashin o totte mo ii desu ka",
+    "meaning": "Posso tirar foto?",
+    "type": "Frase"
+  },
+  {
+    "front": "予約があります",
+    "reading": "yoyaku ga arimasu",
+    "meaning": "Eu tenho uma reserva",
+    "type": "Frase"
+  },
+  {
+    "front": "カードで払えますか",
+    "reading": "kaado de haraemasu ka",
+    "meaning": "Posso pagar com cartão?",
+    "type": "Frase"
+  },
+  {
+    "front": "現金だけですか",
+    "reading": "genkin dake desu ka",
+    "meaning": "É só dinheiro?",
+    "type": "Frase"
+  },
+  {
+    "front": "またね",
+    "reading": "mata ne",
+    "meaning": "Até mais",
+    "type": "Frase"
+  },
+  {
+    "front": "はじめまして",
+    "reading": "hajimemashite",
+    "meaning": "Prazer em conhecer",
+    "type": "Frase"
+  },
+  {
+    "front": "よろしくお願いします",
+    "reading": "yoroshiku onegaishimasu",
+    "meaning": "Conto com você / prazer",
+    "type": "Frase"
+  },
+  {
+    "front": "お名前は何ですか",
+    "reading": "onamae wa nan desu ka",
+    "meaning": "Qual é o seu nome?",
+    "type": "Frase"
+  },
+  {
+    "front": "私の名前はルイです",
+    "reading": "watashi no namae wa Rui desu",
+    "meaning": "Meu nome é Rui",
+    "type": "Frase"
+  },
+  {
+    "front": "ブラジルから来ました",
+    "reading": "burajiru kara kimashita",
+    "meaning": "Eu vim do Brasil",
+    "type": "Frase"
+  },
+  {
+    "front": "今何時ですか",
+    "reading": "ima nanji desu ka",
+    "meaning": "Que horas são agora?",
+    "type": "Frase"
+  },
+  {
+    "front": "今日は暑いですね",
+    "reading": "kyou wa atsui desu ne",
+    "meaning": "Hoje está quente, né?",
+    "type": "Frase"
+  },
+  {
+    "front": "今日は寒いですね",
+    "reading": "kyou wa samui desu ne",
+    "meaning": "Hoje está frio, né?",
+    "type": "Frase"
+  },
+  {
+    "front": "お元気ですか",
+    "reading": "ogenki desu ka",
+    "meaning": "Tudo bem?",
+    "type": "Frase"
+  },
+  {
+    "front": "元気です",
+    "reading": "genki desu",
+    "meaning": "Estou bem",
+    "type": "Frase"
+  },
+  {
+    "front": "疲れました",
+    "reading": "tsukaremashita",
+    "meaning": "Estou cansado",
+    "type": "Frase"
+  },
+  {
+    "front": "お腹が空きました",
+    "reading": "onaka ga sukimashita",
+    "meaning": "Estou com fome",
+    "type": "Frase"
+  },
+  {
+    "front": "喉が渇きました",
+    "reading": "nodo ga kawakimashita",
+    "meaning": "Estou com sede",
+    "type": "Frase"
+  },
+  {
+    "front": "水をください",
+    "reading": "mizu o kudasai",
+    "meaning": "Água, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "メニューをください",
+    "reading": "menyuu o kudasai",
+    "meaning": "O cardápio, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "辛くないですか",
+    "reading": "karakunai desu ka",
+    "meaning": "Não é apimentado?",
+    "type": "Frase"
+  },
+  {
+    "front": "肉は入っていますか",
+    "reading": "niku wa haitte imasu ka",
+    "meaning": "Tem carne?",
+    "type": "Frase"
+  },
+  {
+    "front": "持ち帰りできますか",
+    "reading": "mochikaeri dekimasu ka",
+    "meaning": "Pode ser para viagem?",
+    "type": "Frase"
+  },
+  {
+    "front": "ここで食べます",
+    "reading": "koko de tabemasu",
+    "meaning": "Vou comer aqui",
+    "type": "Frase"
+  },
+  {
+    "front": "いただきます",
+    "reading": "itadakimasu",
+    "meaning": "Expressão antes de comer",
+    "type": "Frase"
+  },
+  {
+    "front": "ごちそうさまでした",
+    "reading": "gochisousama deshita",
+    "meaning": "Obrigado pela refeição",
+    "type": "Frase"
+  },
+  {
+    "front": "とてもおいしいです",
+    "reading": "totemo oishii desu",
+    "meaning": "Está muito gostoso",
+    "type": "Frase"
+  },
+  {
+    "front": "少し高いです",
+    "reading": "sukoshi takai desu",
+    "meaning": "Está um pouco caro",
+    "type": "Frase"
+  },
+  {
+    "front": "安いですね",
+    "reading": "yasui desu ne",
+    "meaning": "Está barato, né?",
+    "type": "Frase"
+  },
+  {
+    "front": "袋はいりますか",
+    "reading": "fukuro wa irimasu ka",
+    "meaning": "Precisa de sacola?",
+    "type": "Frase"
+  },
+  {
+    "front": "袋はいりません",
+    "reading": "fukuro wa irimasen",
+    "meaning": "Não preciso de sacola",
+    "type": "Frase"
+  },
+  {
+    "front": "領収書をください",
+    "reading": "ryoushuusho o kudasai",
+    "meaning": "Recibo, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "切符を一枚ください",
+    "reading": "kippu o ichimai kudasai",
+    "meaning": "Uma passagem, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "この電車は東京に行きますか",
+    "reading": "kono densha wa Toukyou ni ikimasu ka",
+    "meaning": "Este trem vai para Tóquio?",
+    "type": "Frase"
+  },
+  {
+    "front": "次の駅は何ですか",
+    "reading": "tsugi no eki wa nan desu ka",
+    "meaning": "Qual é a próxima estação?",
+    "type": "Frase"
+  },
+  {
+    "front": "ここで降ります",
+    "reading": "koko de orimasu",
+    "meaning": "Vou descer aqui",
+    "type": "Frase"
+  },
+  {
+    "front": "まっすぐ行ってください",
+    "reading": "massugu itte kudasai",
+    "meaning": "Siga em frente, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "右に曲がってください",
+    "reading": "migi ni magatte kudasai",
+    "meaning": "Vire à direita, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "左に曲がってください",
+    "reading": "hidari ni magatte kudasai",
+    "meaning": "Vire à esquerda, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "ここから近いですか",
+    "reading": "koko kara chikai desu ka",
+    "meaning": "É perto daqui?",
+    "type": "Frase"
+  },
+  {
+    "front": "歩いて行けますか",
+    "reading": "aruite ikemasu ka",
+    "meaning": "Dá para ir andando?",
+    "type": "Frase"
+  },
+  {
+    "front": "タクシーを呼んでください",
+    "reading": "takushii o yonde kudasai",
+    "meaning": "Chame um táxi, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "チェックインお願いします",
+    "reading": "chekkuin onegaishimasu",
+    "meaning": "Check-in, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "チェックアウトお願いします",
+    "reading": "chekkuauto onegaishimasu",
+    "meaning": "Check-out, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "部屋の鍵をください",
+    "reading": "heya no kagi o kudasai",
+    "meaning": "A chave do quarto, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "Wi-Fiはありますか",
+    "reading": "waifai wa arimasu ka",
+    "meaning": "Tem Wi-Fi?",
+    "type": "Frase"
+  },
+  {
+    "front": "パスワードは何ですか",
+    "reading": "pasuwaado wa nan desu ka",
+    "meaning": "Qual é a senha?",
+    "type": "Frase"
+  },
+  {
+    "front": "充電できますか",
+    "reading": "juuden dekimasu ka",
+    "meaning": "Posso carregar o celular?",
+    "type": "Frase"
+  },
+  {
+    "front": "具合が悪いです",
+    "reading": "guai ga warui desu",
+    "meaning": "Estou passando mal",
+    "type": "Frase"
+  },
+  {
+    "front": "病院に行きたいです",
+    "reading": "byouin ni ikitai desu",
+    "meaning": "Quero ir ao hospital",
+    "type": "Frase"
+  },
+  {
+    "front": "薬局はどこですか",
+    "reading": "yakkyoku wa doko desu ka",
+    "meaning": "Onde fica a farmácia?",
+    "type": "Frase"
+  },
+  {
+    "front": "痛いです",
+    "reading": "itai desu",
+    "meaning": "Está doendo",
+    "type": "Frase"
+  },
+  {
+    "front": "なくしました",
+    "reading": "nakushimashita",
+    "meaning": "Eu perdi algo",
+    "type": "Frase"
+  },
+  {
+    "front": "財布をなくしました",
+    "reading": "saifu o nakushimashita",
+    "meaning": "Perdi minha carteira",
+    "type": "Frase"
+  },
+  {
+    "front": "携帯をなくしました",
+    "reading": "keitai o nakushimashita",
+    "meaning": "Perdi meu celular",
+    "type": "Frase"
+  },
+  {
+    "front": "警察はどこですか",
+    "reading": "keisatsu wa doko desu ka",
+    "meaning": "Onde fica a polícia?",
+    "type": "Frase"
+  },
+  {
+    "front": "ちょっと待ってください",
+    "reading": "chotto matte kudasai",
+    "meaning": "Espere um pouco, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "もう大丈夫です",
+    "reading": "mou daijoubu desu",
+    "meaning": "Agora está tudo bem",
+    "type": "Frase"
+  },
+  {
+    "front": "わかりました",
+    "reading": "wakarimashita",
+    "meaning": "Entendi",
+    "type": "Frase"
+  },
+  {
+    "front": "わかりませんでした",
+    "reading": "wakarimasen deshita",
+    "meaning": "Não entendi",
+    "type": "Frase"
+  },
+  {
+    "front": "大丈夫じゃないです",
+    "reading": "daijoubu janai desu",
+    "meaning": "Não está tudo bem",
+    "type": "Frase"
+  },
+  {
+    "front": "これは好きです",
+    "reading": "kore wa suki desu",
+    "meaning": "Eu gosto disto",
+    "type": "Frase"
+  },
+  {
+    "front": "これは好きじゃないです",
+    "reading": "kore wa suki janai desu",
+    "meaning": "Eu não gosto disto",
+    "type": "Frase"
+  },
+  {
+    "front": "また明日",
+    "reading": "mata ashita",
+    "meaning": "Até amanhã",
+    "type": "Frase"
+  },
+  {
+    "front": "おやすみなさい",
+    "reading": "oyasumi nasai",
+    "meaning": "Boa noite antes de dormir",
+    "type": "Frase"
+  },
+  {
+    "front": "気をつけて",
+    "reading": "ki o tsukete",
+    "meaning": "Se cuida / cuidado",
+    "type": "Frase"
+  }
+]
