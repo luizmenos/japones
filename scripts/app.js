@@ -14,6 +14,7 @@ let mnemonics = [];
 let currentIndex = 0;
 let currentDeck = [];
 let activeFilter = 'Todos';
+let japaneseVoice = null;
 
 const cardEl = document.getElementById('card');
 const frontText = document.getElementById('front-text');
@@ -50,6 +51,55 @@ async function loadStudyData() {
   currentDeck = [...deck];
 }
 
+function refreshVoices() {
+  if (!('speechSynthesis' in window)) return;
+
+  const voices = window.speechSynthesis.getVoices();
+  japaneseVoice = voices.find((voice) => voice.lang === 'ja-JP')
+    || voices.find((voice) => voice.lang.startsWith('ja'))
+    || null;
+}
+
+function speakJapanese(text) {
+  if (!('speechSynthesis' in window)) {
+    alert('Seu navegador nao tem suporte a audio por voz.');
+    return;
+  }
+
+  refreshVoices();
+  window.speechSynthesis.cancel();
+
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = 'ja-JP';
+  utterance.rate = 0.82;
+  utterance.pitch = 1;
+
+  if (japaneseVoice) {
+    utterance.voice = japaneseVoice;
+  }
+
+  window.speechSynthesis.speak(utterance);
+}
+
+function getAudioText(item) {
+  return item.audio || item.front || item.symbol;
+}
+
+function audioButton(item, color = 'slate') {
+  const audioText = getAudioText(item).replace(/"/g, '&quot;');
+  const colorClasses = color === 'red'
+    ? 'border-red-200 bg-white/80 text-red-600 hover:bg-white'
+    : 'border-slate-200 bg-white text-slate-600 hover:bg-slate-50';
+
+  return `
+    <button type="button" title="Ouvir pronuncia" aria-label="Ouvir pronuncia"
+      class="inline-flex h-9 w-9 items-center justify-center rounded-full border ${colorClasses} text-sm font-black shadow-sm transition active:scale-95"
+      onclick="event.stopPropagation(); speakJapanese(&quot;${audioText}&quot;)">
+      ▶
+    </button>
+  `;
+}
+
 function getFilteredDeck() {
   return activeFilter === 'Todos' ? deck : deck.filter((item) => item.type === activeFilter);
 }
@@ -72,19 +122,23 @@ function renderCatalog() {
   const items = getFilteredDeck();
   catalogCount.innerText = `${items.length} cards disponiveis`;
   gridEl.innerHTML = items.map((item) => `
-    <button class="study-card h-56 w-full text-left perspective-1000" type="button" onclick="this.classList.toggle('is-open')" aria-label="Virar ${item.front}">
+    <article class="study-card h-56 w-full text-left perspective-1000" tabindex="0" onclick="this.classList.toggle('is-open')" aria-label="Virar ${item.front}">
       <span class="study-card-inner relative block h-full w-full transition-transform duration-500 preserve-3d ${item.type === 'Frase' ? 'text-sm' : ''}">
         <span class="absolute inset-0 flex flex-col justify-between rounded-lg border border-slate-200 bg-white p-5 shadow-sm backface-hidden">
-          <span class="text-xs font-black uppercase tracking-widest text-red-500">${item.type}</span>
+          <span class="flex items-start justify-between gap-3">
+            <span class="text-xs font-black uppercase tracking-widest text-red-500">${item.type}</span>
+            ${audioButton(item)}
+          </span>
           <span class="flex min-h-24 items-center text-4xl font-black leading-tight text-slate-900 ${item.front.length > 8 ? 'text-2xl' : ''}">${item.front}</span>
           <span class="text-xs font-bold uppercase tracking-widest text-slate-400">Passe o mouse para ver</span>
         </span>
         <span class="absolute inset-0 flex flex-col justify-center rounded-lg border border-red-200 bg-red-50 p-5 text-center shadow-sm backface-hidden rotate-back">
+          <span class="absolute right-4 top-4">${audioButton(item, 'red')}</span>
           <span class="mb-3 text-xl font-black leading-tight text-red-600">${item.reading}</span>
           <span class="text-lg font-semibold leading-snug text-slate-700">${item.meaning}</span>
         </span>
       </span>
-    </button>
+    </article>
   `).join('');
 }
 
@@ -100,7 +154,10 @@ function renderMnemonics() {
     <article class="rounded-lg border border-slate-200 bg-white p-5 shadow-sm">
       <div class="mb-4 flex items-start justify-between gap-4">
         <div class="text-6xl font-black leading-none text-slate-900">${item.symbol}</div>
-        <div class="rounded-full bg-red-50 px-3 py-1 text-xs font-black uppercase tracking-widest text-red-500">${item.type}</div>
+        <div class="flex items-center gap-2">
+          <div class="rounded-full bg-red-50 px-3 py-1 text-xs font-black uppercase tracking-widest text-red-500">${item.type}</div>
+          ${audioButton(item)}
+        </div>
       </div>
       <div class="mb-2 text-xl font-black text-red-600">${item.reading}</div>
       <p class="text-sm font-semibold leading-relaxed text-slate-600">${item.hint}</p>
@@ -126,6 +183,12 @@ function flipCard() {
   if (!currentDeck.length) return;
 
   cardEl.classList.toggle('flipped');
+}
+
+function speakCurrentCard() {
+  if (!currentDeck.length) return;
+
+  speakJapanese(getAudioText(currentDeck[currentIndex]));
 }
 
 function nextCard() {
@@ -183,6 +246,11 @@ document.addEventListener('keydown', (e) => {
 });
 
 window.addEventListener('hashchange', showView);
+
+if ('speechSynthesis' in window) {
+  refreshVoices();
+  window.speechSynthesis.addEventListener('voiceschanged', refreshVoices);
+}
 
 loadStudyData()
   .then(() => {

@@ -92,6 +92,9 @@
             <div
               class="absolute inset-0 flex flex-col items-center justify-center rounded-3xl border-2 border-slate-200 bg-white p-6 shadow-xl backface-hidden">
               <span class="absolute top-6 text-xs font-bold uppercase tracking-widest text-slate-400">Como se lê?</span>
+              <button id="practice-audio-button" type="button" title="Ouvir pronuncia" aria-label="Ouvir pronuncia"
+                onclick="event.stopPropagation(); speakCurrentCard()"
+                class="absolute right-5 top-5 inline-flex h-10 w-10 items-center justify-center rounded-full border border-slate-200 bg-white text-sm font-black text-slate-600 shadow-sm transition hover:bg-slate-50 active:scale-95">▶</button>
               <div id="front-text" class="mb-4 text-center text-7xl font-bold leading-none text-slate-800">あ</div>
               <div id="type-tag"
                 class="absolute bottom-6 rounded-full bg-slate-100 px-4 py-1 text-xs font-bold uppercase tracking-wider text-slate-500">
@@ -101,6 +104,9 @@
             <div
               class="absolute inset-0 flex flex-col items-center justify-center rounded-3xl border-2 border-red-200 bg-red-50 p-6 text-center shadow-xl backface-hidden rotate-back">
               <span class="absolute top-6 w-full text-center text-xs font-bold uppercase tracking-widest text-red-400">Resposta</span>
+              <button type="button" title="Ouvir pronuncia" aria-label="Ouvir pronuncia"
+                onclick="event.stopPropagation(); speakCurrentCard()"
+                class="absolute right-5 top-5 inline-flex h-10 w-10 items-center justify-center rounded-full border border-red-200 bg-white/80 text-sm font-black text-red-600 shadow-sm transition hover:bg-white active:scale-95">▶</button>
               <div id="back-reading" class="mb-2 text-3xl font-bold text-red-600">a</div>
               <div id="back-meaning" class="text-xl font-medium leading-tight text-slate-700">Hiragana A</div>
             </div>
