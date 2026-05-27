@@ -15,6 +15,7 @@ let currentIndex = 0;
 let currentDeck = [];
 let activeFilter = 'Todos';
 let japaneseVoice = null;
+let currentAudio = null;
 
 const cardEl = document.getElementById('card');
 const frontText = document.getElementById('front-text');
@@ -33,6 +34,13 @@ const practiceView = document.getElementById('practice-view');
 const catalogLink = document.getElementById('catalog-link');
 const mnemonicsLink = document.getElementById('mnemonics-link');
 const practiceLink = document.getElementById('practice-link');
+
+function registerServiceWorker() {
+  if (!('serviceWorker' in navigator)) return;
+
+  navigator.serviceWorker.register('./sw.js').catch(() => {
+  });
+}
 
 async function loadJson(path) {
   const response = await fetch(path);
@@ -82,11 +90,39 @@ function speakJapanese(text) {
 }
 
 function getAudioText(item) {
-  return item.audio || item.front || item.symbol;
+  return item.audioText || item.front || item.symbol;
+}
+
+function escapeAttribute(value) {
+  return String(value || '')
+    .replace(/&/g, '&amp;')
+    .replace(/"/g, '&quot;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+}
+
+function playPronunciation(audioPath, text) {
+  if (currentAudio) {
+    currentAudio.pause();
+    currentAudio.currentTime = 0;
+  }
+
+  if ('speechSynthesis' in window) {
+    window.speechSynthesis.cancel();
+  }
+
+  if (!audioPath) {
+    speakJapanese(text);
+    return;
+  }
+
+  currentAudio = new Audio(audioPath);
+  currentAudio.play().catch(() => speakJapanese(text));
 }
 
 function audioButton(item, color = 'slate') {
-  const audioText = getAudioText(item).replace(/"/g, '&quot;');
+  const audioText = escapeAttribute(getAudioText(item));
+  const audioPath = escapeAttribute(item.audio);
   const colorClasses = color === 'red'
     ? 'border-red-200 bg-white/80 text-red-600 hover:bg-white'
     : 'border-slate-200 bg-white text-slate-600 hover:bg-slate-50';
@@ -94,7 +130,8 @@ function audioButton(item, color = 'slate') {
   return `
     <button type="button" title="Ouvir pronuncia" aria-label="Ouvir pronuncia"
       class="inline-flex h-9 w-9 items-center justify-center rounded-full border ${colorClasses} text-sm font-black shadow-sm transition active:scale-95"
-      onclick="event.stopPropagation(); speakJapanese(&quot;${audioText}&quot;)">
+      data-audio="${audioPath}" data-text="${audioText}"
+      onclick="event.stopPropagation(); playPronunciation(this.dataset.audio, this.dataset.text)">
       ▶
     </button>
   `;
@@ -188,7 +225,8 @@ function flipCard() {
 function speakCurrentCard() {
   if (!currentDeck.length) return;
 
-  speakJapanese(getAudioText(currentDeck[currentIndex]));
+  const item = currentDeck[currentIndex];
+  playPronunciation(item.audio, getAudioText(item));
 }
 
 function nextCard() {
@@ -259,5 +297,6 @@ loadStudyData()
     renderMnemonics();
     updateCard();
     showView();
+    registerServiceWorker();
   })
   .catch(renderLoadError);

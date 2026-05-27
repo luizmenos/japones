@@ -3,684 +3,798 @@
     "front": "こんにちは",
     "reading": "konnichiwa",
     "meaning": "Olá / boa tarde",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/001-20427a708c.mp3"
   },
   {
     "front": "おはようございます",
     "reading": "ohayou gozaimasu",
     "meaning": "Bom dia",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/002-5a3c5f71ee.mp3"
   },
   {
     "front": "こんばんは",
     "reading": "konbanwa",
     "meaning": "Boa noite",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/003-eabdada4ab.mp3"
   },
   {
     "front": "ありがとうございます",
     "reading": "arigatou gozaimasu",
     "meaning": "Muito obrigado",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/004-24afcca10e.mp3"
   },
   {
     "front": "すみません",
     "reading": "sumimasen",
     "meaning": "Com licença / desculpa",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/005-cce1862bcb.mp3"
   },
   {
     "front": "ごめんなさい",
     "reading": "gomen nasai",
     "meaning": "Desculpa",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/006-a4b6ee78a8.mp3"
   },
   {
     "front": "お願いします",
     "reading": "onegaishimasu",
     "meaning": "Por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/007-2b7c52d264.mp3"
   },
   {
     "front": "もう一度お願いします",
     "reading": "mou ichido onegaishimasu",
     "meaning": "Mais uma vez, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/008-459ec39161.mp3"
   },
   {
     "front": "ゆっくりお願いします",
     "reading": "yukkuri onegaishimasu",
     "meaning": "Devagar, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/009-255df29501.mp3"
   },
   {
     "front": "日本語が少しわかります",
     "reading": "nihongo ga sukoshi wakarimasu",
     "meaning": "Eu entendo um pouco de japonês",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/010-824b458dd6.mp3"
   },
   {
     "front": "日本語がわかりません",
     "reading": "nihongo ga wakarimasen",
     "meaning": "Eu não entendo japonês",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/011-0cc62ba28b.mp3"
   },
   {
     "front": "英語を話せますか",
     "reading": "eigo o hanasemasu ka",
     "meaning": "Você fala inglês?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/012-41bc7bd204.mp3"
   },
   {
     "front": "これは何ですか",
     "reading": "kore wa nan desu ka",
     "meaning": "O que é isto?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/013-8d7e636d90.mp3"
   },
   {
     "front": "これはいくらですか",
     "reading": "kore wa ikura desu ka",
     "meaning": "Quanto custa isto?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/014-d33c910ad4.mp3"
   },
   {
     "front": "これをください",
     "reading": "kore o kudasai",
     "meaning": "Quero isto, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/015-39eb03e8b7.mp3"
   },
   {
     "front": "おすすめは何ですか",
     "reading": "osusume wa nan desu ka",
     "meaning": "Qual é a recomendação?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/016-fcd6ed5c75.mp3"
   },
   {
     "front": "お会計お願いします",
     "reading": "okaikei onegaishimasu",
     "meaning": "A conta, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/017-53ec7cc7a3.mp3"
   },
   {
     "front": "トイレはどこですか",
     "reading": "toire wa doko desu ka",
     "meaning": "Onde fica o banheiro?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/018-5d52bcd566.mp3"
   },
   {
     "front": "駅はどこですか",
     "reading": "eki wa doko desu ka",
     "meaning": "Onde fica a estação?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/019-84e5eae60d.mp3"
   },
   {
     "front": "ここに行きたいです",
     "reading": "koko ni ikitai desu",
     "meaning": "Quero ir para este lugar",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/020-a6a41a802c.mp3"
   },
   {
     "front": "助けてください",
     "reading": "tasukete kudasai",
     "meaning": "Me ajude, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/021-ff981a0756.mp3"
   },
   {
     "front": "大丈夫です",
     "reading": "daijoubu desu",
     "meaning": "Está tudo bem / não precisa",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/022-87a4d24d04.mp3"
   },
   {
     "front": "写真を撮ってもいいですか",
     "reading": "shashin o totte mo ii desu ka",
     "meaning": "Posso tirar foto?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/023-6779ad7af1.mp3"
   },
   {
     "front": "予約があります",
     "reading": "yoyaku ga arimasu",
     "meaning": "Eu tenho uma reserva",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/024-702a94b193.mp3"
   },
   {
     "front": "カードで払えますか",
     "reading": "kaado de haraemasu ka",
     "meaning": "Posso pagar com cartão?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/025-ac7df4e921.mp3"
   },
   {
     "front": "現金だけですか",
     "reading": "genkin dake desu ka",
     "meaning": "É só dinheiro?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/026-643a3810e2.mp3"
   },
   {
     "front": "またね",
     "reading": "mata ne",
     "meaning": "Até mais",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/027-e9e1f2ff8b.mp3"
   },
   {
     "front": "はじめまして",
     "reading": "hajimemashite",
     "meaning": "Prazer em conhecer",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/028-75f97f5860.mp3"
   },
   {
     "front": "よろしくお願いします",
     "reading": "yoroshiku onegaishimasu",
     "meaning": "Conto com você / prazer",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/029-7f4f942bf4.mp3"
   },
   {
     "front": "お名前は何ですか",
     "reading": "onamae wa nan desu ka",
     "meaning": "Qual é o seu nome?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/030-e7565b2c66.mp3"
   },
   {
     "front": "私の名前はルイです",
     "reading": "watashi no namae wa Rui desu",
     "meaning": "Meu nome é Rui",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/031-64e004ab8b.mp3"
   },
   {
     "front": "ブラジルから来ました",
     "reading": "burajiru kara kimashita",
     "meaning": "Eu vim do Brasil",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/032-c3b6a5bc89.mp3"
   },
   {
     "front": "今何時ですか",
     "reading": "ima nanji desu ka",
     "meaning": "Que horas são agora?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/033-97e05a2b13.mp3"
   },
   {
     "front": "今日は暑いですね",
     "reading": "kyou wa atsui desu ne",
     "meaning": "Hoje está quente, né?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/034-aaa3f88076.mp3"
   },
   {
     "front": "今日は寒いですね",
     "reading": "kyou wa samui desu ne",
     "meaning": "Hoje está frio, né?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/035-97c8ddabd4.mp3"
   },
   {
     "front": "お元気ですか",
     "reading": "ogenki desu ka",
     "meaning": "Tudo bem?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/036-2ed454771d.mp3"
   },
   {
     "front": "元気です",
     "reading": "genki desu",
     "meaning": "Estou bem",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/037-1bae902a07.mp3"
   },
   {
     "front": "疲れました",
     "reading": "tsukaremashita",
     "meaning": "Estou cansado",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/038-65793e0a59.mp3"
   },
   {
     "front": "お腹が空きました",
     "reading": "onaka ga sukimashita",
     "meaning": "Estou com fome",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/039-51243fff22.mp3"
   },
   {
     "front": "喉が渇きました",
     "reading": "nodo ga kawakimashita",
     "meaning": "Estou com sede",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/040-847a6c7c41.mp3"
   },
   {
     "front": "水をください",
     "reading": "mizu o kudasai",
     "meaning": "Água, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/041-e0058ffaf3.mp3"
   },
   {
     "front": "メニューをください",
     "reading": "menyuu o kudasai",
     "meaning": "O cardápio, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/042-c560a192d9.mp3"
   },
   {
     "front": "辛くないですか",
     "reading": "karakunai desu ka",
     "meaning": "Não é apimentado?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/043-1d09d54dbb.mp3"
   },
   {
     "front": "肉は入っていますか",
     "reading": "niku wa haitte imasu ka",
     "meaning": "Tem carne?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/044-2a89b24e18.mp3"
   },
   {
     "front": "持ち帰りできますか",
     "reading": "mochikaeri dekimasu ka",
     "meaning": "Pode ser para viagem?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/045-ba1beced63.mp3"
   },
   {
     "front": "ここで食べます",
     "reading": "koko de tabemasu",
     "meaning": "Vou comer aqui",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/046-60c82ddff7.mp3"
   },
   {
     "front": "いただきます",
     "reading": "itadakimasu",
     "meaning": "Expressão antes de comer",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/047-25567f8581.mp3"
   },
   {
     "front": "ごちそうさまでした",
     "reading": "gochisousama deshita",
     "meaning": "Obrigado pela refeição",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/048-11c8fca7e2.mp3"
   },
   {
     "front": "とてもおいしいです",
     "reading": "totemo oishii desu",
     "meaning": "Está muito gostoso",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/049-36be6c1c63.mp3"
   },
   {
     "front": "少し高いです",
     "reading": "sukoshi takai desu",
     "meaning": "Está um pouco caro",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/050-8d15f0bf7c.mp3"
   },
   {
     "front": "安いですね",
     "reading": "yasui desu ne",
     "meaning": "Está barato, né?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/051-6c43811ed3.mp3"
   },
   {
     "front": "袋はいりますか",
     "reading": "fukuro wa irimasu ka",
     "meaning": "Precisa de sacola?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/052-839f44955d.mp3"
   },
   {
     "front": "袋はいりません",
     "reading": "fukuro wa irimasen",
     "meaning": "Não preciso de sacola",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/053-65b0a1c881.mp3"
   },
   {
     "front": "領収書をください",
     "reading": "ryoushuusho o kudasai",
     "meaning": "Recibo, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/054-dbd31a0b4b.mp3"
   },
   {
     "front": "切符を一枚ください",
     "reading": "kippu o ichimai kudasai",
     "meaning": "Uma passagem, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/055-2e5028a009.mp3"
   },
   {
     "front": "この電車は東京に行きますか",
     "reading": "kono densha wa Toukyou ni ikimasu ka",
     "meaning": "Este trem vai para Tóquio?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/056-634e56cd4a.mp3"
   },
   {
     "front": "次の駅は何ですか",
     "reading": "tsugi no eki wa nan desu ka",
     "meaning": "Qual é a próxima estação?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/057-900e408234.mp3"
   },
   {
     "front": "ここで降ります",
     "reading": "koko de orimasu",
     "meaning": "Vou descer aqui",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/058-7596363615.mp3"
   },
   {
     "front": "まっすぐ行ってください",
     "reading": "massugu itte kudasai",
     "meaning": "Siga em frente, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/059-4b32590f8f.mp3"
   },
   {
     "front": "右に曲がってください",
     "reading": "migi ni magatte kudasai",
     "meaning": "Vire à direita, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/060-cdd20684cb.mp3"
   },
   {
     "front": "左に曲がってください",
     "reading": "hidari ni magatte kudasai",
     "meaning": "Vire à esquerda, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/061-1bf14eaf43.mp3"
   },
   {
     "front": "ここから近いですか",
     "reading": "koko kara chikai desu ka",
     "meaning": "É perto daqui?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/062-09e0466d6e.mp3"
   },
   {
     "front": "歩いて行けますか",
     "reading": "aruite ikemasu ka",
     "meaning": "Dá para ir andando?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/063-b142b61ee1.mp3"
   },
   {
     "front": "タクシーを呼んでください",
     "reading": "takushii o yonde kudasai",
     "meaning": "Chame um táxi, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/064-a2a81109fc.mp3"
   },
   {
     "front": "チェックインお願いします",
     "reading": "chekkuin onegaishimasu",
     "meaning": "Check-in, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/065-f9094ef33b.mp3"
   },
   {
     "front": "チェックアウトお願いします",
     "reading": "chekkuauto onegaishimasu",
     "meaning": "Check-out, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/066-9bdca15511.mp3"
   },
   {
     "front": "部屋の鍵をください",
     "reading": "heya no kagi o kudasai",
     "meaning": "A chave do quarto, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/067-985329c9be.mp3"
   },
   {
     "front": "Wi-Fiはありますか",
     "reading": "waifai wa arimasu ka",
     "meaning": "Tem Wi-Fi?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/068-c5fbafbf9d.mp3"
   },
   {
     "front": "パスワードは何ですか",
     "reading": "pasuwaado wa nan desu ka",
     "meaning": "Qual é a senha?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/069-99751ad5a9.mp3"
   },
   {
     "front": "充電できますか",
     "reading": "juuden dekimasu ka",
     "meaning": "Posso carregar o celular?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/070-9893ef6800.mp3"
   },
   {
     "front": "具合が悪いです",
     "reading": "guai ga warui desu",
     "meaning": "Estou passando mal",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/071-ba1369f256.mp3"
   },
   {
     "front": "病院に行きたいです",
     "reading": "byouin ni ikitai desu",
     "meaning": "Quero ir ao hospital",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/072-bdb306b3bf.mp3"
   },
   {
     "front": "薬局はどこですか",
     "reading": "yakkyoku wa doko desu ka",
     "meaning": "Onde fica a farmácia?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/073-d11fa208de.mp3"
   },
   {
     "front": "痛いです",
     "reading": "itai desu",
     "meaning": "Está doendo",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/074-1ded7440bc.mp3"
   },
   {
     "front": "なくしました",
     "reading": "nakushimashita",
     "meaning": "Eu perdi algo",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/075-aeccb817ed.mp3"
   },
   {
     "front": "財布をなくしました",
     "reading": "saifu o nakushimashita",
     "meaning": "Perdi minha carteira",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/076-084cf4c410.mp3"
   },
   {
     "front": "携帯をなくしました",
     "reading": "keitai o nakushimashita",
     "meaning": "Perdi meu celular",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/077-f0ff2dabe8.mp3"
   },
   {
     "front": "警察はどこですか",
     "reading": "keisatsu wa doko desu ka",
     "meaning": "Onde fica a polícia?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/078-6637b3fd28.mp3"
   },
   {
     "front": "ちょっと待ってください",
     "reading": "chotto matte kudasai",
     "meaning": "Espere um pouco, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/079-96020f040b.mp3"
   },
   {
     "front": "もう大丈夫です",
     "reading": "mou daijoubu desu",
     "meaning": "Agora está tudo bem",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/080-bcd0524dba.mp3"
   },
   {
     "front": "わかりました",
     "reading": "wakarimashita",
     "meaning": "Entendi",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/081-e373802575.mp3"
   },
   {
     "front": "わかりませんでした",
     "reading": "wakarimasen deshita",
     "meaning": "Não entendi",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/082-686a2d5f40.mp3"
   },
   {
     "front": "大丈夫じゃないです",
     "reading": "daijoubu janai desu",
     "meaning": "Não está tudo bem",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/083-1000fe171d.mp3"
   },
   {
     "front": "これは好きです",
     "reading": "kore wa suki desu",
     "meaning": "Eu gosto disto",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/084-9567662818.mp3"
   },
   {
     "front": "これは好きじゃないです",
     "reading": "kore wa suki janai desu",
     "meaning": "Eu não gosto disto",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/085-c9510f5439.mp3"
   },
   {
     "front": "また明日",
     "reading": "mata ashita",
     "meaning": "Até amanhã",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/086-655d3aeb4a.mp3"
   },
   {
     "front": "おやすみなさい",
     "reading": "oyasumi nasai",
     "meaning": "Boa noite antes de dormir",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/087-17b912b634.mp3"
   },
   {
     "front": "気をつけて",
     "reading": "ki o tsukete",
     "meaning": "Se cuida / cuidado",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/088-41314f4fb9.mp3"
   },
   {
     "front": "これはどういう意味ですか",
     "reading": "kore wa dou iu imi desu ka",
     "meaning": "O que isto significa?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/089-8649370646.mp3"
   },
   {
     "front": "漢字で書いてください",
     "reading": "kanji de kaite kudasai",
     "meaning": "Escreva em kanji, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/090-0cdb13a3a8.mp3"
   },
   {
     "front": "ひらがなでお願いします",
     "reading": "hiragana de onegaishimasu",
     "meaning": "Em hiragana, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/091-97f5799cef.mp3"
   },
   {
     "front": "もう少しゆっくり話してください",
     "reading": "mou sukoshi yukkuri hanashite kudasai",
     "meaning": "Fale um pouco mais devagar, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/092-5cbcea3d2f.mp3"
   },
   {
     "front": "ここに書いてください",
     "reading": "koko ni kaite kudasai",
     "meaning": "Escreva aqui, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/093-8099a6d72e.mp3"
   },
   {
     "front": "この近くにコンビニはありますか",
     "reading": "kono chikaku ni konbini wa arimasu ka",
     "meaning": "Tem uma loja de conveniência aqui perto?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/094-d8c9033d49.mp3"
   },
   {
     "front": "おすすめの店はありますか",
     "reading": "osusume no mise wa arimasu ka",
     "meaning": "Tem alguma loja/restaurante recomendado?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/095-fa126420c2.mp3"
   },
   {
     "front": "一人です",
     "reading": "hitori desu",
     "meaning": "Estou sozinho / uma pessoa",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/096-801d3641b0.mp3"
   },
   {
     "front": "二人です",
     "reading": "futari desu",
     "meaning": "Somos duas pessoas",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/097-a554a4a22c.mp3"
   },
   {
     "front": "禁煙席をお願いします",
     "reading": "kin-enseki o onegaishimasu",
     "meaning": "Mesa de não fumante, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/098-75f6a30020.mp3"
   },
   {
     "front": "同じものをください",
     "reading": "onaji mono o kudasai",
     "meaning": "Quero o mesmo, por favor",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/099-14bcb522e8.mp3"
   },
   {
     "front": "別々に払えますか",
     "reading": "betsubetsu ni haraemasu ka",
     "meaning": "Podemos pagar separado?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/100-0bd4e957aa.mp3"
   },
   {
     "front": "試着してもいいですか",
     "reading": "shichaku shite mo ii desu ka",
     "meaning": "Posso experimentar?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/101-5e0478865d.mp3"
   },
   {
     "front": "もっと大きいサイズはありますか",
     "reading": "motto ookii saizu wa arimasu ka",
     "meaning": "Tem um tamanho maior?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/102-dea7a413c8.mp3"
   },
   {
     "front": "もっと小さいサイズはありますか",
     "reading": "motto chiisai saizu wa arimasu ka",
     "meaning": "Tem um tamanho menor?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/103-823a290def.mp3"
   },
   {
     "front": "これを探しています",
     "reading": "kore o sagashite imasu",
     "meaning": "Estou procurando isto",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/104-4af91a65b7.mp3"
   },
   {
     "front": "見るだけです",
     "reading": "miru dake desu",
     "meaning": "Estou só olhando",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/105-d0c5796738.mp3"
   },
   {
     "front": "何番線ですか",
     "reading": "nanbansen desu ka",
     "meaning": "Qual plataforma/linha?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/106-08f2c6fa42.mp3"
   },
   {
     "front": "乗り換えはどこですか",
     "reading": "norikae wa doko desu ka",
     "meaning": "Onde faço baldeação?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/107-294658804a.mp3"
   },
   {
     "front": "終電は何時ですか",
     "reading": "shuuden wa nanji desu ka",
     "meaning": "Que horas é o último trem?",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/108-edb5aab3b3.mp3"
   },
   {
     "front": "荷物を預けたいです",
     "reading": "nimotsu o azuketai desu",
     "meaning": "Quero deixar minha bagagem",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/109-c6769dd105.mp3"
   },
   {
     "front": "予約を確認したいです",
     "reading": "yoyaku o kakunin shitai desu",
     "meaning": "Quero confirmar minha reserva",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/110-df8a2ea762.mp3"
   },
   {
     "front": "頭が痛いです",
     "reading": "atama ga itai desu",
     "meaning": "Estou com dor de cabeça",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/111-4d329d6346.mp3"
   },
   {
     "front": "熱があります",
     "reading": "netsu ga arimasu",
     "meaning": "Estou com febre",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/112-c60cc6cf03.mp3"
   },
   {
     "front": "少し休みたいです",
     "reading": "sukoshi yasumitai desu",
     "meaning": "Quero descansar um pouco",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/113-9b250a23f8.mp3"
   },
   {
     "front": "今日は楽しかったです",
     "reading": "kyou wa tanoshikatta desu",
     "meaning": "Hoje foi divertido",
-    "type": "Frase"
+    "type": "Frase",
+    "audio": "audio/phrases/114-0999aa9855.mp3"
   }
 ]
