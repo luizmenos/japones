@@ -14,6 +14,7 @@ let mnemonics = [];
 let currentIndex = 0;
 let currentDeck = [];
 let activeFilter = 'Todos';
+let searchQuery = '';
 let japaneseVoice = null;
 let currentAudio = null;
 
@@ -25,6 +26,7 @@ const typeTag = document.getElementById('type-tag');
 const counterEl = document.getElementById('counter');
 const gridEl = document.getElementById('cards-grid');
 const filtersEl = document.getElementById('filters');
+const searchInput = document.getElementById('search-input');
 const catalogCount = document.getElementById('catalog-count');
 const catalogView = document.getElementById('catalog-view');
 const mnemonicsView = document.getElementById('mnemonics-view');
@@ -137,8 +139,31 @@ function audioButton(item, color = 'slate') {
   `;
 }
 
+function normalizeSearch(value) {
+  return String(value || '')
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .trim();
+}
+
+function searchableText(item) {
+  return normalizeSearch([
+    item.front,
+    item.reading,
+    item.meaning,
+    item.type,
+    item.audioText
+  ].join(' '));
+}
+
 function getFilteredDeck() {
-  return activeFilter === 'Todos' ? deck : deck.filter((item) => item.type === activeFilter);
+  const query = normalizeSearch(searchQuery);
+  const filteredByType = activeFilter === 'Todos' ? deck : deck.filter((item) => item.type === activeFilter);
+
+  if (!query) return filteredByType;
+
+  return filteredByType.filter((item) => searchableText(item).includes(query));
 }
 
 function renderFilters() {
@@ -157,7 +182,20 @@ function renderFilters() {
 
 function renderCatalog() {
   const items = getFilteredDeck();
-  catalogCount.innerText = `${items.length} cards disponiveis`;
+  const totalForFilter = activeFilter === 'Todos' ? deck.length : deck.filter((item) => item.type === activeFilter).length;
+  catalogCount.innerText = searchQuery
+    ? `${items.length} de ${totalForFilter} cards encontrados`
+    : `${items.length} cards disponiveis`;
+
+  if (!items.length) {
+    gridEl.innerHTML = `
+      <div class="rounded-lg border border-slate-200 bg-white p-5 text-sm font-semibold text-slate-500 sm:col-span-2 lg:col-span-3">
+        Nada encontrado para "${escapeAttribute(searchQuery)}".
+      </div>
+    `;
+    return;
+  }
+
   gridEl.innerHTML = items.map((item) => `
     <article class="study-card h-56 w-full text-left perspective-1000" tabindex="0" onclick="this.classList.toggle('is-open')" aria-label="Virar ${item.front}">
       <span class="study-card-inner relative block h-full w-full transition-transform duration-500 preserve-3d ${item.type === 'Frase' ? 'text-sm' : ''}">
@@ -182,6 +220,11 @@ function renderCatalog() {
 function setFilter(type) {
   activeFilter = type;
   renderFilters();
+  renderCatalog();
+}
+
+function setSearchQuery(value) {
+  searchQuery = value;
   renderCatalog();
 }
 
@@ -284,6 +327,7 @@ document.addEventListener('keydown', (e) => {
 });
 
 window.addEventListener('hashchange', showView);
+searchInput.addEventListener('input', (event) => setSearchQuery(event.target.value));
 
 if ('speechSynthesis' in window) {
   refreshVoices();
