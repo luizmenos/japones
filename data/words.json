@@ -238,5 +238,191 @@
     "reading": "やっきょく (yakkyoku)",
     "meaning": "Farmácia",
     "type": "Palavra"
+  },
+  {
+    "front": "切符",
+    "reading": "きっぷ (kippu)",
+    "meaning": "Passagem / bilhete",
+    "type": "Palavra"
+  },
+  {
+    "front": "改札",
+    "reading": "かいさつ (kaisatsu)",
+    "meaning": "Catraca / portão da estação",
+    "type": "Palavra"
+  },
+  {
+    "front": "出口",
+    "reading": "でぐち (deguchi)",
+    "meaning": "Saída",
+    "type": "Palavra"
+  },
+  {
+    "front": "入口",
+    "reading": "いりぐち (iriguchi)",
+    "meaning": "Entrada",
+    "type": "Palavra"
+  },
+  {
+    "front": "階段",
+    "reading": "かいだん (kaidan)",
+    "meaning": "Escada",
+    "type": "Palavra"
+  },
+  {
+    "front": "エレベーター",
+    "reading": "erebeetaa",
+    "meaning": "Elevador",
+    "type": "Palavra"
+  },
+  {
+    "front": "バス",
+    "reading": "basu",
+    "meaning": "Ônibus",
+    "type": "Palavra"
+  },
+  {
+    "front": "タクシー",
+    "reading": "takushii",
+    "meaning": "Táxi",
+    "type": "Palavra"
+  },
+  {
+    "front": "自転車",
+    "reading": "じてんしゃ (jitensha)",
+    "meaning": "Bicicleta",
+    "type": "Palavra"
+  },
+  {
+    "front": "地図",
+    "reading": "ちず (chizu)",
+    "meaning": "Mapa",
+    "type": "Palavra"
+  },
+  {
+    "front": "住所",
+    "reading": "じゅうしょ (juusho)",
+    "meaning": "Endereço",
+    "type": "Palavra"
+  },
+  {
+    "front": "番号",
+    "reading": "ばんごう (bangou)",
+    "meaning": "Número",
+    "type": "Palavra"
+  },
+  {
+    "front": "財布",
+    "reading": "さいふ (saifu)",
+    "meaning": "Carteira",
+    "type": "Palavra"
+  },
+  {
+    "front": "鍵",
+    "reading": "かぎ (kagi)",
+    "meaning": "Chave",
+    "type": "Palavra"
+  },
+  {
+    "front": "携帯",
+    "reading": "けいたい (keitai)",
+    "meaning": "Celular",
+    "type": "Palavra"
+  },
+  {
+    "front": "充電器",
+    "reading": "じゅうでんき (juudenki)",
+    "meaning": "Carregador",
+    "type": "Palavra"
+  },
+  {
+    "front": "傘",
+    "reading": "かさ (kasa)",
+    "meaning": "Guarda-chuva",
+    "type": "Palavra"
+  },
+  {
+    "front": "服",
+    "reading": "ふく (fuku)",
+    "meaning": "Roupa",
+    "type": "Palavra"
+  },
+  {
+    "front": "靴",
+    "reading": "くつ (kutsu)",
+    "meaning": "Sapato",
+    "type": "Palavra"
+  },
+  {
+    "front": "席",
+    "reading": "せき (seki)",
+    "meaning": "Assento / lugar",
+    "type": "Palavra"
+  },
+  {
+    "front": "禁煙",
+    "reading": "きんえん (kin-en)",
+    "meaning": "Proibido fumar",
+    "type": "Palavra"
+  },
+  {
+    "front": "無料",
+    "reading": "むりょう (muryou)",
+    "meaning": "Grátis",
+    "type": "Palavra"
+  },
+  {
+    "front": "有料",
+    "reading": "ゆうりょう (yuuryou)",
+    "meaning": "Pago",
+    "type": "Palavra"
+  },
+  {
+    "front": "注文",
+    "reading": "ちゅうもん (chuumon)",
+    "meaning": "Pedido",
+    "type": "Palavra"
+  },
+  {
+    "front": "受付",
+    "reading": "うけつけ (uketsuke)",
+    "meaning": "Recepção",
+    "type": "Palavra"
+  },
+  {
+    "front": "医者",
+    "reading": "いしゃ (isha)",
+    "meaning": "Médico",
+    "type": "Palavra"
+  },
+  {
+    "front": "薬",
+    "reading": "くすり (kusuri)",
+    "meaning": "Remédio",
+    "type": "Palavra"
+  },
+  {
+    "front": "頭",
+    "reading": "あたま (atama)",
+    "meaning": "Cabeça",
+    "type": "Palavra"
+  },
+  {
+    "front": "熱",
+    "reading": "ねつ (netsu)",
+    "meaning": "Febre",
+    "type": "Palavra"
+  },
+  {
+    "front": "質問",
+    "reading": "しつもん (shitsumon)",
+    "meaning": "Pergunta",
+    "type": "Palavra"
+  },
+  {
+    "front": "答え",
+    "reading": "こたえ (kotae)",
+    "meaning": "Resposta",
+    "type": "Palavra"
   }
 ]

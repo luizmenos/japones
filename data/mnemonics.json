@@ -274,5 +274,53 @@
     "reading": "した (shita)",
     "type": "Kanji",
     "hint": "O traço aponta para baixo da linha: embaixo."
+  },
+  {
+    "symbol": "中",
+    "reading": "なか (naka)",
+    "type": "Kanji",
+    "hint": "Uma linha atravessando o centro de uma caixa: dentro/meio."
+  },
+  {
+    "symbol": "休",
+    "reading": "やすむ (yasumu)",
+    "type": "Kanji",
+    "hint": "Pessoa ao lado de uma árvore: descansando."
+  },
+  {
+    "symbol": "明",
+    "reading": "あかるい (akarui)",
+    "type": "Kanji",
+    "hint": "Sol + lua juntos: claro/brilhante."
+  },
+  {
+    "symbol": "聞",
+    "reading": "きく (kiku)",
+    "type": "Kanji",
+    "hint": "Ouvido dentro do portão: ouvir."
+  },
+  {
+    "symbol": "雨",
+    "reading": "あめ (ame)",
+    "type": "Kanji",
+    "hint": "Uma nuvem com pingos caindo: chuva."
+  },
+  {
+    "symbol": "傘",
+    "reading": "かさ (kasa)",
+    "type": "Kanji",
+    "hint": "Parece um guarda-chuva aberto com pessoas embaixo."
+  },
+  {
+    "symbol": "車",
+    "reading": "くるま (kuruma)",
+    "type": "Kanji",
+    "hint": "Vista de cima de um carro/eixo com rodas."
+  },
+  {
+    "symbol": "間",
+    "reading": "あいだ (aida)",
+    "type": "Kanji",
+    "hint": "Sol aparecendo entre as folhas do portão: intervalo/espaço."
   }
 ]

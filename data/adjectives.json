@@ -1,0 +1,218 @@
+[
+  {
+    "front": "大きい",
+    "reading": "おおきい (ookii)",
+    "meaning": "Grande",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "小さい",
+    "reading": "ちいさい (chiisai)",
+    "meaning": "Pequeno",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "新しい",
+    "reading": "あたらしい (atarashii)",
+    "meaning": "Novo",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "古い",
+    "reading": "ふるい (furui)",
+    "meaning": "Velho / antigo",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "高い",
+    "reading": "たかい (takai)",
+    "meaning": "Caro / alto",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "安い",
+    "reading": "やすい (yasui)",
+    "meaning": "Barato",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "暑い",
+    "reading": "あつい (atsui)",
+    "meaning": "Quente; clima",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "熱い",
+    "reading": "あつい (atsui)",
+    "meaning": "Quente; objeto/comida",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "寒い",
+    "reading": "さむい (samui)",
+    "meaning": "Frio; clima",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "冷たい",
+    "reading": "つめたい (tsumetai)",
+    "meaning": "Frio; objeto/bebida",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "おいしい",
+    "reading": "oishii",
+    "meaning": "Gostoso",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "まずい",
+    "reading": "mazui",
+    "meaning": "Ruim de gosto / situação ruim",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "早い",
+    "reading": "はやい (hayai)",
+    "meaning": "Cedo / rápido no tempo",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "速い",
+    "reading": "はやい (hayai)",
+    "meaning": "Rápido; velocidade",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "遅い",
+    "reading": "おそい (osoi)",
+    "meaning": "Lento / tarde",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "近い",
+    "reading": "ちかい (chikai)",
+    "meaning": "Perto",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "遠い",
+    "reading": "とおい (tooi)",
+    "meaning": "Longe",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "難しい",
+    "reading": "むずかしい (muzukashii)",
+    "meaning": "Difícil",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "易しい",
+    "reading": "やさしい (yasashii)",
+    "meaning": "Fácil",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "優しい",
+    "reading": "やさしい (yasashii)",
+    "meaning": "Gentil",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "面白い",
+    "reading": "おもしろい (omoshiroi)",
+    "meaning": "Interessante / engraçado",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "つまらない",
+    "reading": "tsumaranai",
+    "meaning": "Chato / sem graça",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "楽しい",
+    "reading": "たのしい (tanoshii)",
+    "meaning": "Divertido",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "忙しい",
+    "reading": "いそがしい (isogashii)",
+    "meaning": "Ocupado",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "静か",
+    "reading": "しずか (shizuka)",
+    "meaning": "Silencioso / calmo",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "賑やか",
+    "reading": "にぎやか (nigiyaka)",
+    "meaning": "Movimentado / animado",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "便利",
+    "reading": "べんり (benri)",
+    "meaning": "Conveniente",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "不便",
+    "reading": "ふべん (fuben)",
+    "meaning": "Inconveniente",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "きれい",
+    "reading": "kirei",
+    "meaning": "Bonito / limpo",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "汚い",
+    "reading": "きたない (kitanai)",
+    "meaning": "Sujo",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "元気",
+    "reading": "げんき (genki)",
+    "meaning": "Bem / saudável / animado",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "有名",
+    "reading": "ゆうめい (yuumei)",
+    "meaning": "Famoso",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "好き",
+    "reading": "すき (suki)",
+    "meaning": "Gostar / favorito",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "嫌い",
+    "reading": "きらい (kirai)",
+    "meaning": "Não gostar / odiar",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "上手",
+    "reading": "じょうず (jouzu)",
+    "meaning": "Habilidoso",
+    "type": "Adjetivo"
+  },
+  {
+    "front": "下手",
+    "reading": "へた (heta)",
+    "meaning": "Ruim em algo / desajeitado",
+    "type": "Adjetivo"
+  }
+]

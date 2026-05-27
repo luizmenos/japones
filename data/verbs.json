@@ -148,5 +148,119 @@
     "reading": "おしえる (oshieru)",
     "meaning": "Ensinar / informar",
     "type": "Verbo"
+  },
+  {
+    "front": "売る",
+    "reading": "うる (uru)",
+    "meaning": "Vender",
+    "type": "Verbo"
+  },
+  {
+    "front": "開ける",
+    "reading": "あける (akeru)",
+    "meaning": "Abrir",
+    "type": "Verbo"
+  },
+  {
+    "front": "閉める",
+    "reading": "しめる (shimeru)",
+    "meaning": "Fechar",
+    "type": "Verbo"
+  },
+  {
+    "front": "始まる",
+    "reading": "はじまる (hajimaru)",
+    "meaning": "Começar",
+    "type": "Verbo"
+  },
+  {
+    "front": "終わる",
+    "reading": "おわる (owaru)",
+    "meaning": "Terminar",
+    "type": "Verbo"
+  },
+  {
+    "front": "乗る",
+    "reading": "のる (noru)",
+    "meaning": "Entrar em veículo / montar",
+    "type": "Verbo"
+  },
+  {
+    "front": "降りる",
+    "reading": "おりる (oriru)",
+    "meaning": "Descer de veículo",
+    "type": "Verbo"
+  },
+  {
+    "front": "歩く",
+    "reading": "あるく (aruku)",
+    "meaning": "Andar",
+    "type": "Verbo"
+  },
+  {
+    "front": "走る",
+    "reading": "はしる (hashiru)",
+    "meaning": "Correr",
+    "type": "Verbo"
+  },
+  {
+    "front": "遊ぶ",
+    "reading": "あそぶ (asobu)",
+    "meaning": "Brincar / sair para se divertir",
+    "type": "Verbo"
+  },
+  {
+    "front": "勉強する",
+    "reading": "べんきょうする (benkyou suru)",
+    "meaning": "Estudar",
+    "type": "Verbo"
+  },
+  {
+    "front": "練習する",
+    "reading": "れんしゅうする (renshuu suru)",
+    "meaning": "Praticar",
+    "type": "Verbo"
+  },
+  {
+    "front": "電話する",
+    "reading": "でんわする (denwa suru)",
+    "meaning": "Telefonar",
+    "type": "Verbo"
+  },
+  {
+    "front": "予約する",
+    "reading": "よやくする (yoyaku suru)",
+    "meaning": "Reservar",
+    "type": "Verbo"
+  },
+  {
+    "front": "注文する",
+    "reading": "ちゅうもんする (chuumon suru)",
+    "meaning": "Fazer pedido",
+    "type": "Verbo"
+  },
+  {
+    "front": "払う",
+    "reading": "はらう (harau)",
+    "meaning": "Pagar",
+    "type": "Verbo"
+  },
+  {
+    "front": "探す",
+    "reading": "さがす (sagasu)",
+    "meaning": "Procurar",
+    "type": "Verbo"
+  },
+  {
+    "front": "なくす",
+    "reading": "nakusu",
+    "meaning": "Perder algo",
+    "type": "Verbo"
+  },
+  {
+    "front": "違う",
+    "reading": "ちがう (chigau)",
+    "meaning": "Ser diferente / estar errado",
+    "type": "Verbo"
   }
 ]

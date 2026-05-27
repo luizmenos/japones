@@ -3,6 +3,8 @@ const dataFiles = [
   'katakana',
   'kanji',
   'verbs',
+  'adjectives',
+  'particles',
   'words',
   'phrases'
 ];

@@ -310,5 +310,167 @@
     "reading": "した (shita)",
     "meaning": "Embaixo",
     "type": "Kanji"
+  },
+  {
+    "front": "大",
+    "reading": "おお / だい (oo/dai)",
+    "meaning": "Grande",
+    "type": "Kanji"
+  },
+  {
+    "front": "小",
+    "reading": "ちい / しょう (chii/shou)",
+    "meaning": "Pequeno",
+    "type": "Kanji"
+  },
+  {
+    "front": "中",
+    "reading": "なか / ちゅう (naka/chuu)",
+    "meaning": "Dentro / meio",
+    "type": "Kanji"
+  },
+  {
+    "front": "半",
+    "reading": "はん (han)",
+    "meaning": "Metade",
+    "type": "Kanji"
+  },
+  {
+    "front": "時",
+    "reading": "じ (ji)",
+    "meaning": "Hora / tempo",
+    "type": "Kanji"
+  },
+  {
+    "front": "分",
+    "reading": "ふん / ぶん (fun/bun)",
+    "meaning": "Minuto / parte",
+    "type": "Kanji"
+  },
+  {
+    "front": "今",
+    "reading": "いま (ima)",
+    "meaning": "Agora",
+    "type": "Kanji"
+  },
+  {
+    "front": "毎",
+    "reading": "まい (mai)",
+    "meaning": "Todo / cada",
+    "type": "Kanji"
+  },
+  {
+    "front": "年",
+    "reading": "とし / ねん (toshi/nen)",
+    "meaning": "Ano",
+    "type": "Kanji"
+  },
+  {
+    "front": "週",
+    "reading": "しゅう (shuu)",
+    "meaning": "Semana",
+    "type": "Kanji"
+  },
+  {
+    "front": "何",
+    "reading": "なに / なん (nani/nan)",
+    "meaning": "O quê?",
+    "type": "Kanji"
+  },
+  {
+    "front": "誰",
+    "reading": "だれ (dare)",
+    "meaning": "Quem?",
+    "type": "Kanji"
+  },
+  {
+    "front": "行",
+    "reading": "いく / こう (iku/kou)",
+    "meaning": "Ir / linha",
+    "type": "Kanji"
+  },
+  {
+    "front": "来",
+    "reading": "くる / らい (kuru/rai)",
+    "meaning": "Vir / próximo",
+    "type": "Kanji"
+  },
+  {
+    "front": "見",
+    "reading": "みる (miru)",
+    "meaning": "Ver",
+    "type": "Kanji"
+  },
+  {
+    "front": "聞",
+    "reading": "きく (kiku)",
+    "meaning": "Ouvir / perguntar",
+    "type": "Kanji"
+  },
+  {
+    "front": "読",
+    "reading": "よむ (yomu)",
+    "meaning": "Ler",
+    "type": "Kanji"
+  },
+  {
+    "front": "書",
+    "reading": "かく (kaku)",
+    "meaning": "Escrever",
+    "type": "Kanji"
+  },
+  {
+    "front": "食",
+    "reading": "たべる / しょく (taberu/shoku)",
+    "meaning": "Comer / comida",
+    "type": "Kanji"
+  },
+  {
+    "front": "飲",
+    "reading": "のむ (nomu)",
+    "meaning": "Beber",
+    "type": "Kanji"
+  },
+  {
+    "front": "買",
+    "reading": "かう (kau)",
+    "meaning": "Comprar",
+    "type": "Kanji"
+  },
+  {
+    "front": "売",
+    "reading": "うる (uru)",
+    "meaning": "Vender",
+    "type": "Kanji"
+  },
+  {
+    "front": "休",
+    "reading": "やすむ (yasumu)",
+    "meaning": "Descansar",
+    "type": "Kanji"
+  },
+  {
+    "front": "会",
+    "reading": "あう / かい (au/kai)",
+    "meaning": "Encontrar / reunião",
+    "type": "Kanji"
+  },
+  {
+    "front": "話",
+    "reading": "はなす / はなし (hanasu/hanashi)",
+    "meaning": "Falar / conversa",
+    "type": "Kanji"
+  },
+  {
+    "front": "入口",
+    "reading": "いりぐち (iriguchi)",
+    "meaning": "Entrada",
+    "type": "Kanji"
+  },
+  {
+    "front": "出口",
+    "reading": "でぐち (deguchi)",
+    "meaning": "Saída",
+    "type": "Kanji"
   }
 ]

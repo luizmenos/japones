@@ -526,5 +526,161 @@
     "reading": "ki o tsukete",
     "meaning": "Se cuida / cuidado",
     "type": "Frase"
+  },
+  {
+    "front": "これはどういう意味ですか",
+    "reading": "kore wa dou iu imi desu ka",
+    "meaning": "O que isto significa?",
+    "type": "Frase"
+  },
+  {
+    "front": "漢字で書いてください",
+    "reading": "kanji de kaite kudasai",
+    "meaning": "Escreva em kanji, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "ひらがなでお願いします",
+    "reading": "hiragana de onegaishimasu",
+    "meaning": "Em hiragana, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "もう少しゆっくり話してください",
+    "reading": "mou sukoshi yukkuri hanashite kudasai",
+    "meaning": "Fale um pouco mais devagar, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "ここに書いてください",
+    "reading": "koko ni kaite kudasai",
+    "meaning": "Escreva aqui, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "この近くにコンビニはありますか",
+    "reading": "kono chikaku ni konbini wa arimasu ka",
+    "meaning": "Tem uma loja de conveniência aqui perto?",
+    "type": "Frase"
+  },
+  {
+    "front": "おすすめの店はありますか",
+    "reading": "osusume no mise wa arimasu ka",
+    "meaning": "Tem alguma loja/restaurante recomendado?",
+    "type": "Frase"
+  },
+  {
+    "front": "一人です",
+    "reading": "hitori desu",
+    "meaning": "Estou sozinho / uma pessoa",
+    "type": "Frase"
+  },
+  {
+    "front": "二人です",
+    "reading": "futari desu",
+    "meaning": "Somos duas pessoas",
+    "type": "Frase"
+  },
+  {
+    "front": "禁煙席をお願いします",
+    "reading": "kin-enseki o onegaishimasu",
+    "meaning": "Mesa de não fumante, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "同じものをください",
+    "reading": "onaji mono o kudasai",
+    "meaning": "Quero o mesmo, por favor",
+    "type": "Frase"
+  },
+  {
+    "front": "別々に払えますか",
+    "reading": "betsubetsu ni haraemasu ka",
+    "meaning": "Podemos pagar separado?",
+    "type": "Frase"
+  },
+  {
+    "front": "試着してもいいですか",
+    "reading": "shichaku shite mo ii desu ka",
+    "meaning": "Posso experimentar?",
+    "type": "Frase"
+  },
+  {
+    "front": "もっと大きいサイズはありますか",
+    "reading": "motto ookii saizu wa arimasu ka",
+    "meaning": "Tem um tamanho maior?",
+    "type": "Frase"
+  },
+  {
+    "front": "もっと小さいサイズはありますか",
+    "reading": "motto chiisai saizu wa arimasu ka",
+    "meaning": "Tem um tamanho menor?",
+    "type": "Frase"
+  },
+  {
+    "front": "これを探しています",
+    "reading": "kore o sagashite imasu",
+    "meaning": "Estou procurando isto",
+    "type": "Frase"
+  },
+  {
+    "front": "見るだけです",
+    "reading": "miru dake desu",
+    "meaning": "Estou só olhando",
+    "type": "Frase"
+  },
+  {
+    "front": "何番線ですか",
+    "reading": "nanbansen desu ka",
+    "meaning": "Qual plataforma/linha?",
+    "type": "Frase"
+  },
+  {
+    "front": "乗り換えはどこですか",
+    "reading": "norikae wa doko desu ka",
+    "meaning": "Onde faço baldeação?",
+    "type": "Frase"
+  },
+  {
+    "front": "終電は何時ですか",
+    "reading": "shuuden wa nanji desu ka",
+    "meaning": "Que horas é o último trem?",
+    "type": "Frase"
+  },
+  {
+    "front": "荷物を預けたいです",
+    "reading": "nimotsu o azuketai desu",
+    "meaning": "Quero deixar minha bagagem",
+    "type": "Frase"
+  },
+  {
+    "front": "予約を確認したいです",
+    "reading": "yoyaku o kakunin shitai desu",
+    "meaning": "Quero confirmar minha reserva",
+    "type": "Frase"
+  },
+  {
+    "front": "頭が痛いです",
+    "reading": "atama ga itai desu",
+    "meaning": "Estou com dor de cabeça",
+    "type": "Frase"
+  },
+  {
+    "front": "熱があります",
+    "reading": "netsu ga arimasu",
+    "meaning": "Estou com febre",
+    "type": "Frase"
+  },
+  {
+    "front": "少し休みたいです",
+    "reading": "sukoshi yasumitai desu",
+    "meaning": "Quero descansar um pouco",
+    "type": "Frase"
+  },
+  {
+    "front": "今日は楽しかったです",
+    "reading": "kyou wa tanoshikatta desu",
+    "meaning": "Hoje foi divertido",
+    "type": "Frase"
   }
 ]

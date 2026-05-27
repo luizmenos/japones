@@ -1,0 +1,122 @@
+[
+  {
+    "front": "は",
+    "reading": "wa",
+    "meaning": "Marca o tópico da frase",
+    "type": "Partícula"
+  },
+  {
+    "front": "が",
+    "reading": "ga",
+    "meaning": "Marca o sujeito ou informação nova",
+    "type": "Partícula"
+  },
+  {
+    "front": "を",
+    "reading": "o",
+    "meaning": "Marca o objeto direto",
+    "type": "Partícula"
+  },
+  {
+    "front": "に",
+    "reading": "ni",
+    "meaning": "Destino, tempo específico ou localização de existência",
+    "type": "Partícula"
+  },
+  {
+    "front": "で",
+    "reading": "de",
+    "meaning": "Lugar da ação ou meio usado",
+    "type": "Partícula"
+  },
+  {
+    "front": "へ",
+    "reading": "e",
+    "meaning": "Direção para onde se vai",
+    "type": "Partícula"
+  },
+  {
+    "front": "と",
+    "reading": "to",
+    "meaning": "E / com / citação direta",
+    "type": "Partícula"
+  },
+  {
+    "front": "も",
+    "reading": "mo",
+    "meaning": "Também",
+    "type": "Partícula"
+  },
+  {
+    "front": "の",
+    "reading": "no",
+    "meaning": "Posse ou ligação entre substantivos",
+    "type": "Partícula"
+  },
+  {
+    "front": "から",
+    "reading": "kara",
+    "meaning": "De / desde / porque",
+    "type": "Partícula"
+  },
+  {
+    "front": "まで",
+    "reading": "made",
+    "meaning": "Até",
+    "type": "Partícula"
+  },
+  {
+    "front": "より",
+    "reading": "yori",
+    "meaning": "Do que / a partir de",
+    "type": "Partícula"
+  },
+  {
+    "front": "や",
+    "reading": "ya",
+    "meaning": "Lista incompleta: A, B etc.",
+    "type": "Partícula"
+  },
+  {
+    "front": "か",
+    "reading": "ka",
+    "meaning": "Pergunta ou alternativa",
+    "type": "Partícula"
+  },
+  {
+    "front": "ね",
+    "reading": "ne",
+    "meaning": "Busca confirmação: né?",
+    "type": "Partícula"
+  },
+  {
+    "front": "よ",
+    "reading": "yo",
+    "meaning": "Ênfase ou informação nova",
+    "type": "Partícula"
+  },
+  {
+    "front": "だけ",
+    "reading": "dake",
+    "meaning": "Somente / apenas",
+    "type": "Partícula"
+  },
+  {
+    "front": "しか",
+    "reading": "shika",
+    "meaning": "Somente; usado com negativo",
+    "type": "Partícula"
+  },
+  {
+    "front": "ながら",
+    "reading": "nagara",
+    "meaning": "Enquanto faz outra ação",
+    "type": "Partícula"
+  },
+  {
+    "front": "たり",
+    "reading": "tari",
+    "meaning": "Enumera ações de forma não exaustiva",
+    "type": "Partícula"
+  }
+]
