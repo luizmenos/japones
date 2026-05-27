@@ -3,474 +3,553 @@
     "front": "一",
     "reading": "いち (ichi)",
     "meaning": "Um (1)",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/001-d274eee8a1.mp3"
   },
   {
     "front": "二",
     "reading": "に (ni)",
     "meaning": "Dois (2)",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/002-1d5639f716.mp3"
   },
   {
     "front": "三",
     "reading": "さん (san)",
     "meaning": "Três (3)",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/003-49ddb069d5.mp3"
   },
   {
     "front": "四",
     "reading": "よん / し (yon/shi)",
     "meaning": "Quatro (4)",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/004-4f88740b34.mp3"
   },
   {
     "front": "五",
     "reading": "ご (go)",
     "meaning": "Cinco (5)",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/005-8f07f53d63.mp3"
   },
   {
     "front": "六",
     "reading": "ろく (roku)",
     "meaning": "Seis (6)",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/006-3d72c724e0.mp3"
   },
   {
     "front": "七",
     "reading": "なな / しち (nana/shichi)",
     "meaning": "Sete (7)",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/007-7db1eeb5c3.mp3"
   },
   {
     "front": "八",
     "reading": "はち (hachi)",
     "meaning": "Oito (8)",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/008-2142fb62fd.mp3"
   },
   {
     "front": "九",
     "reading": "きゅう (kyuu)",
     "meaning": "Nove (9)",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/009-27a2b9f17b.mp3"
   },
   {
     "front": "十",
     "reading": "じゅう (juu)",
     "meaning": "Dez (10)",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/010-aa107f05b6.mp3"
   },
   {
     "front": "百",
     "reading": "ひゃく (hyaku)",
     "meaning": "Cento / Cem (100)",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/011-501367f953.mp3"
   },
   {
     "front": "円",
     "reading": "えん (en)",
     "meaning": "Iene / dinheiro",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/012-c257210e5f.mp3"
   },
   {
     "front": "駅",
     "reading": "えき (eki)",
     "meaning": "Estação",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/013-e70b5299d0.mp3"
   },
   {
     "front": "店",
     "reading": "みせ (mise)",
     "meaning": "Loja",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/014-22df192e24.mp3"
   },
   {
     "front": "前",
     "reading": "まえ (mae)",
     "meaning": "Frente / antes",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/015-073d852840.mp3"
   },
   {
     "front": "後",
     "reading": "あと / うしろ (ato/ushiro)",
     "meaning": "Depois / atrás",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/016-a1a8cfd1de.mp3"
   },
   {
     "front": "山",
     "reading": "やま (yama)",
     "meaning": "Montanha",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/017-0e248e5603.mp3"
   },
   {
     "front": "川",
     "reading": "かわ (kawa)",
     "meaning": "Rio",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/018-0f6a7e280c.mp3"
   },
   {
     "front": "田",
     "reading": "た (ta)",
     "meaning": "Arrozal / campo",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/019-2380e6711d.mp3"
   },
   {
     "front": "日",
     "reading": "ひ / にち (hi/nichi)",
     "meaning": "Sol / dia",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/020-15917f3b32.mp3"
   },
   {
     "front": "月",
     "reading": "つき (tsuki)",
     "meaning": "Lua / mês",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/021-d9b59879f3.mp3"
   },
   {
     "front": "火",
     "reading": "ひ (hi)",
     "meaning": "Fogo",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/022-efb2620838.mp3"
   },
   {
     "front": "水",
     "reading": "みず (mizu)",
     "meaning": "Água",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/023-8ffbf19293.mp3"
   },
   {
     "front": "木",
     "reading": "き (ki)",
     "meaning": "Árvore / madeira",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/024-8294db3a20.mp3"
   },
   {
     "front": "金",
     "reading": "かね / きん (kane/kin)",
     "meaning": "Dinheiro / ouro",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/025-b59df8c44a.mp3"
   },
   {
     "front": "土",
     "reading": "つち (tsuchi)",
     "meaning": "Terra / solo",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/026-90fbc9b1ac.mp3"
   },
   {
     "front": "人",
     "reading": "ひと / じん (hito/jin)",
     "meaning": "Pessoa",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/027-4912771a42.mp3"
   },
   {
     "front": "私",
     "reading": "わたし (watashi)",
     "meaning": "Eu",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/028-4bbe59fd17.mp3"
   },
   {
     "front": "友",
     "reading": "とも (tomo)",
     "meaning": "Amigo",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/029-6cca7a3ec0.mp3"
   },
   {
     "front": "日本",
     "reading": "にほん (nihon)",
     "meaning": "Japão",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/030-44da6bbcf2.mp3"
   },
   {
     "front": "先生",
     "reading": "せんせい (sensei)",
     "meaning": "Professor / mestre",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/031-a6e9f6d970.mp3"
   },
   {
     "front": "学生",
     "reading": "がくせい (gakusei)",
     "meaning": "Estudante",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/032-b76783d38c.mp3"
   },
   {
     "front": "学校",
     "reading": "がっこう (gakkou)",
     "meaning": "Escola",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/033-08610a85a1.mp3"
   },
   {
     "front": "会社",
     "reading": "かいしゃ (kaisha)",
     "meaning": "Empresa",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/034-96bbe7e673.mp3"
   },
   {
     "front": "家",
     "reading": "いえ / うち (ie/uchi)",
     "meaning": "Casa",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/035-7de8177ce7.mp3"
   },
   {
     "front": "国",
     "reading": "くに (kuni)",
     "meaning": "País",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/036-f4bba5643a.mp3"
   },
   {
     "front": "町",
     "reading": "まち (machi)",
     "meaning": "Cidade / bairro",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/037-b72d6f67e8.mp3"
   },
   {
     "front": "車",
     "reading": "くるま (kuruma)",
     "meaning": "Carro",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/038-47782cc9bc.mp3"
   },
   {
     "front": "電車",
     "reading": "でんしゃ (densha)",
     "meaning": "Trem",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/039-bcbb5cf07f.mp3"
   },
   {
     "front": "時間",
     "reading": "じかん (jikan)",
     "meaning": "Tempo / hora",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/040-09558b2cc6.mp3"
   },
   {
     "front": "今日",
     "reading": "きょう (kyou)",
     "meaning": "Hoje",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/041-574cd4fb79.mp3"
   },
   {
     "front": "明日",
     "reading": "あした (ashita)",
     "meaning": "Amanhã",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/042-762ffcba27.mp3"
   },
   {
     "front": "昨日",
     "reading": "きのう (kinou)",
     "meaning": "Ontem",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/043-b43054fed8.mp3"
   },
   {
     "front": "名前",
     "reading": "なまえ (namae)",
     "meaning": "Nome",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/044-d54d12f95c.mp3"
   },
   {
     "front": "電話",
     "reading": "でんわ (denwa)",
     "meaning": "Telefone",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/045-7177787c6e.mp3"
   },
   {
     "front": "本",
     "reading": "ほん (hon)",
     "meaning": "Livro",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/046-d3cc0cab9c.mp3"
   },
   {
     "front": "雨",
     "reading": "あめ (ame)",
     "meaning": "Chuva",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/047-8995b89799.mp3"
   },
   {
     "front": "空",
     "reading": "そら (sora)",
     "meaning": "Céu",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/048-82ca4a6ba6.mp3"
   },
   {
     "front": "右",
     "reading": "みぎ (migi)",
     "meaning": "Direita",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/049-851cdd6091.mp3"
   },
   {
     "front": "左",
     "reading": "ひだり (hidari)",
     "meaning": "Esquerda",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/050-df3ee66760.mp3"
   },
   {
     "front": "上",
     "reading": "うえ (ue)",
     "meaning": "Em cima",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/051-b967ce841a.mp3"
   },
   {
     "front": "下",
     "reading": "した (shita)",
     "meaning": "Embaixo",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/052-a6caf2effb.mp3"
   },
   {
     "front": "大",
     "reading": "おお / だい (oo/dai)",
     "meaning": "Grande",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/053-0889c34972.mp3"
   },
   {
     "front": "小",
     "reading": "ちい / しょう (chii/shou)",
     "meaning": "Pequeno",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/054-922517cc73.mp3"
   },
   {
     "front": "中",
     "reading": "なか / ちゅう (naka/chuu)",
     "meaning": "Dentro / meio",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/055-0869071c92.mp3"
   },
   {
     "front": "半",
     "reading": "はん (han)",
     "meaning": "Metade",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/056-2bff6583b6.mp3"
   },
   {
     "front": "時",
     "reading": "じ (ji)",
     "meaning": "Hora / tempo",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/057-2fdc2b012a.mp3"
   },
   {
     "front": "分",
     "reading": "ふん / ぶん (fun/bun)",
     "meaning": "Minuto / parte",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/058-0d7416e2e2.mp3"
   },
   {
     "front": "今",
     "reading": "いま (ima)",
     "meaning": "Agora",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/059-d2130d70a0.mp3"
   },
   {
     "front": "毎",
     "reading": "まい (mai)",
     "meaning": "Todo / cada",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/060-370fea5220.mp3"
   },
   {
     "front": "年",
     "reading": "とし / ねん (toshi/nen)",
     "meaning": "Ano",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/061-6f14c2641c.mp3"
   },
   {
     "front": "週",
     "reading": "しゅう (shuu)",
     "meaning": "Semana",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/062-c7803dadcd.mp3"
   },
   {
     "front": "何",
     "reading": "なに / なん (nani/nan)",
     "meaning": "O quê?",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/063-4a9efaa77f.mp3"
   },
   {
     "front": "誰",
     "reading": "だれ (dare)",
     "meaning": "Quem?",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/064-ad603e38da.mp3"
   },
   {
     "front": "行",
     "reading": "いく / こう (iku/kou)",
     "meaning": "Ir / linha",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/065-2a2b777ae4.mp3"
   },
   {
     "front": "来",
     "reading": "くる / らい (kuru/rai)",
     "meaning": "Vir / próximo",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/066-4b1d6193e4.mp3"
   },
   {
     "front": "見",
     "reading": "みる (miru)",
     "meaning": "Ver",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/067-7ac94c1ab9.mp3"
   },
   {
     "front": "聞",
     "reading": "きく (kiku)",
     "meaning": "Ouvir / perguntar",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/068-d4ff44b74b.mp3"
   },
   {
     "front": "読",
     "reading": "よむ (yomu)",
     "meaning": "Ler",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/069-479a48d2c0.mp3"
   },
   {
     "front": "書",
     "reading": "かく (kaku)",
     "meaning": "Escrever",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/070-a29f6f0625.mp3"
   },
   {
     "front": "食",
     "reading": "たべる / しょく (taberu/shoku)",
     "meaning": "Comer / comida",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/071-d46696735b.mp3"
   },
   {
     "front": "飲",
     "reading": "のむ (nomu)",
     "meaning": "Beber",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/072-5cd375af49.mp3"
   },
   {
     "front": "買",
     "reading": "かう (kau)",
     "meaning": "Comprar",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/073-a4a97dbdae.mp3"
   },
   {
     "front": "売",
     "reading": "うる (uru)",
     "meaning": "Vender",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/074-dc81f782a7.mp3"
   },
   {
     "front": "休",
     "reading": "やすむ (yasumu)",
     "meaning": "Descansar",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/075-0afbe7b539.mp3"
   },
   {
     "front": "会",
     "reading": "あう / かい (au/kai)",
     "meaning": "Encontrar / reunião",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/076-577cfff298.mp3"
   },
   {
     "front": "話",
     "reading": "はなす / はなし (hanasu/hanashi)",
     "meaning": "Falar / conversa",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/077-2f78e3a989.mp3"
   },
   {
     "front": "入口",
     "reading": "いりぐち (iriguchi)",
     "meaning": "Entrada",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/078-38e9cd1ffb.mp3"
   },
   {
     "front": "出口",
     "reading": "でぐち (deguchi)",
     "meaning": "Saída",
-    "type": "Kanji"
+    "type": "Kanji",
+    "audio": "audio/kanji/079-dd877ebcea.mp3"
   }
 ]

@@ -3,276 +3,322 @@
     "front": "ア",
     "reading": "a",
     "meaning": "Katakana A",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/001-1b4c4cc65f.mp3"
   },
   {
     "front": "イ",
     "reading": "i",
     "meaning": "Katakana I",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/002-b284de6134.mp3"
   },
   {
     "front": "ウ",
     "reading": "u",
     "meaning": "Katakana U",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/003-86686c3113.mp3"
   },
   {
     "front": "エ",
     "reading": "e",
     "meaning": "Katakana E",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/004-3707bab0c4.mp3"
   },
   {
     "front": "オ",
     "reading": "o",
     "meaning": "Katakana O",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/005-06716d34cc.mp3"
   },
   {
     "front": "カ",
     "reading": "ka",
     "meaning": "Katakana Ka",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/006-00ed9f08e2.mp3"
   },
   {
     "front": "キ",
     "reading": "ki",
     "meaning": "Katakana Ki",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/007-408ae436f0.mp3"
   },
   {
     "front": "ク",
     "reading": "ku",
     "meaning": "Katakana Ku",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/008-15901a60a3.mp3"
   },
   {
     "front": "ケ",
     "reading": "ke",
     "meaning": "Katakana Ke",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/009-b50e4b46f6.mp3"
   },
   {
     "front": "コ",
     "reading": "ko",
     "meaning": "Katakana Ko",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/010-202a6b25e7.mp3"
   },
   {
     "front": "サ",
     "reading": "sa",
     "meaning": "Katakana Sa",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/011-bf2cbaccbc.mp3"
   },
   {
     "front": "シ",
     "reading": "shi",
     "meaning": "Katakana Shi",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/012-1afad77037.mp3"
   },
   {
     "front": "ス",
     "reading": "su",
     "meaning": "Katakana Su",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/013-4df8398708.mp3"
   },
   {
     "front": "セ",
     "reading": "se",
     "meaning": "Katakana Se",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/014-825cec98c4.mp3"
   },
   {
     "front": "ソ",
     "reading": "so",
     "meaning": "Katakana So",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/015-7394858d1c.mp3"
   },
   {
     "front": "タ",
     "reading": "ta",
     "meaning": "Katakana Ta",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/016-056cfad24e.mp3"
   },
   {
     "front": "チ",
     "reading": "chi",
     "meaning": "Katakana Chi",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/017-7e62c71ff6.mp3"
   },
   {
     "front": "ツ",
     "reading": "tsu",
     "meaning": "Katakana Tsu",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/018-ee5fe18a7c.mp3"
   },
   {
     "front": "テ",
     "reading": "te",
     "meaning": "Katakana Te",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/019-8996011e57.mp3"
   },
   {
     "front": "ト",
     "reading": "to",
     "meaning": "Katakana To",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/020-d729bd2b27.mp3"
   },
   {
     "front": "ナ",
     "reading": "na",
     "meaning": "Katakana Na",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/021-8f67916a92.mp3"
   },
   {
     "front": "ニ",
     "reading": "ni",
     "meaning": "Katakana Ni",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/022-d8a8e4205a.mp3"
   },
   {
     "front": "ヌ",
     "reading": "nu",
     "meaning": "Katakana Nu",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/023-065ebce83a.mp3"
   },
   {
     "front": "ネ",
     "reading": "ne",
     "meaning": "Katakana Ne",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/024-edc16abe75.mp3"
   },
   {
     "front": "ノ",
     "reading": "no",
     "meaning": "Katakana No",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/025-6c807d0ae2.mp3"
   },
   {
     "front": "ハ",
     "reading": "ha",
     "meaning": "Katakana Ha",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/026-35104655d4.mp3"
   },
   {
     "front": "ヒ",
     "reading": "hi",
     "meaning": "Katakana Hi",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/027-9da359d519.mp3"
   },
   {
     "front": "フ",
     "reading": "fu",
     "meaning": "Katakana Fu",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/028-c2fa87c3dd.mp3"
   },
   {
     "front": "ヘ",
     "reading": "he",
     "meaning": "Katakana He",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/029-5cf428be44.mp3"
   },
   {
     "front": "ホ",
     "reading": "ho",
     "meaning": "Katakana Ho",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/030-41a11f66f5.mp3"
   },
   {
     "front": "マ",
     "reading": "ma",
     "meaning": "Katakana Ma",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/031-55d42f593c.mp3"
   },
   {
     "front": "ミ",
     "reading": "mi",
     "meaning": "Katakana Mi",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/032-651d85849d.mp3"
   },
   {
     "front": "ム",
     "reading": "mu",
     "meaning": "Katakana Mu",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/033-c6abfe2635.mp3"
   },
   {
     "front": "メ",
     "reading": "me",
     "meaning": "Katakana Me",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/034-cfc3325ef0.mp3"
   },
   {
     "front": "モ",
     "reading": "mo",
     "meaning": "Katakana Mo",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/035-577210255a.mp3"
   },
   {
     "front": "ヤ",
     "reading": "ya",
     "meaning": "Katakana Ya",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/036-8e621f06c4.mp3"
   },
   {
     "front": "ユ",
     "reading": "yu",
     "meaning": "Katakana Yu",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/037-ea633878f2.mp3"
   },
   {
     "front": "ヨ",
     "reading": "yo",
     "meaning": "Katakana Yo",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/038-da6c6a6baf.mp3"
   },
   {
     "front": "ラ",
     "reading": "ra",
     "meaning": "Katakana Ra",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/039-d5f1ca173f.mp3"
   },
   {
     "front": "リ",
     "reading": "ri",
     "meaning": "Katakana Ri",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/040-56cb721117.mp3"
   },
   {
     "front": "ル",
     "reading": "ru",
     "meaning": "Katakana Ru",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/041-1d672f91e3.mp3"
   },
   {
     "front": "レ",
     "reading": "re",
     "meaning": "Katakana Re",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/042-00859a61c0.mp3"
   },
   {
     "front": "ロ",
     "reading": "ro",
     "meaning": "Katakana Ro",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/043-4c1fe526f3.mp3"
   },
   {
     "front": "ワ",
     "reading": "wa",
     "meaning": "Katakana Wa",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/044-a2fbf25469.mp3"
   },
   {
     "front": "ヲ",
     "reading": "o",
     "meaning": "Katakana Wo/O",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/045-b40c5f345c.mp3"
   },
   {
     "front": "ン",
     "reading": "n",
     "meaning": "Som N final",
-    "type": "Katakana"
+    "type": "Katakana",
+    "audio": "audio/katakana/046-6ad7ee833a.mp3"
   }
 ]

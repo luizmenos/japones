@@ -3,120 +3,140 @@
     "front": "は",
     "reading": "wa",
     "meaning": "Marca o tópico da frase",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/001-1fa0519cfd.mp3"
   },
   {
     "front": "が",
     "reading": "ga",
     "meaning": "Marca o sujeito ou informação nova",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/002-a142816563.mp3"
   },
   {
     "front": "を",
     "reading": "o",
     "meaning": "Marca o objeto direto",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/003-eba95ba0c6.mp3"
   },
   {
     "front": "に",
     "reading": "ni",
     "meaning": "Destino, tempo específico ou localização de existência",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/004-de3d1ecc94.mp3"
   },
   {
     "front": "で",
     "reading": "de",
     "meaning": "Lugar da ação ou meio usado",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/005-7350618fce.mp3"
   },
   {
     "front": "へ",
     "reading": "e",
     "meaning": "Direção para onde se vai",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/006-72c746d609.mp3"
   },
   {
     "front": "と",
     "reading": "to",
     "meaning": "E / com / citação direta",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/007-a986a7bc9e.mp3"
   },
   {
     "front": "も",
     "reading": "mo",
     "meaning": "Também",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/008-3c6945772d.mp3"
   },
   {
     "front": "の",
     "reading": "no",
     "meaning": "Posse ou ligação entre substantivos",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/009-56377d14d4.mp3"
   },
   {
     "front": "から",
     "reading": "kara",
     "meaning": "De / desde / porque",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/010-32c7a85f19.mp3"
   },
   {
     "front": "まで",
     "reading": "made",
     "meaning": "Até",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/011-50bd04b02e.mp3"
   },
   {
     "front": "より",
     "reading": "yori",
     "meaning": "Do que / a partir de",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/012-93cbe1a63b.mp3"
   },
   {
     "front": "や",
     "reading": "ya",
     "meaning": "Lista incompleta: A, B etc.",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/013-bdab1b1739.mp3"
   },
   {
     "front": "か",
     "reading": "ka",
     "meaning": "Pergunta ou alternativa",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/014-288c9e0771.mp3"
   },
   {
     "front": "ね",
     "reading": "ne",
     "meaning": "Busca confirmação: né?",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/015-3a104bbe56.mp3"
   },
   {
     "front": "よ",
     "reading": "yo",
     "meaning": "Ênfase ou informação nova",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/016-6f46f7d4a2.mp3"
   },
   {
     "front": "だけ",
     "reading": "dake",
     "meaning": "Somente / apenas",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/017-aba65c8fa8.mp3"
   },
   {
     "front": "しか",
     "reading": "shika",
     "meaning": "Somente; usado com negativo",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/018-7f4af5ee7e.mp3"
   },
   {
     "front": "ながら",
     "reading": "nagara",
     "meaning": "Enquanto faz outra ação",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/019-77a18b1db8.mp3"
   },
   {
     "front": "たり",
     "reading": "tari",
     "meaning": "Enumera ações de forma não exaustiva",
-    "type": "Partícula"
+    "type": "Partícula",
+    "audio": "audio/particles/020-59ce16407a.mp3"
   }
 ]

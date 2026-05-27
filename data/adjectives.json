@@ -3,216 +3,252 @@
     "front": "大きい",
     "reading": "おおきい (ookii)",
     "meaning": "Grande",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/001-e1ee009241.mp3"
   },
   {
     "front": "小さい",
     "reading": "ちいさい (chiisai)",
     "meaning": "Pequeno",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/002-c62dc9de78.mp3"
   },
   {
     "front": "新しい",
     "reading": "あたらしい (atarashii)",
     "meaning": "Novo",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/003-7905abb96e.mp3"
   },
   {
     "front": "古い",
     "reading": "ふるい (furui)",
     "meaning": "Velho / antigo",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/004-ae8f14fe0b.mp3"
   },
   {
     "front": "高い",
     "reading": "たかい (takai)",
     "meaning": "Caro / alto",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/005-e9d57f21b0.mp3"
   },
   {
     "front": "安い",
     "reading": "やすい (yasui)",
     "meaning": "Barato",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/006-33cd91ff26.mp3"
   },
   {
     "front": "暑い",
     "reading": "あつい (atsui)",
     "meaning": "Quente; clima",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/007-2f7806f919.mp3"
   },
   {
     "front": "熱い",
     "reading": "あつい (atsui)",
     "meaning": "Quente; objeto/comida",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/008-51bcc9d348.mp3"
   },
   {
     "front": "寒い",
     "reading": "さむい (samui)",
     "meaning": "Frio; clima",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/009-bc0d3ddc48.mp3"
   },
   {
     "front": "冷たい",
     "reading": "つめたい (tsumetai)",
     "meaning": "Frio; objeto/bebida",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/010-e546e7d633.mp3"
   },
   {
     "front": "おいしい",
     "reading": "oishii",
     "meaning": "Gostoso",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/011-ac15ff1452.mp3"
   },
   {
     "front": "まずい",
     "reading": "mazui",
     "meaning": "Ruim de gosto / situação ruim",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/012-b022c64d51.mp3"
   },
   {
     "front": "早い",
     "reading": "はやい (hayai)",
     "meaning": "Cedo / rápido no tempo",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/013-aeb2625309.mp3"
   },
   {
     "front": "速い",
     "reading": "はやい (hayai)",
     "meaning": "Rápido; velocidade",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/014-8586dc33c8.mp3"
   },
   {
     "front": "遅い",
     "reading": "おそい (osoi)",
     "meaning": "Lento / tarde",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/015-4b97e5b867.mp3"
   },
   {
     "front": "近い",
     "reading": "ちかい (chikai)",
     "meaning": "Perto",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/016-088d5b688d.mp3"
   },
   {
     "front": "遠い",
     "reading": "とおい (tooi)",
     "meaning": "Longe",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/017-425abb3a17.mp3"
   },
   {
     "front": "難しい",
     "reading": "むずかしい (muzukashii)",
     "meaning": "Difícil",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/018-2c5583944c.mp3"
   },
   {
     "front": "易しい",
     "reading": "やさしい (yasashii)",
     "meaning": "Fácil",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/019-808fa934ce.mp3"
   },
   {
     "front": "優しい",
     "reading": "やさしい (yasashii)",
     "meaning": "Gentil",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/020-fbc81d80c9.mp3"
   },
   {
     "front": "面白い",
     "reading": "おもしろい (omoshiroi)",
     "meaning": "Interessante / engraçado",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/021-6a203ee3f9.mp3"
   },
   {
     "front": "つまらない",
     "reading": "tsumaranai",
     "meaning": "Chato / sem graça",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/022-b2e4d02fab.mp3"
   },
   {
     "front": "楽しい",
     "reading": "たのしい (tanoshii)",
     "meaning": "Divertido",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/023-4bfcc646bf.mp3"
   },
   {
     "front": "忙しい",
     "reading": "いそがしい (isogashii)",
     "meaning": "Ocupado",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/024-03f65015f9.mp3"
   },
   {
     "front": "静か",
     "reading": "しずか (shizuka)",
     "meaning": "Silencioso / calmo",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/025-c9bef118f6.mp3"
   },
   {
     "front": "賑やか",
     "reading": "にぎやか (nigiyaka)",
     "meaning": "Movimentado / animado",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/026-d1b9f5325b.mp3"
   },
   {
     "front": "便利",
     "reading": "べんり (benri)",
     "meaning": "Conveniente",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/027-007ef28173.mp3"
   },
   {
     "front": "不便",
     "reading": "ふべん (fuben)",
     "meaning": "Inconveniente",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/028-8afdef271c.mp3"
   },
   {
     "front": "きれい",
     "reading": "kirei",
     "meaning": "Bonito / limpo",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/029-2b8c515b44.mp3"
   },
   {
     "front": "汚い",
     "reading": "きたない (kitanai)",
     "meaning": "Sujo",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/030-78fbb51d49.mp3"
   },
   {
     "front": "元気",
     "reading": "げんき (genki)",
     "meaning": "Bem / saudável / animado",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/031-ba1a3a1305.mp3"
   },
   {
     "front": "有名",
     "reading": "ゆうめい (yuumei)",
     "meaning": "Famoso",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/032-06cd7186b9.mp3"
   },
   {
     "front": "好き",
     "reading": "すき (suki)",
     "meaning": "Gostar / favorito",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/033-991f96a8ce.mp3"
   },
   {
     "front": "嫌い",
     "reading": "きらい (kirai)",
     "meaning": "Não gostar / odiar",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/034-adb7c9ef10.mp3"
   },
   {
     "front": "上手",
     "reading": "じょうず (jouzu)",
     "meaning": "Habilidoso",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/035-7d12bce4b6.mp3"
   },
   {
     "front": "下手",
     "reading": "へた (heta)",
     "meaning": "Ruim em algo / desajeitado",
-    "type": "Adjetivo"
+    "type": "Adjetivo",
+    "audio": "audio/adjectives/036-0070242dc8.mp3"
   }
 ]

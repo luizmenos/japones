@@ -3,426 +3,819 @@
     "front": "はい",
     "reading": "hai",
     "meaning": "Sim",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/001-c92b4cda8b.mp3"
   },
   {
     "front": "いいえ",
     "reading": "iie",
     "meaning": "Não",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/002-f901585367.mp3"
   },
   {
     "front": "どこ",
     "reading": "doko",
     "meaning": "Onde?",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/003-27b6a68a33.mp3"
   },
   {
     "front": "いくら",
     "reading": "ikura",
     "meaning": "Quanto custa?",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/004-b90e2e1a94.mp3"
   },
   {
     "front": "これ",
     "reading": "kore",
     "meaning": "Isto aqui",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/005-ac62cbc2ad.mp3"
   },
   {
     "front": "それ",
     "reading": "sore",
     "meaning": "Isso aí",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/006-41fa8f0546.mp3"
   },
   {
     "front": "あれ",
     "reading": "are",
     "meaning": "Aquilo lá",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/007-01dd1d4130.mp3"
   },
   {
     "front": "トイレ",
     "reading": "toire",
     "meaning": "Banheiro",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/008-4bdd080a82.mp3"
   },
   {
     "front": "水",
     "reading": "みず (mizu)",
     "meaning": "Água",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/009-8ffbf19293.mp3"
   },
   {
     "front": "駅",
     "reading": "えき (eki)",
     "meaning": "Estação",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/010-e70b5299d0.mp3"
   },
   {
     "front": "だれ",
     "reading": "dare",
     "meaning": "Quem?",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/011-2fb84bb825.mp3"
   },
   {
     "front": "なに",
     "reading": "nani",
     "meaning": "O quê?",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/012-b41e23d04a.mp3"
   },
   {
     "front": "いつ",
     "reading": "itsu",
     "meaning": "Quando?",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/013-2d6221baa7.mp3"
   },
   {
     "front": "どうして",
     "reading": "doushite",
     "meaning": "Por quê?",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/014-0dfa61bfb6.mp3"
   },
   {
     "front": "どうやって",
     "reading": "dou yatte",
     "meaning": "Como?",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/015-fe67c4fb46.mp3"
   },
   {
     "front": "ここ",
     "reading": "koko",
     "meaning": "Aqui",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/016-c92a9d33a6.mp3"
   },
   {
     "front": "そこ",
     "reading": "soko",
     "meaning": "Aí",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/017-4114d1351d.mp3"
   },
   {
     "front": "あそこ",
     "reading": "asoko",
     "meaning": "Lá",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/018-b1f9df0f30.mp3"
   },
   {
     "front": "右",
     "reading": "みぎ (migi)",
     "meaning": "Direita",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/019-851cdd6091.mp3"
   },
   {
     "front": "左",
     "reading": "ひだり (hidari)",
     "meaning": "Esquerda",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/020-df3ee66760.mp3"
   },
   {
     "front": "前",
     "reading": "まえ (mae)",
     "meaning": "Em frente / antes",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/021-073d852840.mp3"
   },
   {
     "front": "後ろ",
     "reading": "うしろ (ushiro)",
     "meaning": "Atrás",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/022-fb5b775c2d.mp3"
   },
   {
     "front": "近く",
     "reading": "ちかく (chikaku)",
     "meaning": "Perto",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/023-e958b3d03f.mp3"
   },
   {
     "front": "遠い",
     "reading": "とおい (tooi)",
     "meaning": "Longe",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/024-425abb3a17.mp3"
   },
   {
     "front": "今日",
     "reading": "きょう (kyou)",
     "meaning": "Hoje",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/025-574cd4fb79.mp3"
   },
   {
     "front": "明日",
     "reading": "あした (ashita)",
     "meaning": "Amanhã",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/026-762ffcba27.mp3"
   },
   {
     "front": "昨日",
     "reading": "きのう (kinou)",
     "meaning": "Ontem",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/027-b43054fed8.mp3"
   },
   {
     "front": "朝",
     "reading": "あさ (asa)",
     "meaning": "Manhã",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/028-695aad811a.mp3"
   },
   {
     "front": "昼",
     "reading": "ひる (hiru)",
     "meaning": "Meio-dia / tarde",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/029-56c5ea5737.mp3"
   },
   {
     "front": "夜",
     "reading": "よる (yoru)",
     "meaning": "Noite",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/030-2d8f0e9d13.mp3"
   },
   {
     "front": "ご飯",
     "reading": "ごはん (gohan)",
     "meaning": "Arroz / refeição",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/031-2f2861a3fa.mp3"
   },
   {
     "front": "肉",
     "reading": "にく (niku)",
     "meaning": "Carne",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/032-6759709d60.mp3"
   },
   {
     "front": "魚",
     "reading": "さかな (sakana)",
     "meaning": "Peixe",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/033-32cac33e27.mp3"
   },
   {
     "front": "野菜",
     "reading": "やさい (yasai)",
     "meaning": "Legumes / vegetais",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/034-dac5927ab5.mp3"
   },
   {
     "front": "お茶",
     "reading": "おちゃ (ocha)",
     "meaning": "Chá",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/035-c3da86d447.mp3"
   },
   {
     "front": "コーヒー",
     "reading": "koohii",
     "meaning": "Café",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/036-cab9ec7ba2.mp3"
   },
   {
     "front": "ホテル",
     "reading": "hoteru",
     "meaning": "Hotel",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/037-6f0b069fae.mp3"
   },
   {
     "front": "空港",
     "reading": "くうこう (kuukou)",
     "meaning": "Aeroporto",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/038-9b3bc940ab.mp3"
   },
   {
     "front": "病院",
     "reading": "びょういん (byouin)",
     "meaning": "Hospital",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/039-0513a0e7f2.mp3"
   },
   {
     "front": "薬局",
     "reading": "やっきょく (yakkyoku)",
     "meaning": "Farmácia",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/040-c05722bbd8.mp3"
   },
   {
     "front": "切符",
     "reading": "きっぷ (kippu)",
     "meaning": "Passagem / bilhete",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/041-4c3076304a.mp3"
   },
   {
     "front": "改札",
     "reading": "かいさつ (kaisatsu)",
     "meaning": "Catraca / portão da estação",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/042-a63df47d88.mp3"
   },
   {
     "front": "出口",
     "reading": "でぐち (deguchi)",
     "meaning": "Saída",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/043-dd877ebcea.mp3"
   },
   {
     "front": "入口",
     "reading": "いりぐち (iriguchi)",
     "meaning": "Entrada",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/044-38e9cd1ffb.mp3"
   },
   {
     "front": "階段",
     "reading": "かいだん (kaidan)",
     "meaning": "Escada",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/045-801d88a9eb.mp3"
   },
   {
     "front": "エレベーター",
     "reading": "erebeetaa",
     "meaning": "Elevador",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/046-6bc049363d.mp3"
   },
   {
     "front": "バス",
     "reading": "basu",
     "meaning": "Ônibus",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/047-4018296bb9.mp3"
   },
   {
     "front": "タクシー",
     "reading": "takushii",
     "meaning": "Táxi",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/048-efd84ccbf4.mp3"
   },
   {
     "front": "自転車",
     "reading": "じてんしゃ (jitensha)",
     "meaning": "Bicicleta",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/049-ef416d2e9b.mp3"
   },
   {
     "front": "地図",
     "reading": "ちず (chizu)",
     "meaning": "Mapa",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/050-f9b670ca44.mp3"
   },
   {
     "front": "住所",
     "reading": "じゅうしょ (juusho)",
     "meaning": "Endereço",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/051-fb69b1ae94.mp3"
   },
   {
     "front": "番号",
     "reading": "ばんごう (bangou)",
     "meaning": "Número",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/052-dc33c23404.mp3"
   },
   {
     "front": "財布",
     "reading": "さいふ (saifu)",
     "meaning": "Carteira",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/053-765f923777.mp3"
   },
   {
     "front": "鍵",
     "reading": "かぎ (kagi)",
     "meaning": "Chave",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/054-287a06131f.mp3"
   },
   {
     "front": "携帯",
     "reading": "けいたい (keitai)",
     "meaning": "Celular",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/055-d2ac60d31e.mp3"
   },
   {
     "front": "充電器",
     "reading": "じゅうでんき (juudenki)",
     "meaning": "Carregador",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/056-d7ac49a316.mp3"
   },
   {
     "front": "傘",
     "reading": "かさ (kasa)",
     "meaning": "Guarda-chuva",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/057-3898a45567.mp3"
   },
   {
     "front": "服",
     "reading": "ふく (fuku)",
     "meaning": "Roupa",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/058-b5140a9fc3.mp3"
   },
   {
     "front": "靴",
     "reading": "くつ (kutsu)",
     "meaning": "Sapato",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/059-e951d898e9.mp3"
   },
   {
     "front": "席",
     "reading": "せき (seki)",
     "meaning": "Assento / lugar",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/060-5c0dfdc8ee.mp3"
   },
   {
     "front": "禁煙",
     "reading": "きんえん (kin-en)",
     "meaning": "Proibido fumar",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/061-375c1e1161.mp3"
   },
   {
     "front": "無料",
     "reading": "むりょう (muryou)",
     "meaning": "Grátis",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/062-501451d6eb.mp3"
   },
   {
     "front": "有料",
     "reading": "ゆうりょう (yuuryou)",
     "meaning": "Pago",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/063-e23be5a37a.mp3"
   },
   {
     "front": "注文",
     "reading": "ちゅうもん (chuumon)",
     "meaning": "Pedido",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/064-662dbb2d11.mp3"
   },
   {
     "front": "受付",
     "reading": "うけつけ (uketsuke)",
     "meaning": "Recepção",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/065-312b15da55.mp3"
   },
   {
     "front": "医者",
     "reading": "いしゃ (isha)",
     "meaning": "Médico",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/066-cfb25a13c7.mp3"
   },
   {
     "front": "薬",
     "reading": "くすり (kusuri)",
     "meaning": "Remédio",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/067-c98fb0141c.mp3"
   },
   {
     "front": "頭",
     "reading": "あたま (atama)",
     "meaning": "Cabeça",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/068-e349ae1338.mp3"
   },
   {
     "front": "熱",
     "reading": "ねつ (netsu)",
     "meaning": "Febre",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/069-dffabaa810.mp3"
   },
   {
     "front": "質問",
     "reading": "しつもん (shitsumon)",
     "meaning": "Pergunta",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/070-5dcc8d49b6.mp3"
   },
   {
     "front": "答え",
     "reading": "こたえ (kotae)",
     "meaning": "Resposta",
-    "type": "Palavra"
+    "type": "Palavra",
+    "audio": "audio/words/071-9f15047230.mp3"
+  },
+  {
+    "front": "家族",
+    "reading": "かぞく (kazoku)",
+    "meaning": "Família",
+    "type": "Palavra",
+    "audio": "audio/words/072-242e8e5c3f.mp3"
+  },
+  {
+    "front": "母",
+    "reading": "はは (haha)",
+    "meaning": "Minha mãe",
+    "type": "Palavra",
+    "audio": "audio/words/073-78ce0b021c.mp3"
+  },
+  {
+    "front": "お母さん",
+    "reading": "おかあさん (okaasan)",
+    "meaning": "Mãe de alguém / mãe",
+    "type": "Palavra",
+    "audio": "audio/words/074-f4eb2ac566.mp3"
+  },
+  {
+    "front": "父",
+    "reading": "ちち (chichi)",
+    "meaning": "Meu pai",
+    "type": "Palavra",
+    "audio": "audio/words/075-0b27d61a07.mp3"
+  },
+  {
+    "front": "お父さん",
+    "reading": "おとうさん (otousan)",
+    "meaning": "Pai de alguém / pai",
+    "type": "Palavra",
+    "audio": "audio/words/076-e111058965.mp3"
+  },
+  {
+    "front": "兄",
+    "reading": "あに (ani)",
+    "meaning": "Meu irmão mais velho",
+    "type": "Palavra",
+    "audio": "audio/words/077-1b60f62fba.mp3"
+  },
+  {
+    "front": "姉",
+    "reading": "あね (ane)",
+    "meaning": "Minha irmã mais velha",
+    "type": "Palavra",
+    "audio": "audio/words/078-b1a3afebdb.mp3"
+  },
+  {
+    "front": "弟",
+    "reading": "おとうと (otouto)",
+    "meaning": "Irmão mais novo",
+    "type": "Palavra",
+    "audio": "audio/words/079-276330ed97.mp3"
+  },
+  {
+    "front": "妹",
+    "reading": "いもうと (imouto)",
+    "meaning": "Irmã mais nova",
+    "type": "Palavra",
+    "audio": "audio/words/080-28f8949739.mp3"
+  },
+  {
+    "front": "友達",
+    "reading": "ともだち (tomodachi)",
+    "meaning": "Amigo",
+    "type": "Palavra",
+    "audio": "audio/words/081-e4fb289f39.mp3"
+  },
+  {
+    "front": "恋人",
+    "reading": "こいびと (koibito)",
+    "meaning": "Namorado(a)",
+    "type": "Palavra",
+    "audio": "audio/words/082-16181dbc65.mp3"
+  },
+  {
+    "front": "仕事",
+    "reading": "しごと (shigoto)",
+    "meaning": "Trabalho",
+    "type": "Palavra",
+    "audio": "audio/words/083-5dc4a4fa47.mp3"
+  },
+  {
+    "front": "休み",
+    "reading": "やすみ (yasumi)",
+    "meaning": "Descanso / folga",
+    "type": "Palavra",
+    "audio": "audio/words/084-d6ca110fff.mp3"
+  },
+  {
+    "front": "会議",
+    "reading": "かいぎ (kaigi)",
+    "meaning": "Reunião",
+    "type": "Palavra",
+    "audio": "audio/words/085-1fcc3dd3c5.mp3"
+  },
+  {
+    "front": "予定",
+    "reading": "よてい (yotei)",
+    "meaning": "Plano / agenda",
+    "type": "Palavra",
+    "audio": "audio/words/086-eb000e9544.mp3"
+  },
+  {
+    "front": "時間",
+    "reading": "じかん (jikan)",
+    "meaning": "Tempo / hora",
+    "type": "Palavra",
+    "audio": "audio/words/087-09558b2cc6.mp3"
+  },
+  {
+    "front": "朝ご飯",
+    "reading": "あさごはん (asagohan)",
+    "meaning": "Café da manhã",
+    "type": "Palavra",
+    "audio": "audio/words/088-04fd047918.mp3"
+  },
+  {
+    "front": "昼ご飯",
+    "reading": "ひるごはん (hirugohan)",
+    "meaning": "Almoço",
+    "type": "Palavra",
+    "audio": "audio/words/089-49f334cb28.mp3"
+  },
+  {
+    "front": "晩ご飯",
+    "reading": "ばんごはん (bangohan)",
+    "meaning": "Jantar",
+    "type": "Palavra",
+    "audio": "audio/words/090-a0dede70ce.mp3"
+  },
+  {
+    "front": "卵",
+    "reading": "たまご (tamago)",
+    "meaning": "Ovo",
+    "type": "Palavra",
+    "audio": "audio/words/091-e040c58009.mp3"
+  },
+  {
+    "front": "牛乳",
+    "reading": "ぎゅうにゅう (gyuunyuu)",
+    "meaning": "Leite",
+    "type": "Palavra",
+    "audio": "audio/words/092-ce72cd6b4e.mp3"
+  },
+  {
+    "front": "パン",
+    "reading": "pan",
+    "meaning": "Pão",
+    "type": "Palavra",
+    "audio": "audio/words/093-7fc267f6fb.mp3"
+  },
+  {
+    "front": "味噌汁",
+    "reading": "みそしる (misoshiru)",
+    "meaning": "Sopa de missô",
+    "type": "Palavra",
+    "audio": "audio/words/094-18d3ed7d5e.mp3"
+  },
+  {
+    "front": "箸",
+    "reading": "はし (hashi)",
+    "meaning": "Hashi / palitinhos",
+    "type": "Palavra",
+    "audio": "audio/words/095-692fc057a2.mp3"
+  },
+  {
+    "front": "皿",
+    "reading": "さら (sara)",
+    "meaning": "Prato",
+    "type": "Palavra",
+    "audio": "audio/words/096-9dd114066d.mp3"
+  },
+  {
+    "front": "部屋",
+    "reading": "へや (heya)",
+    "meaning": "Quarto / cômodo",
+    "type": "Palavra",
+    "audio": "audio/words/097-9d5363f136.mp3"
+  },
+  {
+    "front": "台所",
+    "reading": "だいどころ (daidokoro)",
+    "meaning": "Cozinha",
+    "type": "Palavra",
+    "audio": "audio/words/098-cfa298cca1.mp3"
+  },
+  {
+    "front": "風呂",
+    "reading": "ふろ (furo)",
+    "meaning": "Banho / banheira",
+    "type": "Palavra",
+    "audio": "audio/words/099-5acf7cc094.mp3"
+  },
+  {
+    "front": "窓",
+    "reading": "まど (mado)",
+    "meaning": "Janela",
+    "type": "Palavra",
+    "audio": "audio/words/100-2853730c1c.mp3"
+  },
+  {
+    "front": "ドア",
+    "reading": "doa",
+    "meaning": "Porta",
+    "type": "Palavra",
+    "audio": "audio/words/101-50b943d01f.mp3"
+  },
+  {
+    "front": "電気",
+    "reading": "でんき (denki)",
+    "meaning": "Luz / eletricidade",
+    "type": "Palavra",
+    "audio": "audio/words/102-612852d66a.mp3"
+  },
+  {
+    "front": "冷蔵庫",
+    "reading": "れいぞうこ (reizouko)",
+    "meaning": "Geladeira",
+    "type": "Palavra",
+    "audio": "audio/words/103-4e046b58fc.mp3"
+  },
+  {
+    "front": "洗濯機",
+    "reading": "せんたくき (sentakuki)",
+    "meaning": "Máquina de lavar",
+    "type": "Palavra",
+    "audio": "audio/words/104-0e20914513.mp3"
+  },
+  {
+    "front": "天気",
+    "reading": "てんき (tenki)",
+    "meaning": "Tempo / clima",
+    "type": "Palavra",
+    "audio": "audio/words/105-77f5c58130.mp3"
+  },
+  {
+    "front": "晴れ",
+    "reading": "はれ (hare)",
+    "meaning": "Tempo ensolarado",
+    "type": "Palavra",
+    "audio": "audio/words/106-0324f8ecbb.mp3"
+  },
+  {
+    "front": "曇り",
+    "reading": "くもり (kumori)",
+    "meaning": "Tempo nublado",
+    "type": "Palavra",
+    "audio": "audio/words/107-283112eb7d.mp3"
+  },
+  {
+    "front": "雪",
+    "reading": "ゆき (yuki)",
+    "meaning": "Neve",
+    "type": "Palavra",
+    "audio": "audio/words/108-7d742a7f9f.mp3"
+  },
+  {
+    "front": "風",
+    "reading": "かぜ (kaze)",
+    "meaning": "Vento",
+    "type": "Palavra",
+    "audio": "audio/words/109-0b70303973.mp3"
+  },
+  {
+    "front": "春",
+    "reading": "はる (haru)",
+    "meaning": "Primavera",
+    "type": "Palavra",
+    "audio": "audio/words/110-3e45064825.mp3"
+  },
+  {
+    "front": "夏",
+    "reading": "なつ (natsu)",
+    "meaning": "Verão",
+    "type": "Palavra",
+    "audio": "audio/words/111-ce0a21de85.mp3"
+  },
+  {
+    "front": "秋",
+    "reading": "あき (aki)",
+    "meaning": "Outono",
+    "type": "Palavra",
+    "audio": "audio/words/112-8d8f4aeca8.mp3"
+  },
+  {
+    "front": "冬",
+    "reading": "ふゆ (fuyu)",
+    "meaning": "Inverno",
+    "type": "Palavra",
+    "audio": "audio/words/113-d5ca75a91f.mp3"
+  },
+  {
+    "front": "映画",
+    "reading": "えいが (eiga)",
+    "meaning": "Filme",
+    "type": "Palavra",
+    "audio": "audio/words/114-675d287d3e.mp3"
+  },
+  {
+    "front": "音楽",
+    "reading": "おんがく (ongaku)",
+    "meaning": "Música",
+    "type": "Palavra",
+    "audio": "audio/words/115-6376c97463.mp3"
+  },
+  {
+    "front": "ゲーム",
+    "reading": "geemu",
+    "meaning": "Jogo",
+    "type": "Palavra",
+    "audio": "audio/words/116-3081d77392.mp3"
+  },
+  {
+    "front": "旅行",
+    "reading": "りょこう (ryokou)",
+    "meaning": "Viagem",
+    "type": "Palavra",
+    "audio": "audio/words/117-92c1b6c8fd.mp3"
   }
 ]

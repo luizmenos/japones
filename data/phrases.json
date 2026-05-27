@@ -796,5 +796,334 @@
     "meaning": "Hoje foi divertido",
     "type": "Frase",
     "audio": "audio/phrases/114-0999aa9855.mp3"
+  },
+  {
+    "front": "今日は何をしますか",
+    "reading": "kyou wa nani o shimasu ka",
+    "meaning": "O que você vai fazer hoje?",
+    "type": "Frase",
+    "audio": "audio/phrases/115-22ecdd3263.mp3"
+  },
+  {
+    "front": "明日は仕事です",
+    "reading": "ashita wa shigoto desu",
+    "meaning": "Amanhã tenho trabalho",
+    "type": "Frase",
+    "audio": "audio/phrases/116-c61c2b1589.mp3"
+  },
+  {
+    "front": "今日は休みです",
+    "reading": "kyou wa yasumi desu",
+    "meaning": "Hoje é folga",
+    "type": "Frase",
+    "audio": "audio/phrases/117-0ff51c27c1.mp3"
+  },
+  {
+    "front": "予定があります",
+    "reading": "yotei ga arimasu",
+    "meaning": "Tenho compromisso/planos",
+    "type": "Frase",
+    "audio": "audio/phrases/118-8c30a2b3a8.mp3"
+  },
+  {
+    "front": "時間がありますか",
+    "reading": "jikan ga arimasu ka",
+    "meaning": "Você tem tempo?",
+    "type": "Frase",
+    "audio": "audio/phrases/119-7b38ce36b1.mp3"
+  },
+  {
+    "front": "今忙しいですか",
+    "reading": "ima isogashii desu ka",
+    "meaning": "Você está ocupado agora?",
+    "type": "Frase",
+    "audio": "audio/phrases/120-21115627ff.mp3"
+  },
+  {
+    "front": "少しだけ時間があります",
+    "reading": "sukoshi dake jikan ga arimasu",
+    "meaning": "Tenho só um pouco de tempo",
+    "type": "Frase",
+    "audio": "audio/phrases/121-e243c43aa9.mp3"
+  },
+  {
+    "front": "後で連絡します",
+    "reading": "ato de renraku shimasu",
+    "meaning": "Entro em contato depois",
+    "type": "Frase",
+    "audio": "audio/phrases/122-a2f8d6ecc4.mp3"
+  },
+  {
+    "front": "電話してもいいですか",
+    "reading": "denwa shite mo ii desu ka",
+    "meaning": "Posso te ligar?",
+    "type": "Frase",
+    "audio": "audio/phrases/123-3c428c63bf.mp3"
+  },
+  {
+    "front": "メッセージを送ってください",
+    "reading": "messeeji o okutte kudasai",
+    "meaning": "Mande uma mensagem, por favor",
+    "type": "Frase",
+    "audio": "audio/phrases/124-5230382237.mp3"
+  },
+  {
+    "front": "どこで会いますか",
+    "reading": "doko de aimasu ka",
+    "meaning": "Onde vamos nos encontrar?",
+    "type": "Frase",
+    "audio": "audio/phrases/125-8056c376e5.mp3"
+  },
+  {
+    "front": "駅の前で会いましょう",
+    "reading": "eki no mae de aimashou",
+    "meaning": "Vamos nos encontrar em frente à estação",
+    "type": "Frase",
+    "audio": "audio/phrases/126-430dc37c1f.mp3"
+  },
+  {
+    "front": "何時に会いますか",
+    "reading": "nanji ni aimasu ka",
+    "meaning": "Que horas vamos nos encontrar?",
+    "type": "Frase",
+    "audio": "audio/phrases/127-73743e125e.mp3"
+  },
+  {
+    "front": "六時で大丈夫です",
+    "reading": "rokuji de daijoubu desu",
+    "meaning": "Seis horas está bom",
+    "type": "Frase",
+    "audio": "audio/phrases/128-4b93e3c516.mp3"
+  },
+  {
+    "front": "少し遅れます",
+    "reading": "sukoshi okuremasu",
+    "meaning": "Vou me atrasar um pouco",
+    "type": "Frase",
+    "audio": "audio/phrases/129-9dc68a2f8b.mp3"
+  },
+  {
+    "front": "もう着きました",
+    "reading": "mou tsukimashita",
+    "meaning": "Já cheguei",
+    "type": "Frase",
+    "audio": "audio/phrases/130-d630975acb.mp3"
+  },
+  {
+    "front": "今向かっています",
+    "reading": "ima mukatte imasu",
+    "meaning": "Estou indo agora",
+    "type": "Frase",
+    "audio": "audio/phrases/131-d9e01c2f17.mp3"
+  },
+  {
+    "front": "何を食べたいですか",
+    "reading": "nani o tabetai desu ka",
+    "meaning": "O que você quer comer?",
+    "type": "Frase",
+    "audio": "audio/phrases/132-8254845c2e.mp3"
+  },
+  {
+    "front": "ラーメンが食べたいです",
+    "reading": "raamen ga tabetai desu",
+    "meaning": "Quero comer ramen",
+    "type": "Frase",
+    "audio": "audio/phrases/133-523706184a.mp3"
+  },
+  {
+    "front": "辛いものは苦手です",
+    "reading": "karai mono wa nigate desu",
+    "meaning": "Não me dou bem com comida apimentada",
+    "type": "Frase",
+    "audio": "audio/phrases/134-d1e0861d4f.mp3"
+  },
+  {
+    "front": "甘いものが好きです",
+    "reading": "amai mono ga suki desu",
+    "meaning": "Gosto de doces",
+    "type": "Frase",
+    "audio": "audio/phrases/135-43294b5344.mp3"
+  },
+  {
+    "front": "コーヒーを飲みたいです",
+    "reading": "koohii o nomitai desu",
+    "meaning": "Quero tomar café",
+    "type": "Frase",
+    "audio": "audio/phrases/136-14523d2624.mp3"
+  },
+  {
+    "front": "一緒に行きませんか",
+    "reading": "issho ni ikimasen ka",
+    "meaning": "Quer ir comigo?",
+    "type": "Frase",
+    "audio": "audio/phrases/137-81d39bb3fc.mp3"
+  },
+  {
+    "front": "いいですね",
+    "reading": "ii desu ne",
+    "meaning": "Boa ideia / parece bom",
+    "type": "Frase",
+    "audio": "audio/phrases/138-21d4a5a8ed.mp3"
+  },
+  {
+    "front": "ちょっと難しいです",
+    "reading": "chotto muzukashii desu",
+    "meaning": "É meio difícil / não vai dar muito",
+    "type": "Frase",
+    "audio": "audio/phrases/139-4eefbb1eed.mp3"
+  },
+  {
+    "front": "また今度お願いします",
+    "reading": "mata kondo onegaishimasu",
+    "meaning": "Fica para uma próxima, por favor",
+    "type": "Frase",
+    "audio": "audio/phrases/140-7b2b18ad9b.mp3"
+  },
+  {
+    "front": "これはどう読みますか",
+    "reading": "kore wa dou yomimasu ka",
+    "meaning": "Como se lê isto?",
+    "type": "Frase",
+    "audio": "audio/phrases/141-0c7c30e3f6.mp3"
+  },
+  {
+    "front": "発音を教えてください",
+    "reading": "hatsuon o oshiete kudasai",
+    "meaning": "Me ensine a pronúncia, por favor",
+    "type": "Frase",
+    "audio": "audio/phrases/142-74216dbffe.mp3"
+  },
+  {
+    "front": "もう一回言ってください",
+    "reading": "mou ikkai itte kudasai",
+    "meaning": "Diga mais uma vez, por favor",
+    "type": "Frase",
+    "audio": "audio/phrases/143-4df1cf55ff.mp3"
+  },
+  {
+    "front": "日本語で何と言いますか",
+    "reading": "nihongo de nan to iimasu ka",
+    "meaning": "Como se diz em japonês?",
+    "type": "Frase",
+    "audio": "audio/phrases/144-40e9015919.mp3"
+  },
+  {
+    "front": "これは自然ですか",
+    "reading": "kore wa shizen desu ka",
+    "meaning": "Isso soa natural?",
+    "type": "Frase",
+    "audio": "audio/phrases/145-cf1d4bf071.mp3"
+  },
+  {
+    "front": "間違えました",
+    "reading": "machigaemashita",
+    "meaning": "Eu errei",
+    "type": "Frase",
+    "audio": "audio/phrases/146-43caefe16b.mp3"
+  },
+  {
+    "front": "もう少し練習します",
+    "reading": "mou sukoshi renshuu shimasu",
+    "meaning": "Vou praticar mais um pouco",
+    "type": "Frase",
+    "audio": "audio/phrases/147-154d34e8ce.mp3"
+  },
+  {
+    "front": "写真を送ります",
+    "reading": "shashin o okurimasu",
+    "meaning": "Vou mandar a foto",
+    "type": "Frase",
+    "audio": "audio/phrases/148-438dd9d576.mp3"
+  },
+  {
+    "front": "ここに座ってもいいですか",
+    "reading": "koko ni suwatte mo ii desu ka",
+    "meaning": "Posso sentar aqui?",
+    "type": "Frase",
+    "audio": "audio/phrases/149-d5ceaef195.mp3"
+  },
+  {
+    "front": "窓を開けてもいいですか",
+    "reading": "mado o akete mo ii desu ka",
+    "meaning": "Posso abrir a janela?",
+    "type": "Frase",
+    "audio": "audio/phrases/150-b4a54584b9.mp3"
+  },
+  {
+    "front": "ドアを閉めてください",
+    "reading": "doa o shimete kudasai",
+    "meaning": "Feche a porta, por favor",
+    "type": "Frase",
+    "audio": "audio/phrases/151-8ebc2cbdf2.mp3"
+  },
+  {
+    "front": "電気をつけてください",
+    "reading": "denki o tsukete kudasai",
+    "meaning": "Acenda a luz, por favor",
+    "type": "Frase",
+    "audio": "audio/phrases/152-fb861827b5.mp3"
+  },
+  {
+    "front": "電気を消してください",
+    "reading": "denki o keshite kudasai",
+    "meaning": "Apague a luz, por favor",
+    "type": "Frase",
+    "audio": "audio/phrases/153-f0171090d4.mp3"
+  },
+  {
+    "front": "今日は雨が降っています",
+    "reading": "kyou wa ame ga futte imasu",
+    "meaning": "Hoje está chovendo",
+    "type": "Frase",
+    "audio": "audio/phrases/154-53433247d0.mp3"
+  },
+  {
+    "front": "傘を持っていますか",
+    "reading": "kasa o motte imasu ka",
+    "meaning": "Você está com guarda-chuva?",
+    "type": "Frase",
+    "audio": "audio/phrases/155-55824b7b57.mp3"
+  },
+  {
+    "front": "道に迷いました",
+    "reading": "michi ni mayoimashita",
+    "meaning": "Me perdi no caminho",
+    "type": "Frase",
+    "audio": "audio/phrases/156-9aa9b6a78c.mp3"
+  },
+  {
+    "front": "地図を見せてください",
+    "reading": "chizu o misete kudasai",
+    "meaning": "Mostre o mapa, por favor",
+    "type": "Frase",
+    "audio": "audio/phrases/157-696a5efece.mp3"
+  },
+  {
+    "front": "この辺は安全ですか",
+    "reading": "kono hen wa anzen desu ka",
+    "meaning": "Esta área é segura?",
+    "type": "Frase",
+    "audio": "audio/phrases/158-35a94091b5.mp3"
+  },
+  {
+    "front": "気分が悪いです",
+    "reading": "kibun ga warui desu",
+    "meaning": "Estou me sentindo mal",
+    "type": "Frase",
+    "audio": "audio/phrases/159-d201c26747.mp3"
+  },
+  {
+    "front": "薬を飲みました",
+    "reading": "kusuri o nomimashita",
+    "meaning": "Tomei remédio",
+    "type": "Frase",
+    "audio": "audio/phrases/160-00de89bb46.mp3"
+  },
+  {
+    "front": "少し良くなりました",
+    "reading": "sukoshi yoku narimashita",
+    "meaning": "Melhorei um pouco",
+    "type": "Frase",
+    "audio": "audio/phrases/161-51d629dc90.mp3"
   }
 ]

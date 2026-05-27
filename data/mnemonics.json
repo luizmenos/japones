@@ -3,324 +3,588 @@
     "symbol": "あ",
     "reading": "a",
     "type": "Hiragana",
-    "hint": "Parece uma antena enrolada fazendo o som aberto de \"a\"."
+    "hint": "Parece uma antena enrolada fazendo o som aberto de \"a\".",
+    "audio": "audio/mnemonics/001-98fdfc0a74.mp3"
   },
   {
     "symbol": "い",
     "reading": "i",
     "type": "Hiragana",
-    "hint": "Dois tracinhos em pé, como duas pessoas dizendo \"i\"."
+    "hint": "Dois tracinhos em pé, como duas pessoas dizendo \"i\".",
+    "audio": "audio/mnemonics/002-3c01c77f19.mp3"
   },
   {
     "symbol": "う",
     "reading": "u",
     "type": "Hiragana",
-    "hint": "Parece uma boquinha fazendo \"u\"."
+    "hint": "Parece uma boquinha fazendo \"u\".",
+    "audio": "audio/mnemonics/003-af2b29a995.mp3"
   },
   {
     "symbol": "え",
     "reading": "e",
     "type": "Hiragana",
-    "hint": "Imagine um elevador tortinho: \"e\" de elevador."
+    "hint": "Imagine um elevador tortinho: \"e\" de elevador.",
+    "audio": "audio/mnemonics/004-a60311a2fc.mp3"
   },
   {
     "symbol": "お",
     "reading": "o",
     "type": "Hiragana",
-    "hint": "Tem uma argola, lembrando a boca redonda do som \"o\"."
+    "hint": "Tem uma argola, lembrando a boca redonda do som \"o\".",
+    "audio": "audio/mnemonics/005-ac6bc7de71.mp3"
   },
   {
     "symbol": "か",
     "reading": "ka",
     "type": "Hiragana",
-    "hint": "Parece uma faca cortando: ka, corte seco."
+    "hint": "Parece uma faca cortando: ka, corte seco.",
+    "audio": "audio/mnemonics/006-288c9e0771.mp3"
   },
   {
     "symbol": "き",
     "reading": "ki",
     "type": "Hiragana",
-    "hint": "Parece uma chave com dois dentes: \"ki\" de key."
+    "hint": "Parece uma chave com dois dentes: \"ki\" de key.",
+    "audio": "audio/mnemonics/007-27acc76c00.mp3"
   },
   {
     "symbol": "く",
     "reading": "ku",
     "type": "Hiragana",
-    "hint": "Parece um bico curvado fazendo \"ku\"."
+    "hint": "Parece um bico curvado fazendo \"ku\".",
+    "audio": "audio/mnemonics/008-ac94e11218.mp3"
   },
   {
     "symbol": "け",
     "reading": "ke",
     "type": "Hiragana",
-    "hint": "Imagine uma cerca simples: \"ke\" de cerca."
+    "hint": "Imagine uma cerca simples: \"ke\" de cerca.",
+    "audio": "audio/mnemonics/009-d32afeb0ab.mp3"
   },
   {
     "symbol": "こ",
     "reading": "ko",
     "type": "Hiragana",
-    "hint": "Duas linhas como uma coisa pequena: \"ko\"."
+    "hint": "Duas linhas como uma coisa pequena: \"ko\".",
+    "audio": "audio/mnemonics/010-91714b00e5.mp3"
   },
   {
     "symbol": "さ",
     "reading": "sa",
     "type": "Hiragana",
-    "hint": "Parece uma espada com corte solto: \"sa\"."
+    "hint": "Parece uma espada com corte solto: \"sa\".",
+    "audio": "audio/mnemonics/011-7a4faed063.mp3"
   },
   {
     "symbol": "し",
     "reading": "shi",
     "type": "Hiragana",
-    "hint": "Parece um anzol puxando em silêncio: \"shi\"."
+    "hint": "Parece um anzol puxando em silêncio: \"shi\".",
+    "audio": "audio/mnemonics/012-812f45bfcf.mp3"
   },
   {
     "symbol": "す",
     "reading": "su",
     "type": "Hiragana",
-    "hint": "O laço lembra um redemoinho de sopa: \"su\"."
+    "hint": "O laço lembra um redemoinho de sopa: \"su\".",
+    "audio": "audio/mnemonics/013-5b8252a1e9.mp3"
   },
   {
     "symbol": "せ",
     "reading": "se",
     "type": "Hiragana",
-    "hint": "Parece alguém sentado: \"se\"."
+    "hint": "Parece alguém sentado: \"se\".",
+    "audio": "audio/mnemonics/014-e1c730bd83.mp3"
   },
   {
     "symbol": "そ",
     "reading": "so",
     "type": "Hiragana",
-    "hint": "Parece uma linha soltando e virando som de \"so\"."
+    "hint": "Parece uma linha soltando e virando som de \"so\".",
+    "audio": "audio/mnemonics/015-b345d8cc83.mp3"
   },
   {
     "symbol": "た",
     "reading": "ta",
     "type": "Hiragana",
-    "hint": "Um \"t\" com traço extra: ta."
+    "hint": "Um \"t\" com traço extra: ta.",
+    "audio": "audio/mnemonics/016-cf4d17f99d.mp3"
   },
   {
     "symbol": "ち",
     "reading": "chi",
     "type": "Hiragana",
-    "hint": "Parece o número 5 virando: chi."
+    "hint": "Parece o número 5 virando: chi.",
+    "audio": "audio/mnemonics/017-e022bea2e9.mp3"
   },
   {
     "symbol": "つ",
     "reading": "tsu",
     "type": "Hiragana",
-    "hint": "Uma onda grande fazendo \"tsu\"."
+    "hint": "Uma onda grande fazendo \"tsu\".",
+    "audio": "audio/mnemonics/018-0c414c812b.mp3"
   },
   {
     "symbol": "て",
     "reading": "te",
     "type": "Hiragana",
-    "hint": "Parece uma mão simples: \"te\" significa mão em japonês."
+    "hint": "Parece uma mão simples: \"te\" significa mão em japonês.",
+    "audio": "audio/mnemonics/019-e2d9706115.mp3"
   },
   {
     "symbol": "と",
     "reading": "to",
     "type": "Hiragana",
-    "hint": "Um toquinho com gancho: \"to\"."
+    "hint": "Um toquinho com gancho: \"to\".",
+    "audio": "audio/mnemonics/020-a986a7bc9e.mp3"
   },
   {
     "symbol": "ア",
     "reading": "a",
     "type": "Katakana",
-    "hint": "Parece um A aberto e angular."
+    "hint": "Parece um A aberto e angular.",
+    "audio": "audio/mnemonics/021-1b4c4cc65f.mp3"
   },
   {
     "symbol": "イ",
     "reading": "i",
     "type": "Katakana",
-    "hint": "Dois traços retos, magros como o som \"i\"."
+    "hint": "Dois traços retos, magros como o som \"i\".",
+    "audio": "audio/mnemonics/022-b284de6134.mp3"
   },
   {
     "symbol": "ウ",
     "reading": "u",
     "type": "Katakana",
-    "hint": "Parece uma coroa pequena arredondando o som \"u\"."
+    "hint": "Parece uma coroa pequena arredondando o som \"u\".",
+    "audio": "audio/mnemonics/023-86686c3113.mp3"
   },
   {
     "symbol": "エ",
     "reading": "e",
     "type": "Katakana",
-    "hint": "Lembra um trilho de elevador: \"e\"."
+    "hint": "Lembra um trilho de elevador: \"e\".",
+    "audio": "audio/mnemonics/024-3707bab0c4.mp3"
   },
   {
     "symbol": "オ",
     "reading": "o",
     "type": "Katakana",
-    "hint": "Parece alguém abrindo os braços e dizendo \"o\"."
+    "hint": "Parece alguém abrindo os braços e dizendo \"o\".",
+    "audio": "audio/mnemonics/025-06716d34cc.mp3"
   },
   {
     "symbol": "カ",
     "reading": "ka",
     "type": "Katakana",
-    "hint": "Parece a lâmina de uma katana: ka."
+    "hint": "Parece a lâmina de uma katana: ka.",
+    "audio": "audio/mnemonics/026-00ed9f08e2.mp3"
   },
   {
     "symbol": "キ",
     "reading": "ki",
     "type": "Katakana",
-    "hint": "Parece uma key/chave estilizada: ki."
+    "hint": "Parece uma key/chave estilizada: ki.",
+    "audio": "audio/mnemonics/027-408ae436f0.mp3"
   },
   {
     "symbol": "ク",
     "reading": "ku",
     "type": "Katakana",
-    "hint": "Um bico angular fazendo \"ku\"."
+    "hint": "Um bico angular fazendo \"ku\".",
+    "audio": "audio/mnemonics/028-15901a60a3.mp3"
   },
   {
     "symbol": "ケ",
     "reading": "ke",
     "type": "Katakana",
-    "hint": "Parece uma pessoa chutando: ke."
+    "hint": "Parece uma pessoa chutando: ke.",
+    "audio": "audio/mnemonics/029-b50e4b46f6.mp3"
   },
   {
     "symbol": "コ",
     "reading": "ko",
     "type": "Katakana",
-    "hint": "Um canto quadrado, compacto: ko."
+    "hint": "Um canto quadrado, compacto: ko.",
+    "audio": "audio/mnemonics/030-202a6b25e7.mp3"
   },
   {
     "symbol": "山",
     "reading": "やま (yama)",
     "type": "Kanji",
-    "hint": "Três picos desenhados: montanha."
+    "hint": "Três picos desenhados: montanha.",
+    "audio": "audio/mnemonics/031-0e248e5603.mp3"
   },
   {
     "symbol": "川",
     "reading": "かわ (kawa)",
     "type": "Kanji",
-    "hint": "Três linhas correndo lado a lado: rio."
+    "hint": "Três linhas correndo lado a lado: rio.",
+    "audio": "audio/mnemonics/032-0f6a7e280c.mp3"
   },
   {
     "symbol": "日",
     "reading": "ひ / にち (hi/nichi)",
     "type": "Kanji",
-    "hint": "Um sol em forma de janela: dia ou sol."
+    "hint": "Um sol em forma de janela: dia ou sol.",
+    "audio": "audio/mnemonics/033-15917f3b32.mp3"
   },
   {
     "symbol": "月",
     "reading": "つき (tsuki)",
     "type": "Kanji",
-    "hint": "Uma lua vertical com duas marcas internas."
+    "hint": "Uma lua vertical com duas marcas internas.",
+    "audio": "audio/mnemonics/034-d9b59879f3.mp3"
   },
   {
     "symbol": "火",
     "reading": "ひ (hi)",
     "type": "Kanji",
-    "hint": "Parece chamas subindo: fogo."
+    "hint": "Parece chamas subindo: fogo.",
+    "audio": "audio/mnemonics/035-efb2620838.mp3"
   },
   {
     "symbol": "水",
     "reading": "みず (mizu)",
     "type": "Kanji",
-    "hint": "Traços como água espirrando para os lados."
+    "hint": "Traços como água espirrando para os lados.",
+    "audio": "audio/mnemonics/036-8ffbf19293.mp3"
   },
   {
     "symbol": "木",
     "reading": "き (ki)",
     "type": "Kanji",
-    "hint": "Um tronco com galhos: árvore."
+    "hint": "Um tronco com galhos: árvore.",
+    "audio": "audio/mnemonics/037-8294db3a20.mp3"
   },
   {
     "symbol": "林",
     "reading": "はやし (hayashi)",
     "type": "Kanji",
-    "hint": "Duas árvores juntas: bosque."
+    "hint": "Duas árvores juntas: bosque.",
+    "audio": "audio/mnemonics/038-020ff479d2.mp3"
   },
   {
     "symbol": "森",
     "reading": "もり (mori)",
     "type": "Kanji",
-    "hint": "Três árvores juntas: floresta."
+    "hint": "Três árvores juntas: floresta.",
+    "audio": "audio/mnemonics/039-d92836b0d9.mp3"
   },
   {
     "symbol": "口",
     "reading": "くち (kuchi)",
     "type": "Kanji",
-    "hint": "Um quadrado aberto como uma boca."
+    "hint": "Um quadrado aberto como uma boca.",
+    "audio": "audio/mnemonics/040-1e7b07e714.mp3"
   },
   {
     "symbol": "目",
     "reading": "め (me)",
     "type": "Kanji",
-    "hint": "Um olho desenhado em pé."
+    "hint": "Um olho desenhado em pé.",
+    "audio": "audio/mnemonics/041-3a0ea34a22.mp3"
   },
   {
     "symbol": "人",
     "reading": "ひと (hito)",
     "type": "Kanji",
-    "hint": "Duas pernas andando: pessoa."
+    "hint": "Duas pernas andando: pessoa.",
+    "audio": "audio/mnemonics/042-4912771a42.mp3"
   },
   {
     "symbol": "大",
     "reading": "おおきい (ookii)",
     "type": "Kanji",
-    "hint": "Pessoa com braços abertos: grande."
+    "hint": "Pessoa com braços abertos: grande.",
+    "audio": "audio/mnemonics/043-0889c34972.mp3"
   },
   {
     "symbol": "小",
     "reading": "ちいさい (chiisai)",
     "type": "Kanji",
-    "hint": "Três tracinhos pequenos: pequeno."
+    "hint": "Três tracinhos pequenos: pequeno.",
+    "audio": "audio/mnemonics/044-922517cc73.mp3"
   },
   {
     "symbol": "上",
     "reading": "うえ (ue)",
     "type": "Kanji",
-    "hint": "O traço principal está acima da linha: em cima."
+    "hint": "O traço principal está acima da linha: em cima.",
+    "audio": "audio/mnemonics/045-b967ce841a.mp3"
   },
   {
     "symbol": "下",
     "reading": "した (shita)",
     "type": "Kanji",
-    "hint": "O traço aponta para baixo da linha: embaixo."
+    "hint": "O traço aponta para baixo da linha: embaixo.",
+    "audio": "audio/mnemonics/046-a6caf2effb.mp3"
   },
   {
     "symbol": "中",
     "reading": "なか (naka)",
     "type": "Kanji",
-    "hint": "Uma linha atravessando o centro de uma caixa: dentro/meio."
+    "hint": "Uma linha atravessando o centro de uma caixa: dentro/meio.",
+    "audio": "audio/mnemonics/047-0869071c92.mp3"
   },
   {
     "symbol": "休",
     "reading": "やすむ (yasumu)",
     "type": "Kanji",
-    "hint": "Pessoa ao lado de uma árvore: descansando."
+    "hint": "Pessoa ao lado de uma árvore: descansando.",
+    "audio": "audio/mnemonics/048-0afbe7b539.mp3"
   },
   {
     "symbol": "明",
     "reading": "あかるい (akarui)",
     "type": "Kanji",
-    "hint": "Sol + lua juntos: claro/brilhante."
+    "hint": "Sol + lua juntos: claro/brilhante.",
+    "audio": "audio/mnemonics/049-fca811d4f0.mp3"
   },
   {
     "symbol": "聞",
     "reading": "きく (kiku)",
     "type": "Kanji",
-    "hint": "Ouvido dentro do portão: ouvir."
+    "hint": "Ouvido dentro do portão: ouvir.",
+    "audio": "audio/mnemonics/050-d4ff44b74b.mp3"
   },
   {
     "symbol": "雨",
     "reading": "あめ (ame)",
     "type": "Kanji",
-    "hint": "Uma nuvem com pingos caindo: chuva."
+    "hint": "Uma nuvem com pingos caindo: chuva.",
+    "audio": "audio/mnemonics/051-8995b89799.mp3"
   },
   {
     "symbol": "傘",
     "reading": "かさ (kasa)",
     "type": "Kanji",
-    "hint": "Parece um guarda-chuva aberto com pessoas embaixo."
+    "hint": "Parece um guarda-chuva aberto com pessoas embaixo.",
+    "audio": "audio/mnemonics/052-3898a45567.mp3"
   },
   {
     "symbol": "車",
     "reading": "くるま (kuruma)",
     "type": "Kanji",
-    "hint": "Vista de cima de um carro/eixo com rodas."
+    "hint": "Vista de cima de um carro/eixo com rodas.",
+    "audio": "audio/mnemonics/053-47782cc9bc.mp3"
   },
   {
     "symbol": "間",
     "reading": "あいだ (aida)",
     "type": "Kanji",
-    "hint": "Sol aparecendo entre as folhas do portão: intervalo/espaço."
+    "hint": "Sol aparecendo entre as folhas do portão: intervalo/espaço.",
+    "audio": "audio/mnemonics/054-835872d373.mp3"
+  },
+  {
+    "symbol": "母",
+    "reading": "はは (haha)",
+    "type": "Kanji",
+    "hint": "Parece uma figura cuidando de dois pontos/crianças: mãe.",
+    "audio": "audio/mnemonics/055-78ce0b021c.mp3"
+  },
+  {
+    "symbol": "父",
+    "reading": "ちち (chichi)",
+    "type": "Kanji",
+    "hint": "Dois braços grandes cruzados, como uma figura paterna forte.",
+    "audio": "audio/mnemonics/056-0b27d61a07.mp3"
+  },
+  {
+    "symbol": "友",
+    "reading": "とも (tomo)",
+    "type": "Kanji",
+    "hint": "Duas mãos juntas: amizade.",
+    "audio": "audio/mnemonics/057-6cca7a3ec0.mp3"
+  },
+  {
+    "symbol": "手",
+    "reading": "て (te)",
+    "type": "Kanji",
+    "hint": "Parece uma mão aberta com dedos simplificados.",
+    "audio": "audio/mnemonics/058-c08a56997a.mp3"
+  },
+  {
+    "symbol": "足",
+    "reading": "あし (ashi)",
+    "type": "Kanji",
+    "hint": "Parte de cima como corpo e embaixo a perna/pé andando.",
+    "audio": "audio/mnemonics/059-16fdcc7e77.mp3"
+  },
+  {
+    "symbol": "耳",
+    "reading": "みみ (mimi)",
+    "type": "Kanji",
+    "hint": "Parece uma orelha quadrada vista de lado.",
+    "audio": "audio/mnemonics/060-8481effa10.mp3"
+  },
+  {
+    "symbol": "心",
+    "reading": "こころ (kokoro)",
+    "type": "Kanji",
+    "hint": "Três gotas em volta de um traço, como emoção espalhada: coração.",
+    "audio": "audio/mnemonics/061-481e547b1a.mp3"
+  },
+  {
+    "symbol": "力",
+    "reading": "ちから (chikara)",
+    "type": "Kanji",
+    "hint": "Um braço fazendo força: poder/força.",
+    "audio": "audio/mnemonics/062-a81c2ab80e.mp3"
+  },
+  {
+    "symbol": "田",
+    "reading": "た (ta)",
+    "type": "Kanji",
+    "hint": "Um campo dividido em quatro quadrantes: arrozal.",
+    "audio": "audio/mnemonics/063-2380e6711d.mp3"
+  },
+  {
+    "symbol": "町",
+    "reading": "まち (machi)",
+    "type": "Kanji",
+    "hint": "Campo + quarteirão: cidade/bairro.",
+    "audio": "audio/mnemonics/064-b72d6f67e8.mp3"
+  },
+  {
+    "symbol": "電",
+    "reading": "でん (den)",
+    "type": "Kanji",
+    "hint": "Chuva em cima e energia embaixo: eletricidade.",
+    "audio": "audio/mnemonics/065-e351e15195.mp3"
+  },
+  {
+    "symbol": "語",
+    "reading": "ご (go)",
+    "type": "Kanji",
+    "hint": "Palavra/fala reunida em um bloco: idioma.",
+    "audio": "audio/mnemonics/066-23943c27a5.mp3"
+  },
+  {
+    "symbol": "食",
+    "reading": "たべる (taberu)",
+    "type": "Kanji",
+    "hint": "Lembra uma tampa sobre alimento: comer.",
+    "audio": "audio/mnemonics/067-d46696735b.mp3"
+  },
+  {
+    "symbol": "飲",
+    "reading": "のむ (nomu)",
+    "type": "Kanji",
+    "hint": "Comida/bebida à esquerda e boca/ação à direita: beber.",
+    "audio": "audio/mnemonics/068-5cd375af49.mp3"
+  },
+  {
+    "symbol": "買",
+    "reading": "かう (kau)",
+    "type": "Kanji",
+    "hint": "Rede/sacola em cima e dinheiro/concha embaixo: comprar.",
+    "audio": "audio/mnemonics/069-a4a97dbdae.mp3"
+  },
+  {
+    "symbol": "売",
+    "reading": "うる (uru)",
+    "type": "Kanji",
+    "hint": "Uma barraca/placa em cima de mercadoria: vender.",
+    "audio": "audio/mnemonics/070-dc81f782a7.mp3"
+  },
+  {
+    "symbol": "読",
+    "reading": "よむ (yomu)",
+    "type": "Kanji",
+    "hint": "Palavras à esquerda e venda/leitura à direita: decodificar texto.",
+    "audio": "audio/mnemonics/071-479a48d2c0.mp3"
+  },
+  {
+    "symbol": "書",
+    "reading": "かく (kaku)",
+    "type": "Kanji",
+    "hint": "Mão/pincel em cima e sol/papel embaixo: escrever.",
+    "audio": "audio/mnemonics/072-a29f6f0625.mp3"
+  },
+  {
+    "symbol": "話",
+    "reading": "はなす (hanasu)",
+    "type": "Kanji",
+    "hint": "Palavra à esquerda e língua à direita: falar.",
+    "audio": "audio/mnemonics/073-2f78e3a989.mp3"
+  },
+  {
+    "symbol": "待",
+    "reading": "まつ (matsu)",
+    "type": "Kanji",
+    "hint": "Caminho à esquerda e templo/tempo à direita: ficar esperando no caminho.",
+    "audio": "audio/mnemonics/074-89b1072648.mp3"
+  },
+  {
+    "symbol": "行",
+    "reading": "いく (iku)",
+    "type": "Kanji",
+    "hint": "Parece uma estrada ou cruzamento: ir.",
+    "audio": "audio/mnemonics/075-2a2b777ae4.mp3"
+  },
+  {
+    "symbol": "来",
+    "reading": "くる (kuru)",
+    "type": "Kanji",
+    "hint": "Algo chegando ao centro, como trigo/pessoa vindo: vir.",
+    "audio": "audio/mnemonics/076-4b1d6193e4.mp3"
+  },
+  {
+    "symbol": "帰",
+    "reading": "かえる (kaeru)",
+    "type": "Kanji",
+    "hint": "Voltar para o lugar com vassoura/casa: retornar.",
+    "audio": "audio/mnemonics/077-8001d4cacb.mp3"
+  },
+  {
+    "symbol": "安",
+    "reading": "やすい (yasui)",
+    "type": "Kanji",
+    "hint": "Mulher sob teto: seguro, calmo, barato.",
+    "audio": "audio/mnemonics/078-3dfa9ea3c4.mp3"
+  },
+  {
+    "symbol": "高",
+    "reading": "たかい (takai)",
+    "type": "Kanji",
+    "hint": "Uma torre alta com telhado: alto/caro.",
+    "audio": "audio/mnemonics/079-b096b3f5ac.mp3"
+  },
+  {
+    "symbol": "新",
+    "reading": "あたらしい (atarashii)",
+    "type": "Kanji",
+    "hint": "Árvore cortada com machado: madeira nova.",
+    "audio": "audio/mnemonics/080-7b8a6bebd3.mp3"
+  },
+  {
+    "symbol": "古",
+    "reading": "ふるい (furui)",
+    "type": "Kanji",
+    "hint": "Dez sobre boca: histórias antigas contadas muitas vezes.",
+    "audio": "audio/mnemonics/081-89321831fa.mp3"
+  },
+  {
+    "symbol": "楽",
+    "reading": "たのしい (tanoshii)",
+    "type": "Kanji",
+    "hint": "Instrumento/árvore musical: prazer, música, diversão.",
+    "audio": "audio/mnemonics/082-ea9fad1aad.mp3"
+  },
+  {
+    "symbol": "薬",
+    "reading": "くすり (kusuri)",
+    "type": "Kanji",
+    "hint": "Erva em cima + prazer/cura embaixo: remédio.",
+    "audio": "audio/mnemonics/083-c98fb0141c.mp3"
+  },
+  {
+    "symbol": "病",
+    "reading": "びょう (byou)",
+    "type": "Kanji",
+    "hint": "Radical de doença envolvendo a pessoa: enfermidade.",
+    "audio": "audio/mnemonics/084-42342f7af1.mp3"
   }
 ]

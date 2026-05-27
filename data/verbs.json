@@ -3,264 +3,308 @@
     "front": "食べる",
     "reading": "たべる (taberu)",
     "meaning": "Comer",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/001-21dac08421.mp3"
   },
   {
     "front": "飲む",
     "reading": "のむ (nomu)",
     "meaning": "Beber",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/002-a1ac40e3c7.mp3"
   },
   {
     "front": "行く",
     "reading": "いく (iku)",
     "meaning": "Ir",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/003-638c386a4d.mp3"
   },
   {
     "front": "見る",
     "reading": "みる (miru)",
     "meaning": "Ver / olhar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/004-c88ba17eb4.mp3"
   },
   {
     "front": "する",
     "reading": "suru",
     "meaning": "Fazer",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/005-4aa34648b6.mp3"
   },
   {
     "front": "来る",
     "reading": "くる (kuru)",
     "meaning": "Vir",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/006-71400c113a.mp3"
   },
   {
     "front": "買う",
     "reading": "かう (kau)",
     "meaning": "Comprar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/007-3dcc92b12e.mp3"
   },
   {
     "front": "待つ",
     "reading": "まつ (matsu)",
     "meaning": "Esperar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/008-64df5a0685.mp3"
   },
   {
     "front": "わかる",
     "reading": "wakaru",
     "meaning": "Entender",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/009-278ac6fcc5.mp3"
   },
   {
     "front": "話す",
     "reading": "はなす (hanasu)",
     "meaning": "Falar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/010-26df935267.mp3"
   },
   {
     "front": "聞く",
     "reading": "きく (kiku)",
     "meaning": "Ouvir / perguntar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/011-abb639bc77.mp3"
   },
   {
     "front": "読む",
     "reading": "よむ (yomu)",
     "meaning": "Ler",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/012-7fc9b181f5.mp3"
   },
   {
     "front": "書く",
     "reading": "かく (kaku)",
     "meaning": "Escrever",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/013-5ae29a233e.mp3"
   },
   {
     "front": "帰る",
     "reading": "かえる (kaeru)",
     "meaning": "Voltar para casa",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/014-3a9f9a5edc.mp3"
   },
   {
     "front": "入る",
     "reading": "はいる (hairu)",
     "meaning": "Entrar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/015-31de7e1fb2.mp3"
   },
   {
     "front": "出る",
     "reading": "でる (deru)",
     "meaning": "Sair",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/016-f95fd9a2c7.mp3"
   },
   {
     "front": "寝る",
     "reading": "ねる (neru)",
     "meaning": "Dormir",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/017-bba9fee5be.mp3"
   },
   {
     "front": "起きる",
     "reading": "おきる (okiru)",
     "meaning": "Acordar / levantar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/018-5f1ce3d353.mp3"
   },
   {
     "front": "使う",
     "reading": "つかう (tsukau)",
     "meaning": "Usar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/019-a621473e79.mp3"
   },
   {
     "front": "働く",
     "reading": "はたらく (hataraku)",
     "meaning": "Trabalhar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/020-235f0f7e93.mp3"
   },
   {
     "front": "休む",
     "reading": "やすむ (yasumu)",
     "meaning": "Descansar / faltar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/021-e9e6d98e67.mp3"
   },
   {
     "front": "会う",
     "reading": "あう (au)",
     "meaning": "Encontrar alguém",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/022-848921dea9.mp3"
   },
   {
     "front": "持つ",
     "reading": "もつ (motsu)",
     "meaning": "Segurar / ter consigo",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/023-e74e618b53.mp3"
   },
   {
     "front": "忘れる",
     "reading": "わすれる (wasureru)",
     "meaning": "Esquecer",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/024-4da7571d82.mp3"
   },
   {
     "front": "教える",
     "reading": "おしえる (oshieru)",
     "meaning": "Ensinar / informar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/025-7e3f4f6bfc.mp3"
   },
   {
     "front": "売る",
     "reading": "うる (uru)",
     "meaning": "Vender",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/026-e2952d33ea.mp3"
   },
   {
     "front": "開ける",
     "reading": "あける (akeru)",
     "meaning": "Abrir",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/027-8d2086f342.mp3"
   },
   {
     "front": "閉める",
     "reading": "しめる (shimeru)",
     "meaning": "Fechar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/028-16ae24721e.mp3"
   },
   {
     "front": "始まる",
     "reading": "はじまる (hajimaru)",
     "meaning": "Começar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/029-9e8802daf9.mp3"
   },
   {
     "front": "終わる",
     "reading": "おわる (owaru)",
     "meaning": "Terminar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/030-b9a0bbca64.mp3"
   },
   {
     "front": "乗る",
     "reading": "のる (noru)",
     "meaning": "Entrar em veículo / montar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/031-86e4853a99.mp3"
   },
   {
     "front": "降りる",
     "reading": "おりる (oriru)",
     "meaning": "Descer de veículo",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/032-682cb461a0.mp3"
   },
   {
     "front": "歩く",
     "reading": "あるく (aruku)",
     "meaning": "Andar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/033-661cf28cf5.mp3"
   },
   {
     "front": "走る",
     "reading": "はしる (hashiru)",
     "meaning": "Correr",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/034-d8b32a6fe7.mp3"
   },
   {
     "front": "遊ぶ",
     "reading": "あそぶ (asobu)",
     "meaning": "Brincar / sair para se divertir",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/035-4e0d1a7748.mp3"
   },
   {
     "front": "勉強する",
     "reading": "べんきょうする (benkyou suru)",
     "meaning": "Estudar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/036-8cf41de960.mp3"
   },
   {
     "front": "練習する",
     "reading": "れんしゅうする (renshuu suru)",
     "meaning": "Praticar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/037-185303b1d9.mp3"
   },
   {
     "front": "電話する",
     "reading": "でんわする (denwa suru)",
     "meaning": "Telefonar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/038-fe8e50ef84.mp3"
   },
   {
     "front": "予約する",
     "reading": "よやくする (yoyaku suru)",
     "meaning": "Reservar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/039-9bc349e339.mp3"
   },
   {
     "front": "注文する",
     "reading": "ちゅうもんする (chuumon suru)",
     "meaning": "Fazer pedido",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/040-14982d1b16.mp3"
   },
   {
     "front": "払う",
     "reading": "はらう (harau)",
     "meaning": "Pagar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/041-6658327ea1.mp3"
   },
   {
     "front": "探す",
     "reading": "さがす (sagasu)",
     "meaning": "Procurar",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/042-31809ee567.mp3"
   },
   {
     "front": "なくす",
     "reading": "nakusu",
     "meaning": "Perder algo",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/043-f85cf92917.mp3"
   },
   {
     "front": "違う",
     "reading": "ちがう (chigau)",
     "meaning": "Ser diferente / estar errado",
-    "type": "Verbo"
+    "type": "Verbo",
+    "audio": "audio/verbs/044-95113cfcb5.mp3"
   }
 ]
