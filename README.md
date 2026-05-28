@@ -20,6 +20,18 @@ Gerar tudo:
 node scripts/generate-audio.mjs
 ```
 
+Gerar áudio das conversas com duas vozes:
+
+```bash
+node scripts/generate-audio.mjs --only=conversations
+```
+
+Por padrão, o speaker A usa `ja-JP-KeitaNeural` e o speaker B usa `ja-JP-NanamiNeural`. Dá para trocar:
+
+```bash
+node scripts/generate-audio.mjs --only=conversations --voice-a=ja-JP-KeitaNeural --voice-b=ja-JP-NanamiNeural
+```
+
 Voz padrão: `ja-JP-NanamiNeural`. Dá para trocar:
 
 ```bash

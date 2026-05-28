@@ -12,7 +12,8 @@ const dataFiles = [
   'particles',
   'words',
   'phrases',
-  'mnemonics'
+  'mnemonics',
+  'conversations'
 ];
 
 const args = new Map(
@@ -23,6 +24,8 @@ const args = new Map(
 );
 
 const voice = args.get('voice') || 'ja-JP-NanamiNeural';
+const speakerAVoice = args.get('voice-a') || 'ja-JP-KeitaNeural';
+const speakerBVoice = args.get('voice-b') || 'ja-JP-NanamiNeural';
 const rate = args.get('rate') || '-8%';
 const force = args.has('force');
 const limit = args.has('limit') ? Number(args.get('limit')) : Infinity;
@@ -37,7 +40,7 @@ function writeJson(path, data) {
 }
 
 function textForItem(item) {
-  return item.audioText || item.front || item.symbol;
+  return item.audioText || item.front || item.symbol || item.jp;
 }
 
 function hashText(text) {
@@ -47,6 +50,11 @@ function hashText(text) {
 function audioPathForItem(groupName, item, index) {
   const id = String(index + 1).padStart(3, '0');
   return `audio/${groupName}/${id}-${hashText(textForItem(item))}.mp3`;
+}
+
+function audioPathForConversationLine(conversation, line, index) {
+  const id = String(index + 1).padStart(2, '0');
+  return `audio/conversations/${conversation.id}/${id}-${line.speaker.toLowerCase()}-${hashText(textForItem(line))}.mp3`;
 }
 
 function hasUsableAudio(path) {
@@ -74,12 +82,12 @@ function getEdgeTtsCommand() {
   throw new Error('edge-tts nao foi encontrado. Tente: pip3 install edge-tts');
 }
 
-function generateAudio(edgeTts, text, outputPath) {
+function generateAudio(edgeTts, text, outputPath, selectedVoice = voice) {
   mkdirSync(dirname(outputPath), { recursive: true });
 
   const result = spawnSync(edgeTts.command, [
     ...edgeTts.baseArgs,
-    '--voice', voice,
+    '--voice', selectedVoice,
     `--rate=${rate}`,
     '--text', text,
     '--write-media', outputPath
@@ -91,6 +99,11 @@ function generateAudio(edgeTts, text, outputPath) {
   if (result.status !== 0) {
     throw new Error(result.stderr || result.stdout || `Falha gerando ${outputPath}`);
   }
+}
+
+function voiceForConversationLine(line) {
+  if (line.voice) return line.voice;
+  return line.speaker === 'A' ? speakerAVoice : speakerBVoice;
 }
 
 const edgeTts = getEdgeTtsCommand();
@@ -105,6 +118,41 @@ for (const groupName of only) {
   const jsonPath = `data/${groupName}.json`;
   const items = readJson(jsonPath);
   let changed = false;
+
+  if (groupName === 'conversations') {
+    for (const conversation of items) {
+      for (const [index, line] of conversation.lines.entries()) {
+        if (generated >= limit) break;
+
+        const text = textForItem(line);
+        if (!text) {
+          skipped++;
+          continue;
+        }
+
+        const relativeAudioPath = line.audio || audioPathForConversationLine(conversation, line, index);
+        const outputPath = join(process.cwd(), relativeAudioPath);
+        line.audio = relativeAudioPath;
+        line.voice = line.voice || voiceForConversationLine(line);
+        changed = true;
+
+        if (!force && hasUsableAudio(outputPath)) {
+          skipped++;
+          continue;
+        }
+
+        console.log(`Gerando ${relativeAudioPath}: ${text}`);
+        generateAudio(edgeTts, text, outputPath, line.voice);
+        generated++;
+      }
+    }
+
+    if (changed) {
+      writeJson(jsonPath, items);
+    }
+
+    continue;
+  }
 
   for (const [index, item] of items.entries()) {
     if (generated >= limit) break;

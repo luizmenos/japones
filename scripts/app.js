@@ -11,12 +11,14 @@ const dataFiles = [
 
 let deck = [];
 let mnemonics = [];
+let conversations = [];
 let currentIndex = 0;
 let currentDeck = [];
 let activeFilter = 'Todos';
 let searchQuery = '';
 let japaneseVoice = null;
 let currentAudio = null;
+let conversationPlaybackId = 0;
 
 const cardEl = document.getElementById('card');
 const frontText = document.getElementById('front-text');
@@ -32,9 +34,13 @@ const catalogView = document.getElementById('catalog-view');
 const mnemonicsView = document.getElementById('mnemonics-view');
 const mnemonicsGrid = document.getElementById('mnemonics-grid');
 const mnemonicsCount = document.getElementById('mnemonics-count');
+const conversationsView = document.getElementById('conversations-view');
+const conversationsList = document.getElementById('conversations-list');
+const conversationsCount = document.getElementById('conversations-count');
 const practiceView = document.getElementById('practice-view');
 const catalogLink = document.getElementById('catalog-link');
 const mnemonicsLink = document.getElementById('mnemonics-link');
+const conversationsLink = document.getElementById('conversations-link');
 const practiceLink = document.getElementById('practice-link');
 
 function registerServiceWorker() {
@@ -58,6 +64,7 @@ async function loadStudyData() {
   const cardGroups = await Promise.all(dataFiles.map((name) => loadJson(`data/${name}.json`)));
   deck = cardGroups.flat();
   mnemonics = await loadJson('data/mnemonics.json');
+  conversations = await loadJson('data/conversations.json');
   currentDeck = [...deck];
 }
 
@@ -120,6 +127,36 @@ function playPronunciation(audioPath, text) {
 
   currentAudio = new Audio(audioPath);
   currentAudio.play().catch(() => speakJapanese(text));
+}
+
+function playPronunciationAndWait(audioPath, text) {
+  return new Promise((resolve) => {
+    if (currentAudio) {
+      currentAudio.pause();
+      currentAudio.currentTime = 0;
+    }
+
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.cancel();
+    }
+
+    if (!audioPath) {
+      speakJapanese(text);
+      setTimeout(resolve, Math.max(1200, String(text).length * 180));
+      return;
+    }
+
+    currentAudio = new Audio(audioPath);
+    currentAudio.addEventListener('ended', resolve, { once: true });
+    currentAudio.addEventListener('error', () => {
+      speakJapanese(text);
+      setTimeout(resolve, Math.max(1200, String(text).length * 180));
+    }, { once: true });
+    currentAudio.play().catch(() => {
+      speakJapanese(text);
+      setTimeout(resolve, Math.max(1200, String(text).length * 180));
+    });
+  });
 }
 
 function audioButton(item, color = 'slate') {
@@ -245,6 +282,58 @@ function renderMnemonics() {
   `).join('');
 }
 
+function getConversationLineAudioText(line) {
+  return line.audioText || line.jp;
+}
+
+function lineSpeakerClass(speaker) {
+  return speaker === 'A'
+    ? 'border-red-100 bg-red-50/70'
+    : 'border-slate-200 bg-white';
+}
+
+function renderConversations() {
+  conversationsCount.innerText = `${conversations.length} dialogos disponiveis`;
+  conversationsList.innerHTML = conversations.map((conversation, conversationIndex) => `
+    <article class="rounded-lg border border-slate-200 bg-white p-5 shadow-sm">
+      <div class="mb-5 flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
+        <div>
+          <div class="mb-2 flex flex-wrap items-center gap-2">
+            <h3 class="text-xl font-black tracking-tight text-slate-900">${conversation.title}</h3>
+            <span class="rounded-full bg-slate-100 px-3 py-1 text-xs font-black uppercase tracking-widest text-slate-500">${conversation.setting}</span>
+          </div>
+          <p class="text-sm font-semibold leading-relaxed text-slate-500">${conversation.summary}</p>
+        </div>
+        <button type="button"
+          class="inline-flex min-h-10 items-center justify-center rounded-lg bg-slate-900 px-4 py-2 text-sm font-black text-white shadow-sm transition hover:bg-slate-800 active:scale-95"
+          onclick="playConversation(${conversationIndex})">
+          Tocar diálogo
+        </button>
+      </div>
+
+      <div class="flex flex-col gap-3">
+        ${conversation.lines.map((line, lineIndex) => `
+          <div class="rounded-lg border p-4 ${lineSpeakerClass(line.speaker)}">
+            <div class="mb-2 flex items-center justify-between gap-3">
+              <div class="text-xs font-black uppercase tracking-widest ${line.speaker === 'A' ? 'text-red-500' : 'text-slate-500'}">
+                ${line.speaker} · ${line.name}
+              </div>
+              ${audioButton({
+                audio: line.audio,
+                front: getConversationLineAudioText(line),
+                audioText: getConversationLineAudioText(line)
+              }, line.speaker === 'A' ? 'red' : 'slate')}
+            </div>
+            <div class="text-2xl font-black leading-snug text-slate-900">${line.jp}</div>
+            <div class="mt-2 text-sm font-bold leading-relaxed text-red-600">${line.romaji}</div>
+            <div class="mt-1 text-sm font-semibold leading-relaxed text-slate-600">${line.pt}</div>
+          </div>
+        `).join('')}
+      </div>
+    </article>
+  `).join('');
+}
+
 function updateCard() {
   if (!currentDeck.length) return;
 
@@ -301,12 +390,16 @@ function shuffleCards() {
 function showView() {
   const isPractice = window.location.hash === '#treino';
   const isMnemonics = window.location.hash === '#mnemonicos';
-  catalogView.classList.toggle('hidden', isPractice || isMnemonics);
+  const isConversations = window.location.hash === '#conversas';
+  catalogView.classList.toggle('hidden', isPractice || isMnemonics || isConversations);
   mnemonicsView.classList.toggle('hidden', !isMnemonics);
   mnemonicsView.classList.toggle('flex', isMnemonics);
+  conversationsView.classList.toggle('hidden', !isConversations);
+  conversationsView.classList.toggle('flex', isConversations);
   practiceView.classList.toggle('hidden', !isPractice);
-  catalogLink.setAttribute('aria-current', !isPractice && !isMnemonics ? 'page' : 'false');
+  catalogLink.setAttribute('aria-current', !isPractice && !isMnemonics && !isConversations ? 'page' : 'false');
   mnemonicsLink.setAttribute('aria-current', isMnemonics ? 'page' : 'false');
+  conversationsLink.setAttribute('aria-current', isConversations ? 'page' : 'false');
   practiceLink.setAttribute('aria-current', isPractice ? 'page' : 'false');
 }
 
@@ -326,6 +419,20 @@ document.addEventListener('keydown', (e) => {
   if (e.code === 'ArrowLeft') prevCard();
 });
 
+async function playConversation(conversationIndex) {
+  const conversation = conversations[conversationIndex];
+  if (!conversation) return;
+
+  conversationPlaybackId++;
+  const playbackId = conversationPlaybackId;
+
+  for (const line of conversation.lines) {
+    if (playbackId !== conversationPlaybackId) return;
+    await playPronunciationAndWait(line.audio, getConversationLineAudioText(line));
+    await new Promise((resolve) => setTimeout(resolve, 350));
+  }
+}
+
 window.addEventListener('hashchange', showView);
 searchInput.addEventListener('input', (event) => setSearchQuery(event.target.value));
 
@@ -339,6 +446,7 @@ loadStudyData()
     renderFilters();
     renderCatalog();
     renderMnemonics();
+    renderConversations();
     updateCard();
     showView();
     registerServiceWorker();

@@ -53,6 +53,8 @@
           aria-current="page">Catálogo</a>
         <a id="mnemonics-link" href="#mnemonicos"
           class="mode-button flex-1 rounded-lg border border-transparent px-4 py-2 text-center text-sm font-bold text-slate-600 transition sm:flex-none">Mnemônicos</a>
+        <a id="conversations-link" href="#conversas"
+          class="mode-button flex-1 rounded-lg border border-transparent px-4 py-2 text-center text-sm font-bold text-slate-600 transition sm:flex-none">Conversas</a>
         <a id="practice-link" href="#treino"
           class="mode-button flex-1 rounded-lg border border-transparent px-4 py-2 text-center text-sm font-bold text-slate-600 transition sm:flex-none">Treino</a>
       </nav>
@@ -84,6 +86,15 @@
       </div>
 
       <div id="mnemonics-grid" class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3"></div>
+    </section>
+
+    <section id="conversations-view" class="hidden flex-col gap-5">
+      <div>
+        <h2 class="text-2xl font-black tracking-tight text-slate-900">Conversas</h2>
+        <p id="conversations-count" class="mt-1 text-sm font-medium text-slate-500">Diálogos fictícios com duas pessoas.</p>
+      </div>
+
+      <div id="conversations-list" class="flex flex-col gap-5"></div>
     </section>
 
     <section id="practice-view" class="hidden">

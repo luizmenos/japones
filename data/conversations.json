@@ -1,0 +1,303 @@
+[
+  {
+    "id": "comprando-algo",
+    "title": "Perguntando o preço",
+    "setting": "Loja",
+    "summary": "Cliente pergunta o preço, decide comprar e paga.",
+    "lines": [
+      {
+        "speaker": "A",
+        "name": "Cliente",
+        "jp": "すみません、これはいくらですか。",
+        "romaji": "Sumimasen, kore wa ikura desu ka.",
+        "pt": "Com licença, quanto custa isto?",
+        "audio": "audio/conversations/comprando-algo/01-a-2ec9fc8b78.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      },
+      {
+        "speaker": "B",
+        "name": "Atendente",
+        "jp": "それは千二百円です。",
+        "romaji": "Sore wa sen nihyaku en desu.",
+        "pt": "Isso custa 1.200 ienes.",
+        "audio": "audio/conversations/comprando-algo/02-b-7ad03c5bb3.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      },
+      {
+        "speaker": "A",
+        "name": "Cliente",
+        "jp": "少し高いですね。",
+        "romaji": "Sukoshi takai desu ne.",
+        "pt": "É um pouco caro, né?",
+        "audio": "audio/conversations/comprando-algo/03-a-dc5af557f4.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      },
+      {
+        "speaker": "B",
+        "name": "Atendente",
+        "jp": "はい、でもとても人気があります。",
+        "romaji": "Hai, demo totemo ninki ga arimasu.",
+        "pt": "Sim, mas é muito popular.",
+        "audio": "audio/conversations/comprando-algo/04-b-6ed6876c42.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      },
+      {
+        "speaker": "A",
+        "name": "Cliente",
+        "jp": "じゃあ、これをください。",
+        "romaji": "Jaa, kore o kudasai.",
+        "pt": "Então, vou levar este.",
+        "audio": "audio/conversations/comprando-algo/05-a-aa0fef6937.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      },
+      {
+        "speaker": "B",
+        "name": "Atendente",
+        "jp": "ありがとうございます。カードで払いますか。",
+        "romaji": "Arigatou gozaimasu. Kaado de haraimasu ka.",
+        "pt": "Obrigado. Vai pagar com cartão?",
+        "audio": "audio/conversations/comprando-algo/06-b-5724768094.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      },
+      {
+        "speaker": "A",
+        "name": "Cliente",
+        "jp": "はい、カードでお願いします。",
+        "romaji": "Hai, kaado de onegaishimasu.",
+        "pt": "Sim, no cartão, por favor.",
+        "audio": "audio/conversations/comprando-algo/07-a-535c16244b.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      }
+    ]
+  },
+  {
+    "id": "nao-vou-comprar",
+    "title": "Decidindo não comprar",
+    "setting": "Loja",
+    "summary": "Cliente pergunta o preço, acha caro e recusa de forma educada.",
+    "lines": [
+      {
+        "speaker": "A",
+        "name": "Cliente",
+        "jp": "すみません、これはいくらですか。",
+        "romaji": "Sumimasen, kore wa ikura desu ka.",
+        "pt": "Com licença, quanto custa isto?",
+        "audio": "audio/conversations/nao-vou-comprar/01-a-2ec9fc8b78.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      },
+      {
+        "speaker": "B",
+        "name": "Atendente",
+        "jp": "三千円です。",
+        "romaji": "Sanzen en desu.",
+        "pt": "São 3.000 ienes.",
+        "audio": "audio/conversations/nao-vou-comprar/02-b-429099f132.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      },
+      {
+        "speaker": "A",
+        "name": "Cliente",
+        "jp": "そうですか。ちょっと高いです。",
+        "romaji": "Sou desu ka. Chotto takai desu.",
+        "pt": "Entendi. Está um pouco caro.",
+        "audio": "audio/conversations/nao-vou-comprar/03-a-f7f9b4552c.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      },
+      {
+        "speaker": "B",
+        "name": "Atendente",
+        "jp": "他のものもありますよ。",
+        "romaji": "Hoka no mono mo arimasu yo.",
+        "pt": "Também temos outras coisas.",
+        "audio": "audio/conversations/nao-vou-comprar/04-b-7010586abc.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      },
+      {
+        "speaker": "A",
+        "name": "Cliente",
+        "jp": "ありがとうございます。今日は見るだけです。",
+        "romaji": "Arigatou gozaimasu. Kyou wa miru dake desu.",
+        "pt": "Obrigado. Hoje estou só olhando.",
+        "audio": "audio/conversations/nao-vou-comprar/05-a-740562953c.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      }
+    ]
+  },
+  {
+    "id": "restaurante-pedido",
+    "title": "Pedindo comida",
+    "setting": "Restaurante",
+    "summary": "Cliente pede recomendação, faz o pedido e pergunta sobre pagamento.",
+    "lines": [
+      {
+        "speaker": "A",
+        "name": "Cliente",
+        "jp": "すみません、おすすめは何ですか。",
+        "romaji": "Sumimasen, osusume wa nan desu ka.",
+        "pt": "Com licença, qual é a recomendação?",
+        "audio": "audio/conversations/restaurante-pedido/01-a-6993395263.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      },
+      {
+        "speaker": "B",
+        "name": "Atendente",
+        "jp": "ラーメンがおすすめです。",
+        "romaji": "Raamen ga osusume desu.",
+        "pt": "Recomendo o ramen.",
+        "audio": "audio/conversations/restaurante-pedido/02-b-a460f9342d.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      },
+      {
+        "speaker": "A",
+        "name": "Cliente",
+        "jp": "辛くないですか。",
+        "romaji": "Karakunai desu ka.",
+        "pt": "Não é apimentado?",
+        "audio": "audio/conversations/restaurante-pedido/03-a-7a72886420.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      },
+      {
+        "speaker": "B",
+        "name": "Atendente",
+        "jp": "辛くないです。とてもおいしいです。",
+        "romaji": "Karakunai desu. Totemo oishii desu.",
+        "pt": "Não é apimentado. É muito gostoso.",
+        "audio": "audio/conversations/restaurante-pedido/04-b-c717688cf4.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      },
+      {
+        "speaker": "A",
+        "name": "Cliente",
+        "jp": "じゃあ、ラーメンを一つお願いします。",
+        "romaji": "Jaa, raamen o hitotsu onegaishimasu.",
+        "pt": "Então, um ramen, por favor.",
+        "audio": "audio/conversations/restaurante-pedido/05-a-3593b72db4.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      },
+      {
+        "speaker": "A",
+        "name": "Cliente",
+        "jp": "カードで払えますか。",
+        "romaji": "Kaado de haraemasu ka.",
+        "pt": "Posso pagar com cartão?",
+        "audio": "audio/conversations/restaurante-pedido/06-a-80249f87b1.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      },
+      {
+        "speaker": "B",
+        "name": "Atendente",
+        "jp": "はい、大丈夫です。",
+        "romaji": "Hai, daijoubu desu.",
+        "pt": "Sim, tudo bem.",
+        "audio": "audio/conversations/restaurante-pedido/07-b-f83e314d4b.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    ]
+  },
+  {
+    "id": "estacao-direcao",
+    "title": "Perguntando direção",
+    "setting": "Estação",
+    "summary": "Pessoa pergunta onde fica a estação e recebe instruções simples.",
+    "lines": [
+      {
+        "speaker": "A",
+        "name": "Viajante",
+        "jp": "すみません、駅はどこですか。",
+        "romaji": "Sumimasen, eki wa doko desu ka.",
+        "pt": "Com licença, onde fica a estação?",
+        "audio": "audio/conversations/estacao-direcao/01-a-77427f3440.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      },
+      {
+        "speaker": "B",
+        "name": "Pessoa local",
+        "jp": "まっすぐ行って、右に曲がってください。",
+        "romaji": "Massugu itte, migi ni magatte kudasai.",
+        "pt": "Siga em frente e vire à direita, por favor.",
+        "audio": "audio/conversations/estacao-direcao/02-b-8301c61191.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      },
+      {
+        "speaker": "A",
+        "name": "Viajante",
+        "jp": "ここから近いですか。",
+        "romaji": "Koko kara chikai desu ka.",
+        "pt": "É perto daqui?",
+        "audio": "audio/conversations/estacao-direcao/03-a-73b5dd3366.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      },
+      {
+        "speaker": "B",
+        "name": "Pessoa local",
+        "jp": "はい、歩いて五分ぐらいです。",
+        "romaji": "Hai, aruite gofun gurai desu.",
+        "pt": "Sim, são mais ou menos cinco minutos andando.",
+        "audio": "audio/conversations/estacao-direcao/04-b-909bdd75ee.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      },
+      {
+        "speaker": "A",
+        "name": "Viajante",
+        "jp": "ありがとうございます。",
+        "romaji": "Arigatou gozaimasu.",
+        "pt": "Muito obrigado.",
+        "audio": "audio/conversations/estacao-direcao/05-a-29162a7b71.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      }
+    ]
+  },
+  {
+    "id": "nao-entendi",
+    "title": "Pedindo para repetir",
+    "setting": "Conversa geral",
+    "summary": "Pessoa não entende e pede fala mais lenta.",
+    "lines": [
+      {
+        "speaker": "A",
+        "name": "Estudante",
+        "jp": "すみません、日本語が少ししかわかりません。",
+        "romaji": "Sumimasen, nihongo ga sukoshi shika wakarimasen.",
+        "pt": "Desculpa, eu só entendo um pouco de japonês.",
+        "audio": "audio/conversations/nao-entendi/01-a-77de6c3a87.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      },
+      {
+        "speaker": "B",
+        "name": "Pessoa local",
+        "jp": "大丈夫です。ゆっくり話します。",
+        "romaji": "Daijoubu desu. Yukkuri hanashimasu.",
+        "pt": "Tudo bem. Vou falar devagar.",
+        "audio": "audio/conversations/nao-entendi/02-b-f57050032c.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      },
+      {
+        "speaker": "A",
+        "name": "Estudante",
+        "jp": "もう一度お願いします。",
+        "romaji": "Mou ichido onegaishimasu.",
+        "pt": "Mais uma vez, por favor.",
+        "audio": "audio/conversations/nao-entendi/03-a-2cbf885f7a.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      },
+      {
+        "speaker": "B",
+        "name": "Pessoa local",
+        "jp": "はい、もう一度言います。",
+        "romaji": "Hai, mou ichido iimasu.",
+        "pt": "Sim, vou dizer mais uma vez.",
+        "audio": "audio/conversations/nao-entendi/04-b-d9fc4bdd34.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      },
+      {
+        "speaker": "A",
+        "name": "Estudante",
+        "jp": "ありがとうございます。わかりました。",
+        "romaji": "Arigatou gozaimasu. Wakarimashita.",
+        "pt": "Obrigado. Entendi.",
+        "audio": "audio/conversations/nao-entendi/05-a-7da39216d8.mp3",
+        "voice": "ja-JP-KeitaNeural"
+      }
+    ]
+  }
+]
